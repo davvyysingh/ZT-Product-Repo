@@ -39,6 +39,7 @@ A compact, rugged 1x20 micro red dot with a crisp 3 MOA dot, 11 dial-set brightn
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | NA |
+| Product Weight | 5.11oz (145g) |
 | Packaged Weight | 14.4oz (408g) |
 | Packaged Dimensions (H×W×L, in) | 2.7 x 3.5 x 6.8 |
 | Color | Black |

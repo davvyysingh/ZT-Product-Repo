@@ -39,6 +39,7 @@ The Flat Dark Earth version of the compact 1x20 prism sight — glass-etched Pri
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | Fixed – 100m (110yd) |
+| Product Weight | 7.55oz (214g) |
 | Packaged Weight | 31.2oz (885g) |
 | Packaged Dimensions (H×W×L, in) | 3 x 3.9 x 7.2 |
 | Color | FDE |

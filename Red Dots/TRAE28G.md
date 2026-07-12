@@ -39,6 +39,7 @@ The green-illumination version of the premium enclosed-emitter H.A.L.O reflex si
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | NA |
+| Product Weight | 2.75oz (78g) |
 | Packaged Weight | 14.4oz (408g) |
 | Packaged Dimensions (H×W×L, in) | 3 x 3.9 x 6.8 |
 | Color | Black |

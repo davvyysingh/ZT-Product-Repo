@@ -37,6 +37,7 @@ A 30mm-tube, second-focal-plane 1–8×24 HD LPVO with the illuminated RAR retic
 | Field of View @ 100 Meters | Low: 41.6m; High: 5.1m |
 | Field of View @ 100 Yards | Low: 124.8ft; High: 15.3ft |
 | Maintube Material | 7075 – T6 |
+| Product Weight | 22.0oz (624g) |
 | Packaged Weight | 36.3oz (1030g) |
 | Packaged Dimensions (H×W×L, in) | 3.4 x 4.4 x 18.1 |
 | Lens Coating | FMC |

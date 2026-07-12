@@ -37,6 +37,7 @@ A 30mm-tube, first-focal-plane 3–18×50 long-range hunting scope with the illu
 | Field of View @ 100 Meters | Low: 11.2m; High: 1.9m |
 | Field of View @ 100 Yards | Low: 33.6ft; High: 5.7ft |
 | Maintube Material | 6061-T6 |
+| Product Weight | 29.1oz (825g) |
 | Packaged Weight | 48.0oz (1361g) |
 | Packaged Dimensions (H×W×L, in) | 3.7 x 4.6 x 17.9 |
 | Lens Coating | FMC |

@@ -37,6 +37,7 @@ The illuminated version of the 30mm-tube, second-focal-plane 2.5–15×50 HD hun
 | Field of View @ 100 Meters | Low: 13.5m; High: 2.3m |
 | Field of View @ 100 Yards | Low: 40.5ft; High: 6.9ft |
 | Maintube Material | 6061-T6 |
+| Product Weight | 25.0oz (709g) |
 | Packaged Weight | 41.6oz (1179g) |
 | Packaged Dimensions (H×W×L, in) | 3.3 x 4.4 x 17.8 |
 | Lens Coating | FMC |

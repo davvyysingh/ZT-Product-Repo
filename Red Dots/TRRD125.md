@@ -39,6 +39,7 @@ A premium enclosed 1x25 digital red dot from the Trace line — the Rapid Aiming
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | NA |
+| Product Weight | 3.10oz (88g) |
 | Packaged Weight | 14.4oz (408g) |
 | Packaged Dimensions (H×W×L, in) | 2.7 x 3.5 x 6.8 |
 | Color | Black |

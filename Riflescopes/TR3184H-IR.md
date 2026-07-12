@@ -37,6 +37,7 @@ A 30mm-tube, first-focal-plane 3–18×44 backcountry hunting scope with the ill
 | Field of View @ 100 Meters | Low: 12.4m; High: 2.1m |
 | Field of View @ 100 Yards | Low: 37.1ft; High: 6.2ft |
 | Maintube Material | 6061-T6 |
+| Product Weight | 26.1oz (740g) |
 | Packaged Weight | 95.2oz (2699g) |
 | Packaged Dimensions (H×W×L, in) | – |
 | Lens Coating | FMC |

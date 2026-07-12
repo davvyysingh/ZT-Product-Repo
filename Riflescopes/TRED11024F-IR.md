@@ -37,6 +37,7 @@ A 34mm-tube, first-focal-plane 1–10×24 LPVO with ED glass, the illuminated RM
 | Field of View @ 100 Meters | 39.1m (1x) – 3.91m (10x) |
 | Field of View @ 100 Yards | Low: 117.3ft; High: 11.73ft |
 | Maintube Material | 6061-T6 |
+| Product Weight | 25.6oz (727g) |
 | Packaged Weight | 48.0oz (1361g) |
 | Packaged Dimensions (H×W×L, in) | 3.4 x 4.4 x 18.1 |
 | Lens Coating | FMC |

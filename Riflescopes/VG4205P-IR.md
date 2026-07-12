@@ -37,6 +37,7 @@ The illuminated version of the 30mm-tube, second-focal-plane 4–20×50 — a PH
 | Field of View @ 100 Meters | Low: 6.8m; High: 1.7m |
 | Field of View @ 100 Yards | Low: 20.4ft; High: 5.1ft |
 | Maintube Material | 6061-T6 |
+| Product Weight | 28.2oz (800g) |
 | Packaged Weight | 51.5oz (1461g) |
 | Packaged Dimensions (H×W×L, in) | 3.8 x 4.5 x 16.6 |
 | Lens Coating | FMC |

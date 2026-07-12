@@ -35,6 +35,7 @@ The flagship ED-tier 8x42 Vengeance — premium ED glass, dielectrically coated 
 | Diopter Compensation | ±3 |
 | Interpupillary Adjustment | 56-74mm |
 | Waterproof | Yes |
+| Product Weight | 24.2oz (686g) |
 | Packaged Weight | 48.0oz (1361g) |
 | Resolution | 4.8″ |
 | Number of Lenses | 8pcs/6groups |

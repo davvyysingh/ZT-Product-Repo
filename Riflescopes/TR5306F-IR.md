@@ -37,6 +37,7 @@ A Japanese-made, 34mm one-piece, first-focal-plane 5–30×56 ELR and PRS rifles
 | Field of View @ 100 Meters | Low: 7.4m; High: 1.2m |
 | Field of View @ 100 Yards | Low: 22.2ft; High: 3.6ft |
 | Maintube Material | 6061-T6 |
+| Product Weight | 35.7oz (1012g) |
 | Packaged Weight | 95.2oz (2699g) |
 | Packaged Dimensions (H×W×L, in) | 4.72 x 8.46 x 19.3 |
 | Lens Coating | FMC |

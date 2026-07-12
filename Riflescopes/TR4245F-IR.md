@@ -37,6 +37,7 @@ A Japanese-made, 30mm one-piece, first-focal-plane 4–24×50 PRS and precision 
 | Field of View @ 100 Meters | Low: 9.7m; High: 1.6m |
 | Field of View @ 100 Yards | Low: 29.1ft; High: 4.8ft |
 | Maintube Material | 6061-T6 |
+| Product Weight | 27.9oz (790g) |
 | Packaged Weight | 52.0oz (1474g) |
 | Packaged Dimensions (H×W×L, in) | 3.8 x 4.5 x 17.8 |
 | Lens Coating | FMC |

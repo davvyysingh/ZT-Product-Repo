@@ -37,6 +37,7 @@ The Flat Dark Earth version of the 30mm-tube, second-focal-plane 1–4×24 LPVO 
 | Field of View @ 100 Meters | Low: 35.66m; High: 8.73m |
 | Field of View @ 100 Yards | Low: 106.93ft; High: 26.18ft |
 | Maintube Material | 6061-T6 |
+| Product Weight | 21.02oz (596g) |
 | Packaged Weight | 48.0oz (1361g) |
 | Packaged Dimensions (H×W×L, in) | 3.4 x 4 x 12.8 |
 | Lens Coating | FMC |

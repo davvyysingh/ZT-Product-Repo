@@ -37,6 +37,7 @@ A 30mm-tube, first-focal-plane 6–24×50 HD scope with the illuminated, glass-e
 | Field of View @ 100 Meters | Low: 5.9m; High: 1.5m |
 | Field of View @ 100 Yards | Low: 17.7ft; High: 4.5ft |
 | Maintube Material | 6061-T6 |
+| Product Weight | 26.9oz (764g) |
 | Packaged Weight | 48.0oz (1361g) |
 | Packaged Dimensions (H×W×L, in) | 3.7 x 4.5 x 18.3 |
 | Lens Coating | FMC |

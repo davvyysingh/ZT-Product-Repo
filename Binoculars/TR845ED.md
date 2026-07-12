@@ -35,6 +35,7 @@ ZeroTech's flagship binocular — an 8x45 with ED glass, premium Abbe-Koenig pri
 | Diopter Compensation | ±3 |
 | Interpupillary Adjustment | 57-75mm |
 | Waterproof | Yes |
+| Product Weight | 34.4oz (975g) |
 | Packaged Weight | 64.0oz (1814g) |
 | Resolution | 3.88″ |
 | Number of Lenses | 9pcs/7groups |

@@ -39,6 +39,7 @@ A full-size 28mm open reflex sight on the RMR footprint with a 3 MOA green dot, 
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | NA |
+| Product Weight | 3.10oz (88g) |
 | Packaged Weight | 16.0oz (454g) |
 | Packaged Dimensions (H×W×L, in) | 3 x 4 x 6.8 |
 | Color | Black |

@@ -37,6 +37,7 @@ A 30mm-tube, second-focal-plane 3–18×56 HD scope with the illuminated, glass-
 | Field of View @ 100 Meters | Low: 11.1m; High: 1.9m |
 | Field of View @ 100 Yards | Low: 33.3ft; High: 5.7ft |
 | Maintube Material | 6061-T6 |
+| Product Weight | 30.4oz (862g) |
 | Packaged Weight | 57.1oz (1619g) |
 | Packaged Dimensions (H×W×L, in) | 3.8 x 4.7 x 18.8 |
 | Lens Coating | FMC |

@@ -39,6 +39,7 @@ The Flat Dark Earth, green-illumination version of the full-size 28mm open refle
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | NA |
+| Product Weight | 2.58oz (73g) |
 | Packaged Weight | 16.0oz (454g) |
 | Packaged Dimensions (H×W×L, in) | 3 x 3.9 x 6.8 |
 | Color | FDE |

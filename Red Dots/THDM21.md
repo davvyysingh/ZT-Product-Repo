@@ -39,6 +39,7 @@ An ultra-light (19g) open micro reflex sight on the Shield RMSc footprint with a
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | NA |
+| Product Weight | 0.67oz (19g) |
 | Packaged Weight | 16.0oz (454g) |
 | Packaged Dimensions (H×W×L, in) | 2.3 x 3 x 5.8 |
 | Color | Black |
