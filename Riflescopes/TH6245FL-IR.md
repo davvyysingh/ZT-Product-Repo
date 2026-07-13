@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive / Thrive HD (International)
 has_video: false
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
 # ZeroTech Thrive HD 6-24x50 FFP LR Hunter Illuminated (TH6245FL-IR)
@@ -37,7 +37,7 @@ A 30mm-tube, first-focal-plane 6–24×50 HD scope with the illuminated, glass-e
 | Field of View @ 100 Meters | Low: 5.9m; High: 1.5m |
 | Field of View @ 100 Yards | Low: 17.7ft; High: 4.5ft |
 | Maintube Material | 6061-T6 |
-| Product Weight | 26.9oz (764g) |
+| Product Weight | 25.7oz (729g) |
 | Packaged Weight | 48.0oz (1361g) |
 | Packaged Dimensions (H×W×L, in) | 3.7 x 4.5 x 18.3 |
 | Lens Coating | FMC |
@@ -82,4 +82,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive /
 zerotech, thrive, hd, riflescope, 6-24x50, ffp, first-focal-plane, lr-hunter, illuminated, 30mm, mrad, capped-turrets, side-parallax, glass-etched, hd-glass, weathershield, fmc, ipx7, big-game, long-range, precision
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

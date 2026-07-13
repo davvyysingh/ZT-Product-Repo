@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive / Thrive HD (International)
 has_video: false
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
 # ZeroTech Thrive HD 6-24x50 PHR 2 Illuminated (TH6245P-IR)
@@ -37,7 +37,7 @@ The illuminated version of the 30mm-tube, second-focal-plane 6–24×50 HD scope
 | Field of View @ 100 Meters | Low: 5.9m; High: 1.5m |
 | Field of View @ 100 Yards | Low: 17.7ft; High: 4.5ft |
 | Maintube Material | 6061-T6 |
-| Product Weight | 27.2oz (771g) |
+| Product Weight | 27.1oz (767g) |
 | Packaged Weight | 40.6oz (1152g) |
 | Packaged Dimensions (H×W×L, in) | 3.4 x 4.5 x 18 |
 | Lens Coating | FMC |
@@ -81,4 +81,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive /
 zerotech, thrive, hd, riflescope, 6-24x50, sfp, second-focal-plane, phr-2, phr-2-illuminated, illuminated, 30mm, 0.25-moa, capped-turrets, side-parallax, glass-etched, hd-glass, weathershield, fmc, ipx7, big-game, long-range, precision, low-light
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

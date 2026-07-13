@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive / Thrive HD (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
 # ZeroTech Thrive HD 3-18x56 PHR 2 Illuminated (TH3186P-IR)
@@ -37,7 +37,7 @@ A 30mm-tube, second-focal-plane 3–18×56 HD scope with the illuminated, glass-
 | Field of View @ 100 Meters | Low: 11.1m; High: 1.9m |
 | Field of View @ 100 Yards | Low: 33.3ft; High: 5.7ft |
 | Maintube Material | 6061-T6 |
-| Product Weight | 30.4oz (862g) |
+| Product Weight | 28.8oz (816g) |
 | Packaged Weight | 57.1oz (1619g) |
 | Packaged Dimensions (H×W×L, in) | 3.8 x 4.7 x 18.8 |
 | Lens Coating | FMC |
@@ -86,4 +86,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive /
 zerotech, thrive, hd, riflescope, 3-18x56, sfp, second-focal-plane, phr-2, phr-2-illuminated, illuminated, 30mm, 0.25-moa, capped-turrets, side-parallax, hmi, glass-etched, hd-glass, weathershield, fmc, ipx7, big-game, long-range, low-light, spotlighting
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive / Thrive HD (International)
 has_video: false
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
 # ZeroTech Thrive HD 4-16x44 FFP LR Hunter Illuminated (TH4164FL-IR)
@@ -37,7 +37,7 @@ A 30mm-tube, first-focal-plane 4–16×44 HD scope with the illuminated, glass-e
 | Field of View @ 100 Meters | Low: 9.2m; High: 2.3m |
 | Field of View @ 100 Yards | Low: 27.6ft; High: 6.9ft |
 | Maintube Material | 6061-T6 |
-| Product Weight | 23.0oz (653g) |
+| Product Weight | 24.3oz (690g) |
 | Packaged Weight | 48.0oz (1361g) |
 | Packaged Dimensions (H×W×L, in) | 3.6 x 4.5 x 17.9 |
 | Lens Coating | FMC |
@@ -82,4 +82,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive /
 zerotech, thrive, hd, riflescope, 4-16x44, ffp, first-focal-plane, lr-hunter, illuminated, 30mm, mrad, capped-turrets, side-parallax, glass-etched, hd-glass, weathershield, fmc, ipx7, big-game, hunting, rimfire
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

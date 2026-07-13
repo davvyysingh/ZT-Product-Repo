@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive / Thrive HD (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
 # ZeroTech Thrive HD 2.5-15x50 PHR 2 Illuminated (TH2155P-IR)
@@ -37,7 +37,7 @@ The illuminated version of the 30mm-tube, second-focal-plane 2.5–15×50 HD hun
 | Field of View @ 100 Meters | Low: 13.5m; High: 2.3m |
 | Field of View @ 100 Yards | Low: 40.5ft; High: 6.9ft |
 | Maintube Material | 6061-T6 |
-| Product Weight | 25.0oz (709g) |
+| Product Weight | 26.1oz (740g) |
 | Packaged Weight | 41.6oz (1179g) |
 | Packaged Dimensions (H×W×L, in) | 3.3 x 4.4 x 17.8 |
 | Lens Coating | FMC |
@@ -88,4 +88,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive /
 zerotech, thrive, hd, riflescope, 2.5-15x50, sfp, second-focal-plane, phr-2, phr-2-illuminated, illuminated, 30mm, 0.25-moa, capped-turrets, side-parallax, glass-etched, hd-glass, weathershield, fmc, ipx7, big-game, hunting, low-light
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*
