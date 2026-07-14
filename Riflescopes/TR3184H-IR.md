@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Trace / Trace Advanced (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
 # ZeroTech Trace Advanced 3-18x44 FFP THLR Illuminated Shoot2Hunt (TR3184H-IR)
@@ -37,7 +37,7 @@ A 30mm-tube, first-focal-plane 3–18×44 backcountry hunting scope with the ill
 | Field of View @ 100 Meters | Low: 12.4m; High: 2.1m |
 | Field of View @ 100 Yards | Low: 37.1ft; High: 6.2ft |
 | Maintube Material | 6061-T6 |
-| Product Weight | 26.1oz (740g) |
+| Product Weight | 25.8oz (730g) |
 | Packaged Weight | 95.2oz (2699g) |
 | Packaged Dimensions (H×W×L, in) | – |
 | Lens Coating | FMC |
@@ -92,4 +92,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace / 
 zerotech, trace, trace-advanced, riflescope, 3-18x44, ffp, first-focal-plane, thlr, shoot2hunt, s2h, illuminated, 30mm, mrad, zero-stop, capped-windage, side-parallax, sunshade, fmc, ipx7, long-range, precision, backcountry, hunting, low-light
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*
