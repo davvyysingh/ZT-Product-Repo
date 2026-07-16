@@ -1,6 +1,6 @@
 ---
 sku: TR3185FL-IR
-model_name: Trace 3-18x50 FFP LR Hunter Illuminated
+model_name: Trace 3-18x50 FFP – LR Hunter Illuminated
 category: Riflescopes
 family: Trace
 series: Trace
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: Black
 manual_ref: Trace / Trace Advanced (International)
 has_video: false
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Trace 3-18x50 FFP LR Hunter Illuminated (TR3185FL-IR)
+# ZeroTech Trace 3-18x50 FFP – LR Hunter Illuminated (TR3185FL-IR)
 
 ## Summary
 A 30mm-tube, first-focal-plane 3–18×50 long-range hunting scope with the illuminated, glass-etched LR Hunter reticle, 0.1 MRAD zero-stop elevation, capped windage, side parallax, and 92% light transmission — built on the popular 4.5-27x50 FFP platform.
@@ -83,4 +83,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace / 
 zerotech, trace, riflescope, 3-18x50, ffp, first-focal-plane, lr-hunter, illuminated, 30mm, mrad, zero-stop, capped-windage, pts, side-parallax, glass-etched, hd-glass, weathershield, fmc, ipx7, long-range, precision, hunting, low-light
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

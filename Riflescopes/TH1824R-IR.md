@@ -1,6 +1,6 @@
 ---
 sku: TH1824R-IR
-model_name: Thrive HD 1-8x24 RAR Illuminated
+model_name: Thrive HD 1-8x24 LPVO – RAR Illuminated
 category: Riflescopes
 family: Thrive
 series: HD
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive / Thrive HD (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Thrive HD 1-8x24 RAR Illuminated (TH1824R-IR)
+# ZeroTech Thrive HD 1-8x24 LPVO – RAR Illuminated (TH1824R-IR)
 
 ## Summary
 A 30mm-tube, second-focal-plane 1–8×24 HD LPVO with the illuminated RAR reticle, true 1× speed, capped 0.25 MOA turrets, a wide field of view, and a tough 7075-T6 chassis — built for fast, versatile field shooting.
@@ -89,4 +89,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive /
 zerotech, thrive, hd, riflescope, lpvo, 1-8x24, sfp, second-focal-plane, rar, rar-illuminated, illuminated, 30mm, 7075-t6, 0.25-moa, capped-turrets, fixed-parallax, hd-glass, fmc, ipx7, ar-platform, msr, hunting, night-vision-compatible
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

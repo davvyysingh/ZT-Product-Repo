@@ -1,6 +1,6 @@
 ---
 sku: TR4245F-IR
-model_name: Trace Advanced 4-24x50 FFP RMG Illuminated
+model_name: Trace Advanced 4-24x50 FFP – RMG Illuminated
 category: Riflescopes
 family: Trace
 series: Trace Advanced
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: Black
 manual_ref: Trace / Trace Advanced (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Trace Advanced 4-24x50 FFP RMG Illuminated (TR4245F-IR)
+# ZeroTech Trace Advanced 4-24x50 FFP – RMG Illuminated (TR4245F-IR)
 
 ## Summary
 A Japanese-made, 30mm one-piece, first-focal-plane 4–24×50 PRS and precision riflescope with the illuminated, glass-etched RMG reticle, 0.1 MRAD zero-stop elevation, capped windage, side parallax, and Tenebraex flip-up covers.
@@ -90,4 +90,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace / 
 zerotech, trace, trace-advanced, riflescope, 4-24x50, ffp, first-focal-plane, rmg, illuminated, tremor3, horus, 30mm, mrad, zero-stop, capped-windage, pts, side-parallax, throw-lever, tenebraex, sunshade, argon, weathershield, fmc, ipx7, made-in-japan, prs, long-range, precision
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

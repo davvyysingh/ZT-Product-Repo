@@ -1,6 +1,6 @@
 ---
 sku: VG11028FIR-FDE
-model_name: Vengeance HD 1-10x28 LPVO FFP RMG-L Illuminated (FDE)
+model_name: Vengeance HD 1-10x28 LPVO FFP – RMG-L Illuminated (FDE)
 category: Riflescopes
 family: Vengeance
 series: HD
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: FDE
 manual_ref: Vengeance LPVO (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Vengeance HD 1-10x28 LPVO FFP RMG-L Illuminated FDE (VG11028FIR-FDE)
+# ZeroTech Vengeance HD 1-10x28 LPVO FFP – RMG-L Illuminated FDE (VG11028FIR-FDE)
 
 ## Summary
 The Flat Dark Earth version of the 34mm-tube, first-focal-plane 1–10×28 LPVO — illuminated RMG-L reticle, true 1× speed, 0.1 MRAD capped zero-reset turrets, and a wide field of view — a battle-ready optic for duty rifles, competition builds, and tactical setups.
@@ -88,4 +88,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Vengeanc
 zerotech, vengeance, hd, riflescope, lpvo, 1-10x28, fde, ffp, first-focal-plane, rmg-l, illuminated, 34mm, mrad, capped-turrets, zero-reset, ar-platform, msr, tactical, competition, fmc, ipx7, hunting, night-vision-compatible
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

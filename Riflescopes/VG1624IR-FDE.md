@@ -1,6 +1,6 @@
 ---
 sku: VG1624IR-FDE
-model_name: Vengeance 1-6x24 RAR Illuminated (FDE)
+model_name: Vengeance 1-6x24 LPVO – RAR Illuminated (FDE)
 category: Riflescopes
 family: Vengeance
 series: Classic
@@ -11,7 +11,7 @@ has_video: true
 last_updated: 2026-07-13
 ---
 
-# ZeroTech Vengeance 1-6x24 RAR Illuminated FDE (VG1624IR-FDE)
+# ZeroTech Vengeance 1-6x24 LPVO – RAR Illuminated FDE (VG1624IR-FDE)
 
 ## Summary
 The Flat Dark Earth version of the 30mm-tube, second-focal-plane 1–6×24 LPVO — illuminated RAR reticle, true 1× speed, and low-profile 0.5 MOA capped return-to-zero turrets — a versatile, value-focused optic for AR platforms and close-to-mid-range work.

@@ -1,6 +1,6 @@
 ---
 sku: TRED11024F-IR
-model_name: Trace ED 1-10x24 LPVO FFP RMG-L Illuminated
+model_name: Trace ED 1-10x24 LPVO FFP – RMG-L Illuminated
 category: Riflescopes
 family: Trace
 series: Trace ED
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: Black
 manual_ref: Trace / Trace Advanced (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Trace ED 1-10x24 LPVO FFP RMG-L Illuminated (TRED11024F-IR)
+# ZeroTech Trace ED 1-10x24 LPVO FFP – RMG-L Illuminated (TRED11024F-IR)
 
 ## Summary
 A 34mm-tube, first-focal-plane 1–10×24 LPVO with ED glass, the illuminated RMG-L (LPVO-specific) reticle, true 1× speed, a pop-up zero-stop elevation turret, capped windage, and one of the widest fields of view in its class.
@@ -88,4 +88,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace / 
 zerotech, trace, trace-ed, ed, riflescope, lpvo, 1-10x24, ffp, first-focal-plane, rmg-l, illuminated, 34mm, mrad, zero-stop, capped-windage, fixed-parallax, throw-lever, ed-glass, fmc, ipx7, ar-platform, msr, tactical, hunting, night-vision-compatible
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

@@ -1,6 +1,6 @@
 ---
 sku: TH2155P-IR
-model_name: Thrive HD 2.5-15x50 PHR 2 Illuminated
+model_name: Thrive HD 2.5-15x50 – PHR 2 Illuminated
 category: Riflescopes
 family: Thrive
 series: HD
@@ -11,7 +11,7 @@ has_video: true
 last_updated: 2026-07-13
 ---
 
-# ZeroTech Thrive HD 2.5-15x50 PHR 2 Illuminated (TH2155P-IR)
+# ZeroTech Thrive HD 2.5-15x50 – PHR 2 Illuminated (TH2155P-IR)
 
 ## Summary
 The illuminated version of the 30mm-tube, second-focal-plane 2.5–15×50 HD hunting scope — glass-etched PHR 2 Illuminated reticle, capped 0.25 MOA turrets, side parallax, and 92% light transmission for low-light precision.

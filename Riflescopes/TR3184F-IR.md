@@ -1,6 +1,6 @@
 ---
 sku: TR3184F-IR
-model_name: Trace Advanced 3-18x44 FFP RMG-H Illuminated Shoot2Hunt
+model_name: Trace Advanced 3-18x44 FFP – RMG-H Illuminated (Shoot2Hunt)
 category: Riflescopes
 family: Trace
 series: Trace Advanced
@@ -11,7 +11,7 @@ has_video: false
 last_updated: 2026-07-13
 ---
 
-# ZeroTech Trace Advanced 3-18x44 FFP RMG-H Illuminated Shoot2Hunt (TR3184F-IR)
+# ZeroTech Trace Advanced 3-18x44 FFP – RMG-H Illuminated (Shoot2Hunt) (TR3184F-IR)
 
 ## Summary
 A 30mm-tube, first-focal-plane 3–18×44 backcountry hunting scope with the illuminated RMG-H (Shoot2Hunt) reticle, 0.1 MRAD zero-stop elevation, capped windage, side parallax, and a pre-installed sunshade — developed with the Shoot2Hunt and Rokslide community over two years of field testing.

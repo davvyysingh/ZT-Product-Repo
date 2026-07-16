@@ -1,6 +1,6 @@
 ---
 sku: TR5306RMG3-IR
-model_name: Trace Advanced 5-30x56 ED FFP RMG 3 Illuminated
+model_name: Trace Advanced 5-30x56 ED FFP – RMG 3 Illuminated
 category: Riflescopes
 family: Trace
 series: Trace Advanced
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: Black
 manual_ref: Trace / Trace Advanced (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Trace Advanced 5-30x56 ED FFP RMG 3 Illuminated (TR5306RMG3-IR)
+# ZeroTech Trace Advanced 5-30x56 ED FFP – RMG 3 Illuminated (TR5306RMG3-IR)
 
 ## Summary
 A Japanese-made, 34mm one-piece, first-focal-plane 5–30×56 ELR and PRS riflescope with Japanese ED glass, the patented illuminated RMG 3 reticle, 0.1 MRAD zero-stop elevation, a hidden-thread capped windage turret, and Tenebraex flip-up covers.
@@ -48,7 +48,7 @@ A Japanese-made, 34mm one-piece, first-focal-plane 5–30×56 ELR and PRS rifles
 | Ocular Outer Diameter | 47mm |
 | Waterproof Rating | IPX7 |
 | Color | Black |
-| Variant | Classic |
+| Variant | ED |
 
 ## Key features
 - **FFP RMG 3 Illuminated reticle (glass-etched, patented)** — designed to maximise speed and accuracy, with patented features that let shooters quickly estimate range to targets and read wind-speed and drop-correction information for fast, accurate second-shot corrections; push-button digital illumination for low light. RMG 2 Illuminated and TREMOR3 Illuminated are also available.
@@ -91,4 +91,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace / 
 zerotech, trace, trace-advanced, riflescope, 5-30x56, ed, ffp, first-focal-plane, rmg-3, illuminated, tremor3, 34mm, mrad, zero-stop, capped-windage, hidden-thread, pts, side-parallax, throw-lever, tenebraex, sunshade, argon, weathershield, fmc, ipx7, made-in-japan, elr, prs, long-range, precision, low-light
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

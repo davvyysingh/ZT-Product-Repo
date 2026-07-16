@@ -1,6 +1,6 @@
 ---
 sku: TH6245P-IR
-model_name: Thrive HD 6-24x50 PHR 2 Illuminated
+model_name: Thrive HD 6-24x50 – PHR 2 Illuminated
 category: Riflescopes
 family: Thrive
 series: HD
@@ -11,7 +11,7 @@ has_video: false
 last_updated: 2026-07-13
 ---
 
-# ZeroTech Thrive HD 6-24x50 PHR 2 Illuminated (TH6245P-IR)
+# ZeroTech Thrive HD 6-24x50 – PHR 2 Illuminated (TH6245P-IR)
 
 ## Summary
 The illuminated version of the 30mm-tube, second-focal-plane 6–24×50 HD scope — glass-etched PHR 2 Illuminated reticle, capped 0.25 MOA turrets, side parallax, and 92% light transmission for long-range precision in low light.

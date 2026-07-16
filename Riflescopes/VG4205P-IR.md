@@ -1,6 +1,6 @@
 ---
 sku: VG4205P-IR
-model_name: Vengeance 4-20x50 PHR 2 Illuminated
+model_name: Vengeance 4-20x50 – PHR 2 Illuminated
 category: Riflescopes
 family: Vengeance
 series: Classic
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: Black
 manual_ref: Vengeance (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Vengeance 4-20x50 PHR 2 Illuminated (VG4205P-IR)
+# ZeroTech Vengeance 4-20x50 – PHR 2 Illuminated (VG4205P-IR)
 
 ## Summary
 The illuminated version of the 30mm-tube, second-focal-plane 4–20×50 — a PHR 2 Illuminated reticle with six brightness settings, Pop-Lok 0.25 MOA turrets, and side parallax for low-light big-game hunting.
@@ -84,4 +84,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Vengeanc
 zerotech, vengeance, classic, riflescope, 4-20x50, sfp, second-focal-plane, phr-2, phr-2-illuminated, illuminated, 30mm, 0.25-moa, pop-lok, locking-turrets, side-parallax, fmc, ipx7, big-game, hunting, low-light, backcountry
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

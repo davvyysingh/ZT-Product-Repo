@@ -1,6 +1,6 @@
 ---
 sku: VG1424IR-FDE
-model_name: Vengeance 1-4x24 RAR Illuminated (FDE)
+model_name: Vengeance 1-4x24 LPVO – RAR Illuminated (FDE)
 category: Riflescopes
 family: Vengeance
 series: Classic
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: FDE
 manual_ref: Vengeance LPVO (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Vengeance 1-4x24 RAR Illuminated FDE (VG1424IR-FDE)
+# ZeroTech Vengeance 1-4x24 LPVO – RAR Illuminated FDE (VG1424IR-FDE)
 
 ## Summary
 The Flat Dark Earth version of the 30mm-tube, second-focal-plane 1–4×24 LPVO — illuminated RAR reticle, true 1× for both-eyes-open shooting, and 0.5 MOA capped turrets — a fast, value-focused optic for AR platforms and close-to-mid-range work.
@@ -88,4 +88,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Vengeanc
 zerotech, vengeance, classic, riflescope, lpvo, 1-4x24, fde, sfp, second-focal-plane, rar, illuminated, 30mm, 0.5-moa, capped-turrets, ar-platform, msr, fmc, ipx7, hunting, scrub, bush, night-vision-compatible
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

@@ -1,6 +1,6 @@
 ---
 sku: TH6245FL-IR
-model_name: Thrive HD 6-24x50 FFP LR Hunter Illuminated
+model_name: Thrive HD 6-24x50 FFP – LR Hunter Illuminated
 category: Riflescopes
 family: Thrive
 series: HD
@@ -11,7 +11,7 @@ has_video: false
 last_updated: 2026-07-13
 ---
 
-# ZeroTech Thrive HD 6-24x50 FFP LR Hunter Illuminated (TH6245FL-IR)
+# ZeroTech Thrive HD 6-24x50 FFP – LR Hunter Illuminated (TH6245FL-IR)
 
 ## Summary
 A 30mm-tube, first-focal-plane 6–24×50 HD scope with the illuminated, glass-etched LR Hunter reticle, capped 0.1 MRAD turrets, side parallax, and 92% light transmission — a versatile long-range field and range optic.

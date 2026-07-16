@@ -1,6 +1,6 @@
 ---
 sku: TH1824G-IR
-model_name: Thrive HD 1-8x24 G4 Illuminated
+model_name: Thrive HD 1-8x24 LPVO – G4 Illuminated
 category: Riflescopes
 family: Thrive
 series: HD
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive / Thrive HD (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Thrive HD 1-8x24 G4 Illuminated (TH1824G-IR)
+# ZeroTech Thrive HD 1-8x24 LPVO – G4 Illuminated (TH1824G-IR)
 
 ## Summary
 A 30mm-tube, second-focal-plane 1–8×24 HD LPVO with the illuminated G4 reticle, true 1× speed, capped 0.25 MOA turrets, a wide field of view, and a tough 7075-T6 chassis — built for fast, versatile field shooting.
@@ -90,4 +90,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive /
 zerotech, thrive, hd, riflescope, lpvo, 1-8x24, sfp, second-focal-plane, g4, illuminated, 30mm, 7075-t6, 0.25-moa, capped-turrets, fixed-parallax, hd-glass, fmc, ipx7, ar-platform, msr, hunting, night-vision-compatible
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

@@ -1,6 +1,6 @@
 ---
 sku: TH4164FL-IR
-model_name: Thrive HD 4-16x44 FFP LR Hunter Illuminated
+model_name: Thrive HD 4-16x44 FFP – LR Hunter Illuminated
 category: Riflescopes
 family: Thrive
 series: HD
@@ -11,7 +11,7 @@ has_video: false
 last_updated: 2026-07-13
 ---
 
-# ZeroTech Thrive HD 4-16x44 FFP LR Hunter Illuminated (TH4164FL-IR)
+# ZeroTech Thrive HD 4-16x44 FFP – LR Hunter Illuminated (TH4164FL-IR)
 
 ## Summary
 A 30mm-tube, first-focal-plane 4–16×44 HD scope with the illuminated, glass-etched LR Hunter reticle, capped 0.1 MRAD turrets, side parallax, and HD glass — a versatile do-it-all field and range optic.

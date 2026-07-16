@@ -1,6 +1,6 @@
 ---
 sku: TH3186P-IR
-model_name: Thrive HD 3-18x56 PHR 2 Illuminated
+model_name: Thrive HD 3-18x56 – PHR 2 Illuminated
 category: Riflescopes
 family: Thrive
 series: HD
@@ -11,7 +11,7 @@ has_video: true
 last_updated: 2026-07-13
 ---
 
-# ZeroTech Thrive HD 3-18x56 PHR 2 Illuminated (TH3186P-IR)
+# ZeroTech Thrive HD 3-18x56 – PHR 2 Illuminated (TH3186P-IR)
 
 ## Summary
 A 30mm-tube, second-focal-plane 3–18×56 HD scope with the illuminated, glass-etched PHR 2 reticle, a large 56mm objective for low light, capped 0.25 MOA turrets, and side parallax — built for long-range and twilight hunting.
