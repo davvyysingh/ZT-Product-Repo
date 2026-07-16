@@ -1,6 +1,6 @@
 ---
 sku: THDRS28MH
-model_name: Thrive HD Reflex Sight Multi Reticle (High Mount)
+model_name: Thrive HD Reflex Sight Multi Reticle High Mount
 category: Red Dots
 family: Thrive
 series: Thrive HD
@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive HD Reflex Sight RS28 (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
 # ZeroTech Thrive HD Reflex Sight Multi Reticle High Mount (THDRS28MH)
@@ -85,4 +85,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive H
 zerotech, thrive, thrive-hd, red-dot, reflex-sight, rs28, open-reflex, 1x, 28mm, multi-reticle, 3-moa, 40-moa-circle, rmr-footprint, high-mount, picatinny, shake-awake, motion-sensor, cr2032, 50000-hours, 7075-aluminium, fmc, ipx7, ar-platform, msr, pistol, shotgun, hunting
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

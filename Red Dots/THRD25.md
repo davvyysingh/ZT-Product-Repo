@@ -1,6 +1,6 @@
 ---
 sku: THRD25
-model_name: Thrive Red Dot 3 MOA
+model_name: Thrive Reflex Sight 3 MOA
 category: Red Dots
 family: Thrive
 series: Thrive
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive Red Dot (International)
 has_video: false
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Thrive Red Dot 3 MOA (THRD25)
+# ZeroTech Thrive Reflex Sight 3 MOA (THRD25)
 
 ## Summary
 A compact, rugged 1x20 micro red dot with a crisp 3 MOA dot, 11 dial-set brightness levels, tool-free capped turrets, and a Weaver/Picatinny-compatible interchangeable base — a simple, fast-acquisition optic on the Aimpoint Micro footprint.
@@ -78,4 +78,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive R
 zerotech, thrive, red-dot, reflex-sight, micro-red-dot, 1x20, 3-moa, red-dot-reticle, dial-illumination, aimpoint-micro-footprint, low-mount, weaver, picatinny, cr2032, capped-turrets, fmc, ipx7, ar-platform, msr, close-quarters, rimfire, training
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

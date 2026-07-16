@@ -1,6 +1,6 @@
 ---
 sku: THDRS28MGFL
-model_name: Thrive HD Reflex Sight Green Multi Reticle (Low Mount, FDE)
+model_name: Thrive HD Reflex Sight Green Multi Reticle Low Mount (FDE)
 category: Red Dots
 family: Thrive
 series: Thrive HD
@@ -8,7 +8,7 @@ brand: ZeroTech
 color: FDE
 manual_ref: Thrive HD Reflex Sight RS28 (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
 # ZeroTech Thrive HD Reflex Sight Green Multi Reticle Low Mount FDE (THDRS28MGFL)
@@ -86,4 +86,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive H
 zerotech, thrive, thrive-hd, red-dot, reflex-sight, rs28, open-reflex, 1x, 28mm, multi-reticle, green-dot, 3-moa, 40-moa-circle, astigmatism, fde, rmr-footprint, low-mount, picatinny, co-witness, offset, shake-awake, motion-sensor, cr2032, 50000-hours, fmc, ipx7, pistol, sub-gun
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

@@ -1,6 +1,6 @@
 ---
 sku: THDMP120
-model_name: Thrive HD Micro Prism 1x20 Prism Dot
+model_name: Thrive HD 1x Micro Prism – Prism Dot Illuminated
 category: Prisms
 family: Thrive
 series: Thrive HD
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive HD Micro Prism (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Thrive HD Micro Prism 1x20 Prism Dot (THDMP120)
+# ZeroTech Thrive HD 1x Micro Prism – Prism Dot Illuminated (THDMP120)
 
 ## Summary
 A compact 1x20 prism sight with a glass-etched Prism Dot reticle, 13 brightness settings (3 night-vision), up to 50,000 hours of battery life, four mounting heights, and an Aimpoint Micro footprint — a rugged red-dot alternative that's friendly to astigmatism.
@@ -85,4 +85,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive H
 zerotech, thrive, thrive-hd, prism, prism-sight, micro-prism, 1x20, prism-dot, etched-reticle, astigmatism, 13-brightness, night-vision, aimpoint-micro-footprint, t2-footprint, cr2032, 50000-hours, motion-sensor, 6061-t6, tenebraex, fmc, ipx7, ar-platform, msr, hunting
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

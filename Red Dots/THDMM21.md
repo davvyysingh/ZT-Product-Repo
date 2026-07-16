@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive HD Micro Reflex DM21 (International)
 has_video: true
-last_updated: 2026-07-07
+last_updated: 2026-07-13
 ---
 
 # ZeroTech Thrive HD Micro Reflex Sight Multi Reticle (THDMM21)
@@ -85,4 +85,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive H
 zerotech, thrive, thrive-hd, red-dot, reflex-sight, micro-reflex, open-reflex, 1x, multi-reticle, 3-moa, 42-moa-circle, rmsc-footprint, shake-awake, motion-sensor, cr2032, 50000-hours, fmc, ipx7, pistol, concealed-carry, co-witness, offset
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*
