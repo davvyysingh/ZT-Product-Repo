@@ -1,6 +1,6 @@
 ---
 sku: THDM21G
-model_name: Thrive HD Micro Reflex Sight 3 MOA Green Dot
+model_name: Thrive HD Micro Reflex Sight Green 3 MOA
 category: Red Dots
 family: Thrive
 series: Thrive HD
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive HD Micro Reflex DM21 (International)
 has_video: true
-last_updated: 2026-06-26
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Thrive HD Micro Reflex Sight 3 MOA Green Dot (THDM21G)
+# ZeroTech Thrive HD Micro Reflex Sight Green 3 MOA (THDM21G)
 
 ## Summary
 The green-dot version of the ultra-light (19g) open micro reflex sight on the Shield RMSc footprint — a 3 MOA green dot, 10 brightness settings, shake-awake technology, and up to 50,000 hours of battery life — built for compact carry pistols and lightweight backup duty.
@@ -39,7 +39,9 @@ The green-dot version of the ultra-light (19g) open micro reflex sight on the Sh
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | NA |
-| Weight | 0.67oz (19g) |
+| Product Weight | 0.67oz (19g) |
+| Packaged Weight | 16.0oz (454g) |
+| Packaged Dimensions (H×W×L, in) | 2.3 x 3 x 5.8 |
 | Color | Black |
 | Available Reticles | 3 MOA Green Dot, 3 MOA Red Dot, Multi Reticle Red Dot |
 | Mount Type | None |
@@ -82,4 +84,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive H
 zerotech, thrive, thrive-hd, red-dot, reflex-sight, micro-reflex, open-reflex, 1x, 3-moa, green-dot, green-dot-reticle, rmsc-footprint, shake-awake, motion-sensor, cr2032, 50000-hours, fmc, ipx7, pistol, concealed-carry, co-witness, offset
 
 ---
-*Last updated: 2026-06-26 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

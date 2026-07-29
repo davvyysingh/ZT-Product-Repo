@@ -1,6 +1,6 @@
 ---
 sku: THDMP120-FDE
-model_name: Thrive HD Micro Prism 1x20 Prism Dot (FDE)
+model_name: Thrive HD 1x Micro Prism – Prism Dot Illuminated (FDE)
 category: Prisms
 family: Thrive
 series: Thrive HD
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: FDE
 manual_ref: Thrive HD Micro Prism (International)
 has_video: true
-last_updated: 2026-06-26
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Thrive HD Micro Prism 1x20 Prism Dot FDE (THDMP120-FDE)
+# ZeroTech Thrive HD 1x Micro Prism – Prism Dot Illuminated FDE (THDMP120-FDE)
 
 ## Summary
 The Flat Dark Earth version of the compact 1x20 prism sight — glass-etched Prism Dot reticle, 13 brightness settings (3 night-vision), up to 50,000 hours of battery life, four mounting heights, and an Aimpoint Micro footprint — a rugged red-dot alternative that's friendly to astigmatism.
@@ -39,7 +39,9 @@ The Flat Dark Earth version of the compact 1x20 prism sight — glass-etched Pri
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | Fixed – 100m (110yd) |
-| Weight | 7.55oz (214g) |
+| Product Weight | 7.55oz (214g) |
+| Packaged Weight | 31.2oz (885g) |
+| Packaged Dimensions (H×W×L, in) | 3 x 3.9 x 7.2 |
 | Color | FDE |
 | Available Reticles | Prism Dot |
 | Mount Type | Multiple |
@@ -83,4 +85,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive H
 zerotech, thrive, thrive-hd, prism, prism-sight, micro-prism, 1x20, fde, prism-dot, etched-reticle, astigmatism, 13-brightness, night-vision, aimpoint-micro-footprint, t2-footprint, cr2032, 50000-hours, motion-sensor, 6061-t6, tenebraex, fmc, ipx7, ar-platform, msr, hunting
 
 ---
-*Last updated: 2026-06-26 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

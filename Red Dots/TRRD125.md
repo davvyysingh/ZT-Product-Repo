@@ -1,6 +1,6 @@
 ---
 sku: TRRD125
-model_name: Trace R.A.S 1x25 Digital Red Dot 2 MOA
+model_name: Trace R.A.S 1x25 2 MOA Digital Red Dot
 category: Red Dots
 family: Trace
 series: Trace
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: Black
 manual_ref: Trace R.A.S Red Dot (International)
 has_video: true
-last_updated: 2026-06-26
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Trace R.A.S 1x25 Digital Red Dot 2 MOA (TRRD125)
+# ZeroTech Trace R.A.S 1x25 2 MOA Digital Red Dot (TRRD125)
 
 ## Summary
 A premium enclosed 1x25 digital red dot from the Trace line — the Rapid Aiming System (R.A.S) — with a 2 MOA dot, a wide 25mm field of view via a recessed LED, 10 digital brightness settings, shake-awake, up to 50,000 hours of battery life, and both high and low Picatinny mounts on the Aimpoint Micro footprint.
@@ -39,7 +39,9 @@ A premium enclosed 1x25 digital red dot from the Trace line — the Rapid Aiming
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | NA |
-| Weight | 3.10oz (88g) |
+| Product Weight | 3.10oz (88g) |
+| Packaged Weight | 14.4oz (408g) |
+| Packaged Dimensions (H×W×L, in) | 2.7 x 3.5 x 6.8 |
 | Color | Black |
 | Available Reticles | 2 MOA Red Dot |
 | Mount Type | Multiple |
@@ -82,4 +84,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace R.
 zerotech, trace, ras, rapid-aiming-system, red-dot, digital-red-dot, enclosed, 1x25, 2-moa, red-dot-reticle, recessed-led, shake-awake, motion-sensor, digital-controls, aimpoint-micro-footprint, t2-footprint, high-low-mount, picatinny, cr2032, 50000-hours, fmc, ipx7, ar-platform, msr, hunting
 
 ---
-*Last updated: 2026-06-26 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

@@ -1,0 +1,91 @@
+---
+sku: TH2155P-IR
+model_name: Thrive HD 2.5-15x50 – PHR 2 Illuminated
+category: Riflescopes
+family: Thrive
+series: HD
+brand: ZeroTech
+color: Black
+manual_ref: Thrive / Thrive HD (International)
+has_video: true
+last_updated: 2026-07-13
+---
+
+# ZeroTech Thrive HD 2.5-15x50 – PHR 2 Illuminated (TH2155P-IR)
+
+## Summary
+The illuminated version of the 30mm-tube, second-focal-plane 2.5–15×50 HD hunting scope — glass-etched PHR 2 Illuminated reticle, capped 0.25 MOA turrets, side parallax, and 92% light transmission for low-light precision.
+
+## Specifications
+
+| Specification | Value |
+| --- | --- |
+| Focal Plane | Second (SFP) |
+| Magnification | 2.5-15x |
+| Reticle calibrated magnification power (SFP only) | 15x |
+| Objective Lens Diameter | 50mm |
+| Maintube Diameter | 30mm |
+| Reticle type | PHR 2 Illuminated |
+| Zero Stop | No |
+| Parallax Adjustment Range | 10m (11yd) – Infinity |
+| Turret Index Value | 0.25 MOA |
+| Exit Pupil Diameter | Low: 11.0mm; High: 3.3mm |
+| Eye Relief | 3.58-3.94in (91-100mm) |
+| Diopter Adjustment | Locking |
+| Internal Elevation Adjustment | 70 MOA |
+| Internal Windage Adjustment | 70 MOA |
+| Field of View @ 100 Meters | Low: 13.5m; High: 2.3m |
+| Field of View @ 100 Yards | Low: 40.5ft; High: 6.9ft |
+| Maintube Material | 6061-T6 |
+| Product Weight | 26.1oz (740g) |
+| Packaged Weight | 41.6oz (1179g) |
+| Packaged Dimensions (H×W×L, in) | 3.3 x 4.4 x 17.8 |
+| Lens Coating | FMC |
+| Available Reticles | PHR 2, PHR 2 Illuminated |
+| Illumination | Yes |
+| Recommended Use | Big Game Hunting – Backcountry, Hunting – Scrub / Bush, Low Light / Twilight Use |
+| Objective Outer Diameter | 57.5mm |
+| Ocular Outer Diameter | 43.5mm |
+| Waterproof Rating | IPX7 |
+| Color | Black |
+| Variant | HD |
+
+## Key features
+- **PHR 2 Illuminated reticle (glass-etched, SFP)** — a floating centre dot and finer 6 o'clock post for refined aiming and precise elevation holdovers, with illumination for low-light conditions and unobtrusive elevation holds at multiple MOA intervals.
+- **High-definition glass with 92% light transmission** — crisp, sharp images across all magnifications and strong low-light performance for dawn and dusk hunts.
+- **2.5–15x magnification with 50mm objective** — a versatile range for backcountry, scrub, and twilight hunting.
+- **30mm 6061-T6 main tube** — strength and excellent light transmission.
+- **Side parallax adjustment** — sharp focus from 10 metres to infinity.
+- **Capped 0.25 MOA turrets** — precise, repeatable adjustments that stay secure in the field.
+- **HD alloy flip-up lens covers** — adjustable and removable for protection in transport and the field.
+- **Weathershield lens coating, IPX7 waterproof** — durability and clarity in changing weather.
+- **Illuminated** model; backed by ZeroTech's lifetime guarantee.
+
+## What's in the box
+- Heavy Duty Alloy Flip-Up Covers
+- Locking Ring Tool For HD Flip-Up Covers
+- Instruction Manual
+- Reticle Range Chart
+- High Quality Microfibre Cloth
+- Neoprene Cover
+
+## Video insights
+An independent review (Aussie Reviews) tests the Thrive HD 2.5-15x50:
+- **Build and box:** Solid, quality matte finish; on the heavier side, making it better suited to varmint setups than lightweight hunting rifles. Ships with flip-up covers, reticle chart, cleaning cloth, manual, and the locking-ring tool.
+- **Specs in use:** 30mm tube, 70 MOA of adjustment, quarter-MOA clicks (with slight pre-click play noted as common at this price), parallax from 10 m to infinity, and a second-focal-plane reticle that stays a constant size.
+- **Optics:** Fully multi-coated, fog- and waterproof, with a claimed 92% light transmission — rated good for the price though not on par with premium brands; clarity described as solid.
+- **Tracking:** Adjustments returned precisely to zero, reticle holdovers matched expected values, and there was no point-of-impact shift across magnification changes.
+- **Verdict:** Reliable performance and good value at its price point; the only minor drawback noted was slight turret play. (The reviewer also clarified the scope is manufactured in China and judged it purely on performance.)
+
+## Manual
+Full setup, care, warranty, and safety instructions are in the shared **Thrive / Thrive HD manual reference** (`_Thrive_manual.md`) in this folder. Sections that apply to this model:
+- **Turret reset:** ZeroTech multi-tool — remove the turret centre bolt, re-index to '0'
+- **Turret index:** 0.25 MOA — approx. 7-8mm at 100 metres (¼" at 100 yards) per click
+- **Illumination:** Push-button — 5 brightness settings + Off, CR2032 battery (3-hour auto-off, memory function)
+- **Lens covers:** HD alloy flip-up covers (adjustable/removable via the locking-ring tool)
+
+## Tags
+zerotech, thrive, hd, riflescope, 2.5-15x50, sfp, second-focal-plane, phr-2, phr-2-illuminated, illuminated, 30mm, 0.25-moa, capped-turrets, side-parallax, glass-etched, hd-glass, weathershield, fmc, ipx7, big-game, hunting, low-light
+
+---
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

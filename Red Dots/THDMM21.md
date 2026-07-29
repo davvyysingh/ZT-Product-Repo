@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive HD Micro Reflex DM21 (International)
 has_video: true
-last_updated: 2026-06-26
+last_updated: 2026-07-13
 ---
 
 # ZeroTech Thrive HD Micro Reflex Sight Multi Reticle (THDMM21)
@@ -39,7 +39,9 @@ The multi-reticle version of the ultra-light (19g) open micro reflex sight on th
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | NA |
-| Weight | 0.67oz (19g) |
+| Product Weight | 0.67oz (19g) |
+| Packaged Weight | 16.0oz (454g) |
+| Packaged Dimensions (H×W×L, in) | 2.3 x 3 x 5.8 |
 | Color | Black |
 | Available Reticles | 3 MOA Green Dot, 3 MOA Red Dot, Multi Reticle Red Dot |
 | Mount Type | None |
@@ -83,4 +85,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive H
 zerotech, thrive, thrive-hd, red-dot, reflex-sight, micro-reflex, open-reflex, 1x, multi-reticle, 3-moa, 42-moa-circle, rmsc-footprint, shake-awake, motion-sensor, cr2032, 50000-hours, fmc, ipx7, pistol, concealed-carry, co-witness, offset
 
 ---
-*Last updated: 2026-06-26 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

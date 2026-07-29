@@ -1,6 +1,6 @@
 ---
 sku: TRAE28G
-model_name: Trace H.A.L.O Enclosed Reflex Sight 3 MOA Green
+model_name: Trace H.A.L.O Enclosed Reflex Sight Green 3 MOA
 category: Red Dots
 family: Trace
 series: Trace
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: Black
 manual_ref: Trace H.A.L.O Enclosed Reflex (International)
 has_video: false
-last_updated: 2026-06-26
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Trace H.A.L.O Enclosed Reflex Sight 3 MOA Green (TRAE28G)
+# ZeroTech Trace H.A.L.O Enclosed Reflex Sight Green 3 MOA (TRAE28G)
 
 ## Summary
 The green-illumination version of the premium enclosed-emitter H.A.L.O reflex sight — an aspherical lens for an exceptionally wide field of view, a 3 MOA green dot, 10 brightness settings, shake-awake, and a top-loading battery that swaps without losing zero — on the Shield RMSc footprint with an included Picatinny adapter.
@@ -39,7 +39,9 @@ The green-illumination version of the premium enclosed-emitter H.A.L.O reflex si
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | NA |
-| Weight | 2.75oz (78g) |
+| Product Weight | 2.75oz (78g) |
+| Packaged Weight | 14.4oz (408g) |
+| Packaged Dimensions (H×W×L, in) | 3 x 3.9 x 6.8 |
 | Color | Black |
 | Available Reticles | 3 MOA Green Dot |
 | Mount Type | – |
@@ -78,4 +80,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace H.
 zerotech, trace, halo, red-dot, reflex-sight, enclosed-reflex, aspherical-lens, 1x, 28mm, 3-moa, green-dot, rmsc-footprint, picatinny-adapter, top-loading-battery, shake-awake, motion-sensor, button-lock, night-vision, cr2032, 50000-hours, 1.5-moa, 7075-aluminium, base-shim, fmc, ipx7, pistol, competition, subgun, offset
 
 ---
-*Last updated: 2026-06-26 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

@@ -1,6 +1,6 @@
 ---
 sku: THDRS28H
-model_name: Thrive HD Reflex Sight 3 MOA Red Dot (High Mount)
+model_name: Thrive HD Reflex Sight 3 MOA High Mount
 category: Red Dots
 family: Thrive
 series: Thrive HD
@@ -8,10 +8,10 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive HD Reflex Sight RS28 (International)
 has_video: true
-last_updated: 2026-06-26
+last_updated: 2026-07-13
 ---
 
-# ZeroTech Thrive HD Reflex Sight 3 MOA Red Dot High Mount (THDRS28H)
+# ZeroTech Thrive HD Reflex Sight 3 MOA High Mount (THDRS28H)
 
 ## Summary
 A full-size 28mm open reflex sight on the RMR footprint with a 3 MOA red dot, 11 brightness settings, shake-awake technology, up to 50,000 hours of battery life, and a high Picatinny mount — a durable, large-window red dot for rifles, AR platforms, pistols, and shotguns.
@@ -39,7 +39,9 @@ A full-size 28mm open reflex sight on the RMR footprint with a 3 MOA red dot, 11
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | NA |
-| Weight | 3.10oz (88g) |
+| Product Weight | 3.10oz (88g) |
+| Packaged Weight | 16.0oz (454g) |
+| Packaged Dimensions (H×W×L, in) | 3 x 3.9 x 6.8 |
 | Color | Black |
 | Available Reticles | 3 MOA Green Dot, 3 MOA Red Dot, Multi Reticle Red Dot |
 | Mount Type | High |
@@ -82,4 +84,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive H
 zerotech, thrive, thrive-hd, red-dot, reflex-sight, rs28, open-reflex, 1x, 28mm, 3-moa, red-dot-reticle, rmr-footprint, high-mount, picatinny, shake-awake, motion-sensor, cr2032, 50000-hours, 6061-t6, fmc, ipx7, ar-platform, msr, pistol, shotgun, hunting
 
 ---
-*Last updated: 2026-06-26 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

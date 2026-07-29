@@ -1,6 +1,6 @@
 ---
 sku: THDRS28MGFL
-model_name: Thrive HD Reflex Sight Green Multi Reticle (Low Mount, FDE)
+model_name: Thrive HD Reflex Sight Green Multi Reticle Low Mount (FDE)
 category: Red Dots
 family: Thrive
 series: Thrive HD
@@ -8,7 +8,7 @@ brand: ZeroTech
 color: FDE
 manual_ref: Thrive HD Reflex Sight RS28 (International)
 has_video: true
-last_updated: 2026-06-26
+last_updated: 2026-07-13
 ---
 
 # ZeroTech Thrive HD Reflex Sight Green Multi Reticle Low Mount FDE (THDRS28MGFL)
@@ -39,7 +39,9 @@ The Flat Dark Earth, green-illumination version of the full-size 28mm open refle
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | NA |
-| Weight | 2.58oz (73g) |
+| Product Weight | 2.58oz (73g) |
+| Packaged Weight | 16.0oz (454g) |
+| Packaged Dimensions (H×W×L, in) | 3 x 3.9 x 6.8 |
 | Color | FDE |
 | Available Reticles | 3 MOA Green Dot |
 | Mount Type | Low |
@@ -84,4 +86,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive H
 zerotech, thrive, thrive-hd, red-dot, reflex-sight, rs28, open-reflex, 1x, 28mm, multi-reticle, green-dot, 3-moa, 40-moa-circle, astigmatism, fde, rmr-footprint, low-mount, picatinny, co-witness, offset, shake-awake, motion-sensor, cr2032, 50000-hours, fmc, ipx7, pistol, sub-gun
 
 ---
-*Last updated: 2026-06-26 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

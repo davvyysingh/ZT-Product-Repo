@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Trace H.A.L.O Enclosed Reflex (International)
 has_video: true
-last_updated: 2026-06-26
+last_updated: 2026-07-13
 ---
 
 # ZeroTech Trace H.A.L.O Enclosed Reflex Sight 3 MOA (TRAE28)
@@ -39,7 +39,9 @@ A premium enclosed-emitter reflex sight with a Heavy-duty Aspherical Lens Optic 
 | Lens Coating | FMC |
 | Operational Temperature | -20°C to 70°C (-4°F to 158°F) |
 | Parallax Adjustment Range | NA |
-| Weight | 2.75oz (78g) |
+| Product Weight | 2.75oz (78g) |
+| Packaged Weight | 14.4oz (408g) |
+| Packaged Dimensions (H×W×L, in) | 2.7 x 3.5 x 6.8 |
 | Color | Black |
 | Available Reticles | 3 MOA Red Dot |
 | Mount Type | Low |
@@ -83,4 +85,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace H.
 zerotech, trace, halo, red-dot, reflex-sight, enclosed-reflex, aspherical-lens, 1x, 28mm, 3-moa, red-dot-reticle, rmsc-footprint, picatinny-adapter, top-loading-battery, shake-awake, motion-sensor, button-lock, night-vision, cr2032, 50000-hours, 1.5-moa, 7075-aluminium, base-shim, fmc, ipx7, pistol, competition, subgun, offset
 
 ---
-*Last updated: 2026-06-26 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*

@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Trace Binocular (International)
 has_video: true
-last_updated: 2026-06-26
+last_updated: 2026-07-07
 ---
 
 # ZeroTech Trace ED 8x45 (TR845ED)
@@ -35,14 +35,15 @@ ZeroTech's flagship binocular — an 8x45 with ED glass, premium Abbe-Koenig pri
 | Diopter Compensation | ±3 |
 | Interpupillary Adjustment | 57-75mm |
 | Waterproof | Yes |
-| Weight | 975g |
+| Product Weight | 34.4oz (975g) |
+| Packaged Weight | 64.0oz (1814g) |
 | Resolution | 3.88″ |
 | Number of Lenses | 9pcs/7groups |
 | Optical Length | 158.84mm |
 | Eyepiece Diameter | 24mm |
 | Light Transmission | 90% |
 | Dimensions | 139mmx55mmx170mm |
-| Box Dimensions | 265mmx250mmx80mm |
+| Packaged Dimensions (H×W×L, in) | 3.25 x 9.25 x 10.25 |
 | Tripod Supported | Yes |
 | Variant | ED |
 | Recommended Use | Adventure, Birding, Everyday Observation, Marine, Nature, Outdoor |
@@ -81,4 +82,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace Bi
 zerotech, trace, trace-ed, binocular, 8x45, abbe-koenig-prism, ed-glass, fbmc, phase-coated, dielectric-prism, 90-percent-transmission, edge-to-edge, wide-field, waterproof, fog-proof, nitrogen-purged, rubber-armour, center-focus, tripod-mount, flagship, hunting, birding, wildlife, marine, low-light
 
 ---
-*Last updated: 2026-06-26 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*

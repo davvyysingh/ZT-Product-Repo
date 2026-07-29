@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Vengeance Binocular (International)
 has_video: false
-last_updated: 2026-06-26
+last_updated: 2026-07-07
 ---
 
 # ZeroTech Vengeance HD 8x42 (VG842HD)
@@ -35,14 +35,15 @@ The HD-tier 8x42 Vengeance — HD glass, dielectrically coated BaK-4 prisms, ful
 | Diopter Compensation | ±3 |
 | Interpupillary Adjustment | 56-74mm |
 | Waterproof | Yes |
-| Weight | 672g |
+| Product Weight | 23.7oz (672g) |
+| Packaged Weight | 48.0oz (1361g) |
 | Resolution | 4.8″ |
 | Number of Lenses | 8pcs/6groups |
 | Optical Length | 129.30mm |
 | Eyepiece Diameter | 23.5mm |
 | Light Transmission | 85% |
 | Dimensions | 125mmx53mmx147mm |
-| Box Dimensions | 168mmx188mmx75mm |
+| Packaged Dimensions (H×W×L, in) | 7.4 x 6.6 x 3 |
 | Tripod Supported | Yes |
 | Variant | HD |
 | Recommended Use | Adventure, Birding, Nature, Sports |
@@ -76,4 +77,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Vengeanc
 zerotech, vengeance, vengeance-hd, binocular, 8x42, roof-prism, bak-4, hd-glass, fbmc, phase-coated, dielectric-prism, waterproof, fog-proof, nitrogen-purged, rubber-armour, center-focus, fast-focus, wide-field, tripod-adaptable, hunting, birding, wildlife, low-light
 
 ---
-*Last updated: 2026-06-26 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
