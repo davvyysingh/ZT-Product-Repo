@@ -3,7 +3,7 @@ category: Compatibility
 guide: Red Dot & Prism Firearm Compatibility
 market: Australia
 part: AU pistol fitment (use instead of the universal pistol-fitment file for the Australian market)
-last_updated: 2026-08-04
+last_updated: 2026-09-04
 source: ZeroTech Compatibility — Australia Edition
 ---
 
@@ -48,6 +48,9 @@ For each pistol available in the Australian market, how the two RMSc pistol opti
 | FN | FNX-45 Tactical | Proprietary factory plate | Adapter plate — Aftermarket RMSc adapter — confirm | Factory plate — FN FNX-45 factory RMR mounting | Ships factory RMR plate; RMSc aftermarket. |
 | Glock | G17/19/34/45/47 Gen5 MOS | Glock MOS 1" plate | Adapter plate — C&H Glock-MOS→Holosun-K/RMSc — PN GL-HOLOk (aftermkt) | Factory plate — Glock MOS Adapter Plate 02 (RMR) — factory | Factory MOS plate = RMR/507C; RMSc via aftermarket plate. |
 | Glock | G17/19/45/49 Gen6 | Gen6 ORS multi-plate | Factory plate — Glock ORS factory plate — confirm RMSc/K plate availability | Factory plate — Glock ORS Plate 02 (RMR) — factory | ORS plates: Plate 02 = RMR; RMSc/K also covered. |
+| Glock | G19X | No factory optic cut (not optics-ready) | Not suited (use the other footprint's optic) | Not suited (use the other footprint's optic) | Not optics-ready as standard — needs a milled or MOS slide first; then RMSc (Micro Reflex / H.A.L.O) via a MOS→RMSc plate, or the RS28 (RMR) via the factory MOS plate. |
+| Glock | G23 (milled for Shield RMS) | Aftermarket full-size Shield RMS cut | Not suited (use the other footprint's optic) | Not suited (use the other footprint's optic) | Full-size Shield RMS cut (bigger than RMSc): the Micro Reflex (RMSc) seats in the RMS pocket with a small fore/aft gap — bench-check; not a clean fit. No exact ZeroTech fit. |
+| Glock | G23 Gen 3 (aftermarket-milled slide) | Depends on the milled footprint | Confirm milled footprint (see Notes) | Confirm milled footprint (see Notes) | Depends on the cut: RMR → RS28 direct; Shield RMSc → Micro Reflex / H.A.L.O direct; full-size RMS → RMSc with a fore/aft gap. Confirm the footprint it was milled to. |
 | Grand Power | K100 Mk23 (OR) | 4-plate factory system | Factory plate — GP factory Shield RMSc/SMS plate (in 4-plate set) | Factory plate — GP factory RMR plate (in 4-plate set) | Ships RMR + Shield RMSc/SMS + Docter + C-More plates. |
 | Grand Power | Q100 (CO) | 4-plate factory system | Factory plate — GP Plate #4 is Shield SMS (not true RMSc) — confirm ZT fit | Factory plate — GP Dovetail Plate #2 (RMR) — UPC 8588005944120 | Same GP multi-plate system. |
 | Grand Power | X-Calibur MK II (CO) | 4-plate factory system | Factory plate — GP Plate #4 is Shield SMS (not true RMSc) — confirm ZT fit | Factory plate — GP Dovetail Plate #2 (RMR) — UPC 8588005944120 | CO models ship RMR + Shield RMS/SMS plates. AU sport favourite. |
@@ -79,6 +82,7 @@ For each pistol available in the Australian market, how the two RMSc pistol opti
 | Tanfoglio | Stock II Optic / Stock III OR | Toni multi-plate interface | Factory plate — Toni System Type A (RMSc/DPP) — confirm PN | Factory plate — Toni System Type B (RMR) — PN OPXTAN2B | Popular AU/EU IPSC; factory plates for both footprints. |
 | Taran Tactical | Combat Master / custom Glock & 2011 | Trijicon RMR (direct-mill) | Not suited (use the other footprint's optic) | Direct fit — no plate (uses the optic's supplied screws) | RMR-cut only; no RMSc provision offered. Custom-shop. |
 | Taurus | G3 TORO / G3c / G3X TORO | Taurus TORO plate kit | Adapter plate — No factory RMSc in the TORO kit — aftermarket TORO→RMSc/Viper plate; confirm | Factory plate — Taurus TORO Plate #2 (RMR) — SKU 10027856 | Factory TORO kit = RMR/Holosun, DPP, Docter/Venom, C-More only (NO RMSc). RMR factory (Plate #2); RMSc via aftermarket. |
+| Taurus | PT-series | No factory optic cut (not optics-ready) | Not suited (use the other footprint's optic) | Not suited (use the other footprint's optic) | PT-series aren't optics-ready (need milling). The optics-ready Taurus models are the G3 / GX4 TORO, which take the Micro Reflex (RMSc) direct. |
 | Taurus | TX22 Compact | Modified RMSc | Direct fit — no plate (uses the optic's supplied screws) | Not suited (use the other footprint's optic) | Rimfire trainer. |
 | Tisas | Carry / Duty Double Stack 2311 | Holosun-K / RMSc (direct) | Direct fit — no plate (uses the optic's supplied screws) | Adapter plate — SAS Tactical Tisas RMS→RMR — PN RMS2RMR1Tisas | 507K/RMSc footprint milled direct; RMR via Tisas factory RMS-to-RMR adapter. |
 | Volquartsen | Black Mamba / Mamba-X | Integral mount (RMSc-pattern) | Direct fit — no plate (uses the optic's supplied screws) | Adapter plate — Aftermarket RMR adapter — confirm (per SKU) | Rimfire; confirm footprint per SKU. |
@@ -93,4 +97,4 @@ For each pistol available in the Australian market, how the two RMSc pistol opti
 | Zev Technologies | OZ9 / OZ9c / OZ9 Elite | Trijicon RMR | Adapter plate — C&H RMR→Holosun-K/RMSc — PN RMR-HOLOk (remove ZEV posts) | Direct fit — no plate (uses the optic's supplied screws) | Native RMR; RMSc via 3rd-party adapter. |
 
 ---
-*Last updated: 2026-08-04 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-04 · Source: ZeroTech ZT Product KB*

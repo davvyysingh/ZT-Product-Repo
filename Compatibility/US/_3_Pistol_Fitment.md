@@ -3,7 +3,7 @@ category: Compatibility
 guide: Red Dot & Prism Firearm Compatibility
 part: 3 of 5 — Pistol Fitment
 market: US / Global
-last_updated: 2026-08-04
+last_updated: 2026-09-04
 source: ZeroTech Red Dot & Prism Compatibility Guide v4.0
 ---
 
@@ -11,7 +11,7 @@ source: ZeroTech Red Dot & Prism Compatibility Guide v4.0
 
 Part of the ZeroTech Red Dot & Prism Firearm Compatibility guide (US/Global set: 1 Overview · 2 Optics & Footprints · 3 Pistol Fitment · 4 Mounts & Adapters · 5 Coverage Summary). The Australian-market set is in the sibling `AU/` folder.
 
-For each pistol family, how the two RMSc pistol optics (**Thrive HD Micro Reflex DM21** and **Trace H.A.L.O**) and the RMR pistol optic (**Thrive HD Reflex RS28**) mount, including the recommended plate / part number where one is needed. Covers 119 platform families across the US and Australian markets; each family covers multiple retail variants.
+For each pistol family, how the two RMSc pistol optics (**Thrive HD Micro Reflex DM21** and **Trace H.A.L.O**) and the RMR pistol optic (**Thrive HD Reflex RS28**) mount, including the recommended plate / part number where one is needed. Covers 126 platform families across the US and Australian markets; each family covers multiple retail variants.
 
 | Make | Model / variant | Native cut | DM21 & H.A.L.O (RMSc) | Reflex RS28 (RMR) | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -56,8 +56,12 @@ For each pistol family, how the two RMSc pistol optics (**Thrive HD Micro Reflex
 | FN | Five-seveN MRD | FN plate system | Adapter plate — C&H FN 5-7→Holosun-K/RMSc — PN FN57-HOLOk (aftermkt) | Factory plate — FN Five-seveN MRD RMR plate — confirm PN | Factory RMR/DPP plates; RMSc via C&H. |
 | FN | FNX-45 Tactical | Proprietary factory plate | Adapter plate — Aftermarket RMSc adapter — confirm | Factory plate — FN FNX-45 factory RMR mounting | Ships factory RMR plate; RMSc aftermarket. |
 | FN | Reflex / Reflex XL MRD | Shield RMSc | Direct fit — no plate (uses the optic's supplied screws) | Not suited (use the other footprint's optic) | Micro slide RMSc direct. |
+| Flux Defense | Raider X (Sig P320 chassis) | Top Picatinny rail (chassis) | Not suited (use the other footprint's optic) | Not suited (use the other footprint's optic) | Rail-mounted chassis, not a slide footprint: fit any ZeroTech rail optic on the top Picatinny rail — Thrive HD Digital 1x22, Trace R.A.S 1x25, Thrive Red Dot 3 MOA, Thrive HD Micro Prism 1x20, or Thrive HD Variable Prism 1-4x24 (RS28 also via its Pic mount). |
 | Glock | G17/19/34/45/47 Gen5 MOS | Glock MOS 1" plate | Adapter plate — C&H Glock-MOS→Holosun-K/RMSc — PN GL-HOLOk (aftermkt) | Factory plate — Glock MOS Adapter Plate 02 (RMR) — factory | Factory MOS plate = RMR/507C; RMSc via aftermarket plate. |
 | Glock | G17/19/45/49 Gen6 | Gen6 ORS multi-plate | Factory plate — Glock ORS factory plate — confirm RMSc/K plate availability | Factory plate — Glock ORS Plate 02 (RMR) — factory | ORS plates: Plate 02 = RMR; RMSc/K also covered. |
+| Glock | G19X | No factory optic cut (not optics-ready) | Not suited (use the other footprint's optic) | Not suited (use the other footprint's optic) | Not optics-ready as standard — needs a milled or MOS slide first; then RMSc (Micro Reflex / H.A.L.O) via a MOS→RMSc plate, or the RS28 (RMR) via the factory MOS plate. |
+| Glock | G23 (milled for Shield RMS) | Aftermarket full-size Shield RMS cut | Not suited (use the other footprint's optic) | Not suited (use the other footprint's optic) | Full-size Shield RMS cut (bigger than RMSc): the Micro Reflex (RMSc) seats in the RMS pocket with a small fore/aft gap — bench-check; not a clean fit. No exact ZeroTech fit. |
+| Glock | G23 Gen 3 (aftermarket-milled slide) | Depends on the milled footprint | Confirm milled footprint (see Notes) | Confirm milled footprint (see Notes) | Depends on the cut: RMR → RS28 direct; Shield RMSc → Micro Reflex / H.A.L.O direct; full-size RMS → RMSc with a fore/aft gap. Confirm the footprint it was milled to. |
 | Glock | G43X MOS / G48 MOS | Shield RMSc (Slimline MOS) | Direct fit — no plate (uses the optic's supplied screws) | Not suited (use the other footprint's optic) | RMSc direct; RS28 too large for slim slide. |
 | Grand Power | K100 Mk23 (OR) | 4-plate factory system | Factory plate — GP factory Shield RMSc/SMS plate (in 4-plate set) | Factory plate — GP factory RMR plate (in 4-plate set) | Ships RMR + Shield RMSc/SMS + Docter + C-More plates. |
 | Grand Power | Q100 (CO) | 4-plate factory system | Factory plate — GP Plate #4 is Shield SMS (not true RMSc) — confirm ZT fit | Factory plate — GP Dovetail Plate #2 (RMR) — UPC 8588005944120 | Same GP multi-plate system. |
@@ -100,10 +104,12 @@ For each pistol family, how the two RMSc pistol optics (**Thrive HD Micro Reflex
 | SCCY | CPX RDR / DVG-1 RDR | Shield RMS / RMSc | Direct fit — no plate (uses the optic's supplied screws) | Not suited (use the other footprint's optic) | RDR slides Shield-cut. |
 | Shadow Systems | CR920 / CR920P / Combat | Modified RMSc (K-series) | Direct fit — no plate (uses the optic's supplied screws) | Adapter plate — C&H CR920→RMR/SRO — PN SHDWSYS-CR920-RSH | Slimline; RMR only via C&H adapter. |
 | Shadow Systems | MR920 / DR920 / XR920 | Multi-footprint direct cut (OMS) | Direct (multi-cut system) — Direct — factory multi-footprint pin/plate set (no adapter) | Direct (multi-cut system) — Direct — factory multi-footprint pin/plate set (no adapter) | Patented multi-optic cut: RMR via in-box spacer; RMSc/K via Shadow's optional EPS/K spacer kit (SGK-EPS). Bench-check true-RMSc (DM21) seating. |
+| Sig Sauer | P226 Legion (RXP variant) | RXP: SIG Romeo1Pro / DPP-family cut (standard Legion not optics-ready) | Not suited (use the other footprint's optic) | Adapter plate — Romeo1Pro→RMR adapter (RXP variant only) — confirm | Standard P226 Legion isn't optics-ready. Only the RXP version has an optic cut (SIG Romeo1Pro / DPP-family); a ZeroTech optic fits it only via a Romeo1Pro→RMR adapter plate (→ RS28). |
 | Sig Sauer | P365 / X / XL / X-Macro / Fuse / AXG Legion | Shield RMSc | Direct fit — no plate (uses the optic's supplied screws) | Not suited (use the other footprint's optic) | Biggest US micro-compact family. |
 | Sig Sauer | P365-380 / P322 | Shield RMSc | Direct fit — no plate (uses the optic's supplied screws) | Not suited (use the other footprint's optic) | P322 was a H.A.L.O review test-bed. |
 | Smith & Wesson | CSX E-Series OR | Modified RMSc / 507K | Direct fit — no plate (uses the optic's supplied screws) | Not suited (use the other footprint's optic) | Bench-check ZT lug seating on a sample. |
 | Smith & Wesson | Equalizer / M&P 22 Magnum | Modified RMSc / Holosun-K | Direct fit — no plate (uses the optic's supplied screws) | Not suited (use the other footprint's optic) |  |
+| Smith & Wesson | M&P 5.7 | Modified RMSc / Holosun-K | Direct fit — no plate (uses the optic's supplied screws) | Not suited (use the other footprint's optic) | Modified RMSc/K cut — bench-check lug seating. |
 | Smith & Wesson | M&P Shield Plus OR / PC Shield M2.0 OR | Shield RMSc | Direct fit — no plate (uses the optic's supplied screws) | Not suited (use the other footprint's optic) | Native RMSc slim slide. |
 | Smith & Wesson | M&P9 / M&P40 M2.0 OR & CORE | CORE plate kit (7 plates) | Adapter plate — C&H M2.0 CORE→Holosun-K/RMSc — PN SWMP-HOLOk-975 (aftermkt) | Factory plate — S&W CORE factory plate, RMR/507C (in 7-plate set) | CORE plates = RMR/507C; RMSc via aftermarket. |
 | Springfield Armory | 1911 DS Prodigy | AOS plate system | Factory plate — SA AOS Plate A12B (RMSc/K) — kit PH5077N | Factory plate — SA AOS Plate A14B (RMR) — kit PH5077N | AOS plates for both patterns. |
@@ -121,6 +127,7 @@ For each pistol family, how the two RMSc pistol optics (**Thrive HD Micro Reflex
 | Taurus | Defender 856/327/605/Judge TORO | Factory RMSc plate (top strap) | Factory plate — Taurus Defender/856 TORO RMSc plate — confirm PN | Not suited (use the other footprint's optic) | Optics-ready revolvers; RMSc via factory plate. |
 | Taurus | G3 TORO / G3c / G3X TORO | Taurus TORO plate kit | Adapter plate — No factory RMSc in the TORO kit — aftermarket TORO→RMSc/Viper plate; confirm | Factory plate — Taurus TORO Plate #2 (RMR) — SKU 10027856 | Factory TORO kit = RMR/Holosun, DPP, Docter/Venom, C-More only (NO RMSc). RMR factory (Plate #2); RMSc via aftermarket. |
 | Taurus | GX4 TORO / GX4XL / Carry TORO | Modified RMSc | Direct fit — no plate (uses the optic's supplied screws) | Not suited (use the other footprint's optic) | RMSc/RMRcc; no full RMR. |
+| Taurus | PT-series | No factory optic cut (not optics-ready) | Not suited (use the other footprint's optic) | Not suited (use the other footprint's optic) | PT-series aren't optics-ready (need milling). The optics-ready Taurus models are the G3 / GX4 TORO, which take the Micro Reflex (RMSc) direct. |
 | Taurus | TX22 Compact | Modified RMSc | Direct fit — no plate (uses the optic's supplied screws) | Not suited (use the other footprint's optic) | Rimfire trainer. |
 | Tisas | Carry / Duty Double Stack 2311 | Holosun-K / RMSc (direct) | Direct fit — no plate (uses the optic's supplied screws) | Adapter plate — SAS Tactical Tisas RMS→RMR — PN RMS2RMR1Tisas | 507K/RMSc footprint milled direct; RMR via Tisas factory RMS-to-RMR adapter. |
 | Volquartsen | Black Mamba / Mamba-X | Integral mount (RMSc-pattern) | Direct fit — no plate (uses the optic's supplied screws) | Adapter plate — Aftermarket RMR adapter — confirm (per SKU) | Rimfire; confirm footprint per SKU. |
@@ -136,4 +143,4 @@ For each pistol family, how the two RMSc pistol optics (**Thrive HD Micro Reflex
 | ZRO Delta | FKS-9 / Genesis (optic tier) | Multi-plate (premium tier) | Factory plate — ZRO Delta factory RMSc plate — confirm | Factory plate — ZRO Delta factory RMR plate — confirm | Premium/optic tier includes RMR + RMSc + Viper plates; Deluxe is RMR-direct only. |
 
 ---
-*Last updated: 2026-08-04 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-04 · Source: ZeroTech ZT Product KB*
