@@ -23,6 +23,7 @@ The repo is organised into one folder per product category. Each category folder
 - `Binoculars/`
 - `Spotting Scopes/`
 - `Reticles/` — not a product category; a shared library of reticle reference PDFs (see below)
+- `Reference/` — not a product category; cross-category lookup docs (glossary, compatibility guide — see below)
 
 Additional category folders may appear over time; each follows the same per-SKU + shared-manual pattern.
 
@@ -58,6 +59,15 @@ Body sections, in order:
 Reticle families covered include: **RMG** (plus RMG MOA, RMG 2, RMG-L, RMG-H), **PHR** (PHR, PHR 2, PHR 3, PHR 4), **R3**, **RAR**, **LR Hunter**, **TREMOR3**, **Mildot**, and **THLR**. The Trace Advanced spotting scope's **OSR** first-focal-plane reticle chart ships with that product and is referenced from its SKU file. Further reticle PDFs may be added here over time.
 
 To find which reticle a given scope uses, check that SKU's file (spec table / manual section), then open the matching PDF here for the subtension detail.
+
+## The Reference folder
+
+`Reference/` holds cross-category lookup docs that don't belong to any one product folder:
+
+- `_Terminology_Glossary.md` — maps customer language and product nicknames (e.g. "Slimline") to the spec field, category, or SKU family they actually mean. Grows over time as real support/contact-form questions surface new terms — add to it rather than letting the AI assistant guess a mapping on its own.
+- `_Compatibility_Guide.md` — ZeroTech optic → footprint, aggregated from each SKU's own `Footprint`/`Mount Type` spec row (fully sourced from this repo). Its firearm → footprint side is intentionally a template: which specific firearm models/generations natively accept which footprint is outside this repo's own data and should only be added once confirmed against the firearm manufacturer's own spec sheet, not general recollection — stating that kind of claim with unearned confidence is exactly what the Sep 2026 answer review flagged more than once.
+
+Both files carry `pin: true` in their front matter, meaning the chat backend always includes them in context rather than leaving them to compete with per-SKU chunks on similarity search — keep them lean and general for that reason; product-specific detail still belongs in the relevant SKU file.
 
 ## Known flags (for reconciliation on the source sheets)
 
