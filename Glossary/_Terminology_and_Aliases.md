@@ -1,5 +1,6 @@
 ---
 category: Glossary
+pin: true
 title: ZeroTech Terminology & Alternate Names
 brand: ZeroTech
 last_updated: 2026-08-04

@@ -1,5 +1,6 @@
 ---
 category: Compatibility
+pin: true
 guide: Red Dot & Prism Firearm Compatibility
 part: 3 of 5 — Pistol Fitment
 market: US / Global
