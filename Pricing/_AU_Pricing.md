@@ -3,7 +3,7 @@ category: Pricing
 market: Australia
 currency: AUD
 price_basis: Regular price (RRP/MSRP); indicative, subject to change
-last_updated: 2026-07-13
+last_updated: 2026-08-04
 source: WooCommerce export (AU Price.csv)
 ---
 
@@ -24,12 +24,12 @@ All prices in **AUD**. Prices are the current regular price and are indicative o
 | TH1824P4-IR | 699 |
 | TH1824R-IR | 699 |
 | TH206085 | 699 |
-| TH2155P | 699 |
-| TH2155P-IR | 799 |
+| TH2155P | 799 |
+| TH2155P-IR | 899 |
 | TH31244 | 399 |
 | TH31244-P3 | 479 |
 | TH31244MD | 399 |
-| TH3186P-IR | 799 |
+| TH3186P-IR | 899 |
 | TH3186R3 | 799 |
 | TH3940 | 299 |
 | TH3940-P3 | 349 |
@@ -73,8 +73,8 @@ All prices in **AUD**. Prices are the current regular price and are indicative o
 | TR3184H-IR | 1999 |
 | TR3185FL-IR | 999 |
 | TR3185R3 | 699 |
-| TR4245F-IR | 1999 |
-| TR4245FT3 | 2199 |
+| TR4245F-IR | 2299 |
+| TR4245FT3 | 2499 |
 | TR4275F | 899 |
 | TR4275FM | 899 |
 | TR4275R3 | 899 |
@@ -103,7 +103,7 @@ All prices in **AUD**. Prices are the current regular price and are indicative o
 | VG1624IR-FDE | 549 |
 | VG1824-IR | 649 |
 | VG1824IR-FDE | 649 |
-| VG3124 | 249 |
+| VG3124 | 279 |
 | VG3124P4 | 299 |
 | VG3124P4-IR | 329 |
 | VG3124R3 | 299 |
@@ -111,12 +111,12 @@ All prices in **AUD**. Prices are the current regular price and are indicative o
 | VG4164FM | 549 |
 | VG4164P4 | 349 |
 | VG4164P4-IR | 379 |
-| VG4205P | 549 |
-| VG4205P-IR | 599 |
-| VG4205R3 | 549 |
-| VG4205R3-IR | 599 |
+| VG4205P | 579 |
+| VG4205P-IR | 629 |
+| VG4205R3 | 579 |
+| VG4205R3-IR | 629 |
 | VG45184P | 299 |
-| VG5256F | 749 |
+| VG5256F | 799 |
 | VG6245F | 599 |
 | VG6245FM | 599 |
 | VG6245R3 | 399 |
@@ -142,4 +142,4 @@ All prices in **AUD**. Prices are the current regular price and are indicative o
 | ZTRMSB01 | 19.95 |
 | ZTRMSB02 | 29.95 |
 
-*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-08-04 · Source: ZeroTech ZT Product KB*

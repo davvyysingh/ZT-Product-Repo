@@ -3,7 +3,7 @@ title: ZeroTech Reticle Reference
 category: Reticles
 brand: ZeroTech
 doc_type: consolidated reticle reference
-last_updated: 2026-07-13
+last_updated: 2026-08-04
 ---
 
 # ZeroTech Reticle Reference (Consolidated)
@@ -193,6 +193,18 @@ The MOA counterpart of the RMG grid (dimensional-reference sheet).
 | Q | 0.07 MOA thick | HH | 2.0 MOA |
 | | | JJ | 120.0 MOA |
 
+### G4 (German #4) — MOA
+A hunting-style German #4 reticle (heavy outer posts tapering to a fine centre).
+
+| Callout | Value |
+| --- | --- |
+| A | 44 MOA |
+| B | 4 MOA |
+| C | 0.7 MOA |
+| D | 22 MOA |
+| E | 0.2 MOA |
+| F | 2.5 MOA |
+
 ---
 
 ## MRAD / MIL reticles
@@ -244,8 +256,24 @@ Same base grid as RMG with an extended vertical scale to 20 mil and added illumi
 
 *All values in mils.*
 
-### RMG 3
-**No standalone reticle manual / range chart is present in this folder.**
+### RMG 3 — MIL, illuminated
+Illuminated MIL grid; the vertical scale extends to 30 mil. Marked Revision 3. Ships with a blank range-chart worksheet.
+
+| Callout | Value | Callout | Value |
+| --- | --- | --- | --- |
+| A | 0.1 | L | 0.06 dia |
+| B | 0.1 | M | 0.06 dia |
+| C | 0.4 | N | 0.5 |
+| D | 0.2 | O | 2 |
+| E | 0.1 | P | 0.6 |
+| F | 0.2 | Q | 0.2 tall |
+| G | 0.045 thick | R | 0.35 tall |
+| H | 0.033 thick | S | 4 |
+| I | 0.033 thick | T | 0.6 tall |
+| J | 0.02 thick | U | 0.5 |
+| K | 0.02 thick | V | 0.3 |
+
+*All values in mils.*
 
 ### RMG-H (RMG-H [Rokslide]) — MIL and MOA versions, illuminated
 The manual provides both an MRAD and an MOA grid (MOA grid graduated to 80). Marked Revision 2 / V2_25.09.25.
@@ -398,15 +426,13 @@ Trademarks and design are the property of Horus Vision (www.HorusVision.com).
 The following reticle names are used in the ZeroTech range but have **no standalone manual or range-chart PDF** in this folder:
 
 - **ZEROPLEX** — plex-style hunting reticle.
-- **G4** — German #4 style reticle.
-- **RMG 3** — MIL grid reticle.
 - **RAP-R** — prism-sight reticle.
 - **Prism Dot** — prism-sight reticle.
 - **OSR** — Optimised Spotting Reticle (FFP, MRAD); supplied with its own OSR dimensions chart.
 
 ## Source files
 
-Consolidated from the reticle manuals and range charts in this folder (PHR, PHR 2, PHR 3, PHR 4, R3, RAR, RMG, RMG MOA, RMG 2, RMG-H, RMG-L, LR Hunter, THLR, Mildot, TREMOR3), including their illuminated variants and blank range-chart worksheets.
+Consolidated from the reticle manuals and range charts in this folder (PHR, PHR 2, PHR 3, PHR 4, R3, RAR, G4, RMG, RMG MOA, RMG 2, RMG 3, RMG-H, RMG-L, LR Hunter, THLR, Mildot, TREMOR3), including their illuminated variants and blank range-chart worksheets.
 
 ---
-*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-08-04 · Source: ZeroTech ZT Product KB*
