@@ -3,7 +3,7 @@ category: Glossary
 pin: true
 title: ZeroTech Terminology & Alternate Names
 brand: ZeroTech
-last_updated: 2026-08-04
+last_updated: 2026-09-09
 source: ZeroTech Terminology & Alternate Names (Glossary)
 ---
 
@@ -134,6 +134,7 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 | R.A.S | Rapid Aiming System (Trace) | RAS | ZeroTech's enclosed 1x25 digital dot. |
 | Thrive HD / Trace | ZeroTech product lines | — | Thrive/Thrive HD = core lines; Trace = premium line. |
 | Triple-A warranty | "Any Owner, Any Problem, Always Covered" | AAA warranty, lifetime guarantee | ZeroTech's transferable lifetime warranty. |
+| Slimline | Customer/retail nickname for ZeroTech's smallest pistol red dot | "slimline", "slim carry dot", "slimline optic" | = **Thrive HD Micro Reflex (DM21 family)** — 19g, Shield RMSc footprint, ZeroTech's lightest/thinnest pistol dot, built for concealed carry. NOT a separate SKU or product name — when a customer says "slimline," they mean the DM21. Answer directly: "Yes, for slimline we recommend the Thrive HD Micro Reflex (DM21)," don't say it's not in the catalog. |
 
 ## Footprint families — which optics share a mounting pattern
 
@@ -153,4 +154,4 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 Shield Sights · Trijicon · Aimpoint · Leupold · Holosun · Optics Trade & opticfootprint.com footprint guides · MIL-STD-1913. Footprint "aliases" can differ slightly in tolerance — where noted, bench-check before publishing a fit claim.
 
 ---
-*Last updated: 2026-08-04 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-09 · Source: ZeroTech ZT Product KB*
