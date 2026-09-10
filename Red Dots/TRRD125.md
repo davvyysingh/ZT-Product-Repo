@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Trace R.A.S Red Dot (International)
 has_video: true
-last_updated: 2026-07-13
+last_updated: 2026-09-09
 ---
 
 # ZeroTech Trace R.A.S 1x25 2 MOA Digital Red Dot (TRRD125)
@@ -45,7 +45,7 @@ A premium enclosed 1x25 digital red dot from the Trace line — the Rapid Aiming
 | Color | Black |
 | Available Reticles | 2 MOA Red Dot |
 | Mount Type | Multiple |
-| Recommended Use | AR Platform / MSR Setups, Hunting – Bush / Scrub |
+| Recommended Use | AR Platform / MSR Setups, Hunting – Scrub / Bush |
 | Waterproof Rating | IPX7 |
 
 ## Key features
@@ -84,4 +84,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace R.
 zerotech, trace, ras, rapid-aiming-system, red-dot, digital-red-dot, enclosed, 1x25, 2-moa, red-dot-reticle, recessed-led, shake-awake, motion-sensor, digital-controls, aimpoint-micro-footprint, t2-footprint, high-low-mount, picatinny, cr2032, 50000-hours, fmc, ipx7, ar-platform, msr, hunting
 
 ---
-*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-09 · Source: ZeroTech ZT Product KB*

@@ -1,6 +1,5 @@
 ---
 category: Glossary
-pin: true
 title: ZeroTech Terminology & Alternate Names
 brand: ZeroTech
 last_updated: 2026-09-09
@@ -59,7 +58,7 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 | --- | --- | --- | --- |
 | Auto Sleep / Auto ON | Motion-activated on/off | Shake Awake (Holosun), MOTAC (SIG), motion sensor, "motion awake" | Sleeps when idle, wakes on movement, resumes last brightness. Brand terms differ; function is equivalent. |
 | Digital controls | Push-button brightness/power | +/- buttons | vs a rotary dial. |
-| Dial (illumination) | Rotary brightness dial | rheostat | e.g. Thrive Red Dot 3 MOA. |
+| Dial (illumination) | Rotary brightness dial | rheostat | e.g. Thrive Reflex Sight 3 MOA. |
 | NV | Night vision (settings) | NV-compatible, night-vision levels | Low brightness levels usable with NVDs. |
 
 ## Optical
@@ -72,6 +71,7 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 | Field of View | FOV | field | Width of view at a given distance. |
 | Parallax | Parallax-free distance | — | Distance at which reticle/target shift is nil. |
 | FMC | Fully Multi-Coated (lenses) | multi-coated, AR-coated | AR = anti-reflective coating. |
+| Optical Length | Length of the optical assembly, objective to eyepiece | optical path length | Binocular spec. Always shorter than the body — not the product's length. |
 
 ## Adjustment
 
@@ -86,6 +86,7 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 | --- | --- | --- | --- |
 | 6061-T6 / 7075 aluminium | Aircraft-grade aluminium alloy | "aircraft-grade aluminium", 6061/7075 alloy; ZeroTech "Premium Aluminium" | 7075 is stronger than 6061-T6. |
 | IPX7 | Ingress Protection rating (water) | "waterproof rating" | IPX7 = withstands ~1 m immersion for 30 min. |
+| Packaged Dimensions | Retail box size | shipping dimensions, box size | H×W×L in inches, all categories. Not the product's own size. |
 | Shockproof / fogproof / waterproof | Durability ratings | recoil-proof, sealed, nitrogen/fog-proof | Common ZeroTech durability claims. |
 
 ## Power
@@ -134,7 +135,6 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 | R.A.S | Rapid Aiming System (Trace) | RAS | ZeroTech's enclosed 1x25 digital dot. |
 | Thrive HD / Trace | ZeroTech product lines | — | Thrive/Thrive HD = core lines; Trace = premium line. |
 | Triple-A warranty | "Any Owner, Any Problem, Always Covered" | AAA warranty, lifetime guarantee | ZeroTech's transferable lifetime warranty. |
-| Slimline | Customer/retail nickname for ZeroTech's smallest pistol red dot | "slimline", "slim carry dot", "slimline optic" | = **Thrive HD Micro Reflex (DM21 family)** — 19g, Shield RMSc footprint, ZeroTech's lightest/thinnest pistol dot, built for concealed carry. NOT a separate SKU or product name — when a customer says "slimline," they mean the DM21. Answer directly: "Yes, for slimline we recommend the Thrive HD Micro Reflex (DM21)," don't say it's not in the catalog. |
 
 ## Footprint families — which optics share a mounting pattern
 

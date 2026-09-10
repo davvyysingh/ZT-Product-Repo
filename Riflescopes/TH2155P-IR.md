@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive / Thrive HD (International)
 has_video: true
-last_updated: 2026-07-13
+last_updated: 2026-09-10
 ---
 
 # ZeroTech Thrive HD 2.5-15x50 – PHR 2 Illuminated (TH2155P-IR)
@@ -75,7 +75,7 @@ An independent review (Aussie Reviews) tests the Thrive HD 2.5-15x50:
 - **Specs in use:** 30mm tube, 70 MOA of adjustment, quarter-MOA clicks (with slight pre-click play noted as common at this price), parallax from 10 m to infinity, and a second-focal-plane reticle that stays a constant size.
 - **Optics:** Fully multi-coated, fog- and waterproof, with a claimed 92% light transmission — rated good for the price though not on par with premium brands; clarity described as solid.
 - **Tracking:** Adjustments returned precisely to zero, reticle holdovers matched expected values, and there was no point-of-impact shift across magnification changes.
-- **Verdict:** Reliable performance and good value at its price point; the only minor drawback noted was slight turret play. (The reviewer also clarified the scope is manufactured in China and judged it purely on performance.)
+- **Verdict:** Reliable performance and good value at its price point; the only minor drawback noted was slight turret play.
 
 ## Manual
 Full setup, care, warranty, and safety instructions are in the shared **Thrive / Thrive HD manual reference** (`_Thrive_manual.md`) in this folder. Sections that apply to this model:
@@ -88,4 +88,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive /
 zerotech, thrive, hd, riflescope, 2.5-15x50, sfp, second-focal-plane, phr-2, phr-2-illuminated, illuminated, 30mm, 0.25-moa, capped-turrets, side-parallax, glass-etched, hd-glass, weathershield, fmc, ipx7, big-game, hunting, low-light
 
 ---
-*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-10 · Source: ZeroTech ZT Product KB*

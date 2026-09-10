@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive HD Reflex Sight RS28 (International)
 has_video: true
-last_updated: 2026-07-13
+last_updated: 2026-09-10
 ---
 
 # ZeroTech Thrive HD Reflex Sight 3 MOA Low Mount (THDRS28L)
@@ -43,9 +43,9 @@ A full-size 28mm open reflex sight on the RMR footprint with a 3 MOA red dot, 11
 | Packaged Weight | 16.0oz (454g) |
 | Packaged Dimensions (H×W×L, in) | 3 x 3.9 x 6.8 |
 | Color | Black |
-| Available Reticles | 3 MOA Green Dot, 3 MOA Red Dot, Multi Reticle Red Dot |
+| Available Reticles | 3 MOA Green Dot, 3 MOA Red Dot, Multi Reticle Green Dot, Multi Reticle Red Dot |
 | Mount Type | Low |
-| Recommended Use | Hunting – Bush / Scrub, Offset / Co-Witness Setups, Pistol |
+| Recommended Use | Hunting – Scrub / Bush, Offset / Co-Witness Setups, Pistol |
 | Waterproof Rating | IPX7 |
 
 ## Key features
@@ -84,4 +84,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive H
 zerotech, thrive, thrive-hd, red-dot, reflex-sight, rs28, open-reflex, 1x, 28mm, 3-moa, red-dot-reticle, rmr-footprint, low-mount, picatinny, co-witness, offset, shake-awake, motion-sensor, cr2032, 50000-hours, 6061-t6, fmc, ipx7, pistol, hunting
 
 ---
-*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-10 · Source: ZeroTech ZT Product KB*
