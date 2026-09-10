@@ -1,5 +1,6 @@
 ---
 category: Compatibility
+pin: true
 guide: Red Dot & Prism Firearm Compatibility
 part: 2 of 5 — Optics & Footprints
 last_updated: 2026-09-09
