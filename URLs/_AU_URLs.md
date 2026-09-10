@@ -2,7 +2,7 @@
 category: Product URLs
 market: Australia
 site: https://zerotech.com.au
-last_updated: 2026-08-04
+last_updated: 2026-09-10
 source: WordPress export (zerotechaustralia.WordPress.2026-08-03.xml)
 ---
 
@@ -134,7 +134,6 @@ Canonical product-page URLs on the Australian site (zerotech.com.au), keyed by *
 | ZTA-CLOTH | https://zerotech.com.au/p/zerotech-lens-cloth/ |
 | ZTA-DOVETAIL38 | https://zerotech.com.au/p/red-dot-dovetail-mount-aimpoint/ |
 | ZTA-MULTI | https://zerotech.com.au/p/riflescope-multi-tool/ |
-| ZTA-ODSP | https://zerotech.com.au/p/zerotech-decal-pack/ |
 | ZTA-SSVEN4205 | https://zerotech.com.au/p/50mm-objective-sunshade-for-vengeance-4-20x50/ |
 | ZTA-SSVEN5256 | https://zerotech.com.au/p/56mm-objective-sunshade-for-vengeance-5-25x56/ |
 | ZTA-SUNSHADE50 | https://zerotech.com.au/p/50mm-objective-sunshade/ |
@@ -142,4 +141,4 @@ Canonical product-page URLs on the Australian site (zerotech.com.au), keyed by *
 | ZTRMSB01 | https://zerotech.com.au/p/micro-reflex-rmsc-low-picatinny-mount/ |
 | ZTRMSB02 | https://zerotech.com.au/p/micro-reflex-rmsc-high-picatinny-mount/ |
 
-*Last updated: 2026-08-04 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-10 · Source: ZeroTech ZT Product KB*
