@@ -1,10 +1,9 @@
 ---
 category: Compatibility
-pin: true
 guide: Red Dot & Prism Firearm Compatibility
 part: 3 of 5 — Pistol Fitment
 market: US / Global
-last_updated: 2026-09-04
+last_updated: 2026-09-09
 source: ZeroTech Red Dot & Prism Compatibility Guide v4.0
 ---
 
@@ -57,7 +56,7 @@ For each pistol family, how the two RMSc pistol optics (**Thrive HD Micro Reflex
 | FN | Five-seveN MRD | FN plate system | Adapter plate — C&H FN 5-7→Holosun-K/RMSc — PN FN57-HOLOk (aftermkt) | Factory plate — FN Five-seveN MRD RMR plate — confirm PN | Factory RMR/DPP plates; RMSc via C&H. |
 | FN | FNX-45 Tactical | Proprietary factory plate | Adapter plate — Aftermarket RMSc adapter — confirm | Factory plate — FN FNX-45 factory RMR mounting | Ships factory RMR plate; RMSc aftermarket. |
 | FN | Reflex / Reflex XL MRD | Shield RMSc | Direct fit — no plate (uses the optic's supplied screws) | Not suited (use the other footprint's optic) | Micro slide RMSc direct. |
-| Flux Defense | Raider X (Sig P320 chassis) | Top Picatinny rail (chassis) | Not suited (use the other footprint's optic) | Not suited (use the other footprint's optic) | Rail-mounted chassis, not a slide footprint: fit any ZeroTech rail optic on the top Picatinny rail — Thrive HD Digital 1x22, Trace R.A.S 1x25, Thrive Red Dot 3 MOA, Thrive HD Micro Prism 1x20, or Thrive HD Variable Prism 1-4x24 (RS28 also via its Pic mount). |
+| Flux Defense | Raider X (Sig P320 chassis) | Top Picatinny rail (chassis) | Not suited (use the other footprint's optic) | Not suited (use the other footprint's optic) | Rail-mounted chassis, not a slide footprint: fit any ZeroTech rail optic on the top Picatinny rail — Thrive HD Digital 1x22, Trace R.A.S 1x25, Thrive Reflex Sight 3 MOA, Thrive HD Micro Prism 1x20, or Thrive HD Variable Prism 1-4x24 (RS28 also via its Pic mount). |
 | Glock | G17/19/34/45/47 Gen5 MOS | Glock MOS 1" plate | Adapter plate — C&H Glock-MOS→Holosun-K/RMSc — PN GL-HOLOk (aftermkt) | Factory plate — Glock MOS Adapter Plate 02 (RMR) — factory | Factory MOS plate = RMR/507C; RMSc via aftermarket plate. |
 | Glock | G17/19/45/49 Gen6 | Gen6 ORS multi-plate | Factory plate — Glock ORS factory plate — confirm RMSc/K plate availability | Factory plate — Glock ORS Plate 02 (RMR) — factory | ORS plates: Plate 02 = RMR; RMSc/K also covered. |
 | Glock | G19X | No factory optic cut (not optics-ready) | Not suited (use the other footprint's optic) | Not suited (use the other footprint's optic) | Not optics-ready as standard — needs a milled or MOS slide first; then RMSc (Micro Reflex / H.A.L.O) via a MOS→RMSc plate, or the RS28 (RMR) via the factory MOS plate. |
@@ -144,4 +143,4 @@ For each pistol family, how the two RMSc pistol optics (**Thrive HD Micro Reflex
 | ZRO Delta | FKS-9 / Genesis (optic tier) | Multi-plate (premium tier) | Factory plate — ZRO Delta factory RMSc plate — confirm | Factory plate — ZRO Delta factory RMR plate — confirm | Premium/optic tier includes RMR + RMSc + Viper plates; Deluxe is RMR-direct only. |
 
 ---
-*Last updated: 2026-09-04 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-09 · Source: ZeroTech ZT Product KB*

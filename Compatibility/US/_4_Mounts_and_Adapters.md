@@ -1,6 +1,5 @@
 ---
 category: Compatibility
-pin: true
 guide: Red Dot & Prism Firearm Compatibility
 part: 4 of 5 — Mounts & Adapters
 last_updated: 2026-08-04
