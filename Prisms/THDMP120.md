@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Thrive HD Micro Prism (International)
 has_video: true
-last_updated: 2026-07-13
+last_updated: 2026-09-09
 ---
 
 # ZeroTech Thrive HD 1x Micro Prism – Prism Dot Illuminated (THDMP120)
@@ -45,7 +45,7 @@ A compact 1x20 prism sight with a glass-etched Prism Dot reticle, 13 brightness 
 | Color | Black |
 | Available Reticles | Prism Dot |
 | Mount Type | Multiple |
-| Recommended Use | AR Platform / MSR Setups, Hunting – Bush / Scrub |
+| Recommended Use | AR Platform / MSR Setups, Hunting – Scrub / Bush |
 | Waterproof Rating | IPX7 |
 
 ## Key features
@@ -85,4 +85,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive H
 zerotech, thrive, thrive-hd, prism, prism-sight, micro-prism, 1x20, prism-dot, etched-reticle, astigmatism, 13-brightness, night-vision, aimpoint-micro-footprint, t2-footprint, cr2032, 50000-hours, motion-sensor, 6061-t6, tenebraex, fmc, ipx7, ar-platform, msr, hunting
 
 ---
-*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-09 · Source: ZeroTech ZT Product KB*

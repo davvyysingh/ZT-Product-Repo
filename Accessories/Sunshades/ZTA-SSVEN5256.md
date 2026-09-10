@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: ZTA-SSVEN5256_installation_guide.pdf (in this folder); online: https://www.zerotech.com.au/wp-content/uploads/2022/03/Flip-up-cover-installation-guide.pdf
 has_video: false
-last_updated: 2026-09-04
+last_updated: 2026-09-08
 ---
 
 # ZeroTech 56mm Objective Sunshade for Vengeance 5-25x56 (ZTA-SSVEN5256)
@@ -39,11 +39,13 @@ A 3-inch (56mm) objective sunshade that threads directly into the objective of t
 
 ## Fits
 
-- Vengeance 5-25x56 — RMG (VG5256F)
+- Vengeance 5-25x56 — FFP RMG (VG5256F)
+
+This list is complete for this accessory. The ZTA-SSVEN5256 is a sunshade sold separately, and it fits only the riflescope models listed above — if a model is not listed here, this sunshade does not fit that model.
 
 ## Tags
 
 zerotech, accessory, sunshade, objective-sunshade, 56mm, anti-glare, vengeance, 5-25x56, riflescope
 
 ---
-*Last updated: 2026-09-04 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-08 · Source: ZeroTech ZT Product KB*

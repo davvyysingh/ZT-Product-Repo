@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: —
 has_video: false
-last_updated: 2026-09-04
+last_updated: 2026-09-09
 ---
 
 # ZeroTech Red Dot Dovetail Mount (Aimpoint Micro Footprint) (ZTA-DOVETAIL38)
@@ -41,7 +41,7 @@ A premium-aluminium rimfire dovetail mount that adapts Aimpoint Micro-footprint 
 
 - Thrive HD Digital 1x22 (THRD22)
 - Trace R.A.S 1x25 (TRRD125)
-- Thrive Red Dot 3 MOA (THRD25)
+- Thrive Reflex Sight 3 MOA (THRD25)
 - Thrive HD Micro Prism 1x20 (THDMP120 / -FDE)
 - Most other red dots using the Aimpoint Micro footprint
 
@@ -50,4 +50,4 @@ A premium-aluminium rimfire dovetail mount that adapts Aimpoint Micro-footprint 
 zerotech, accessory, mount, dovetail-mount, aimpoint-micro-footprint, rimfire-dovetail, red-dot-mount, aluminium
 
 ---
-*Last updated: 2026-09-04 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-09 · Source: ZeroTech ZT Product KB*

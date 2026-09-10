@@ -8,7 +8,7 @@ brand: ZeroTech
 color: FDE
 manual_ref: Thrive HD Reflex Sight RS28 (International)
 has_video: true
-last_updated: 2026-07-13
+last_updated: 2026-09-10
 ---
 
 # ZeroTech Thrive HD Reflex Sight Green Multi Reticle Low Mount FDE (THDRS28MGFL)
@@ -23,7 +23,7 @@ The Flat Dark Earth, green-illumination version of the full-size 28mm open refle
 | Magnification | 1x |
 | Footprint | RMR® |
 | Objective Lens Diameter | 28mm |
-| Reticle type | 3 MOA Green Dot |
+| Reticle type | Multi Reticle Green Dot |
 | Brightness Settings | 11 |
 | Controls | Digital with auto on/off |
 | Auto Sleep/Auto ON | Yes |
@@ -43,9 +43,9 @@ The Flat Dark Earth, green-illumination version of the full-size 28mm open refle
 | Packaged Weight | 16.0oz (454g) |
 | Packaged Dimensions (H×W×L, in) | 3 x 3.9 x 6.8 |
 | Color | FDE |
-| Available Reticles | 3 MOA Green Dot |
+| Available Reticles | 3 MOA Green Dot, 3 MOA Red Dot, Multi Reticle Green Dot, Multi Reticle Red Dot |
 | Mount Type | Low |
-| Recommended Use | Hunting – Bush / Scrub, Offset / Co-Witness Setups, Pistol |
+| Recommended Use | Hunting – Scrub / Bush, Offset / Co-Witness Setups, Pistol |
 | Waterproof Rating | IPX7 |
 
 ## Key features
@@ -86,4 +86,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Thrive H
 zerotech, thrive, thrive-hd, red-dot, reflex-sight, rs28, open-reflex, 1x, 28mm, multi-reticle, green-dot, 3-moa, 40-moa-circle, astigmatism, fde, rmr-footprint, low-mount, picatinny, co-witness, offset, shake-awake, motion-sensor, cr2032, 50000-hours, fmc, ipx7, pistol, sub-gun
 
 ---
-*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-10 · Source: ZeroTech ZT Product KB*

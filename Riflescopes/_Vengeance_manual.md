@@ -4,12 +4,12 @@ family: Vengeance
 brand: ZeroTech
 applies_to: All ZeroTech Vengeance riflescopes (SFP and FFP)
 source: Vengeance (International) instruction manual
-last_updated: 2026-06-26
+last_updated: 2026-09-08
 ---
 
 # ZeroTech Vengeance — Manual Reference
 
-Shared setup, care, warranty, and safety reference for all ZeroTech Vengeance riflescopes. Individual SKU files link here and note which model-specific sections apply (SFP vs FFP turret procedure, MOA vs MRAD click value, illumination, sunshade eligibility).
+Shared setup, care, warranty, and safety reference for all ZeroTech Vengeance riflescopes. Individual SKU files link here and note which model-specific sections apply (SFP vs FFP turret procedure, MOA vs MRAD click value, illumination). Sunshade fitment is held in the sunshade accessory files in `Accessories/Sunshades/`.
 
 ## Lifetime "Triple A" warranty
 *Any Owner, Any Problem, Always Covered.* Fully transferable; covers accidental damage as well as defects in materials and workmanship. No receipt or warranty card required. ZeroTech repairs or replaces with equal or similar product and returns it to you at no charge.
@@ -36,8 +36,8 @@ Click values per the manual:
 ## Setting the zero stop and resetting the turrets — FFP models
 (4-16x44, 6-24x50, 5-25x56.) Once zeroed, remove the windage and elevation turrets using a 2mm hex key — there are three 2mm grub screws in each turret. Loosen each grub screw 2 revolutions and pull up on the turret to expose the zero stop assembly on the elevation turret (the windage turret has no zero stop). Loosen the three grub screws in the orange zero stop ring so it rotates freely; align the zero stop pin on the bottom of the ring with the right side of the stop lug on the lower assembly so the pin contacts the lug; retighten the three grub screws. Refit the turret cap with the vertical index mark on the revolution scale aligned to the '0', and tighten the three 2mm grub screws (approximately 6 in lbs). Use the same process for the windage turret, disregarding the zero stop.
 
-## Attaching the sunshade — 4-20x50 & 5-25x56 only
-These models accept the sunshade (part ZTA-SSVEN5256) — fit it to the objective and tighten firmly.
+## Attaching the sunshade — models that accept one
+Fit the sunshade to the objective and tighten firmly. Which models accept a sunshade, and which sunshade part fits which model, is listed in the sunshade accessory files in `Accessories/Sunshades/` — those files are the source of truth for sunshade fitment.
 
 ## Reticle illumination — illuminated models
 Illuminated reticles have six brightness settings with an 'Off' position between each setting. Before first use, remove the illumination dial battery cap and discard the plastic circuit blocker, then reinstall the CR 2032 button battery and refit the cap. Switch illumination to 'Off' when the rifle is in storage or transport, and carry a spare CR 2032 button battery when relying on the illumination feature.
@@ -52,4 +52,4 @@ Wipe the body with a damp microfibre cloth. Clean lenses with a lens brush and t
 service@zerotech.com.au — ZeroTech International Pty Ltd, PO Box 7200, Warringah Mall, NSW 2100, Australia.
 
 ---
-*Last updated: 2026-06-26 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-08 · Source: ZeroTech ZT Product KB*

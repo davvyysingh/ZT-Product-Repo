@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: _Sunshade_installation_guide.pdf (in this folder); online: https://www.zerotech.com.au/wp-content/uploads/2022/03/Flip-up-cover-installation-guide.pdf
 has_video: false
-last_updated: 2026-09-04
+last_updated: 2026-09-08
 ---
 
 # ZeroTech 50mm Objective Sunshade for Vengeance 4-20x50 (ZTA-SSVEN4205)
@@ -39,12 +39,14 @@ A 4-inch (50mm) objective sunshade that threads directly into the objective of V
 
 ## Fits
 
-- Vengeance 4-20x50 — PHR II (VG4205P), PHR II Illuminated (VG4205P-IR), R3 (VG4205R3), R3 Illuminated (VG4205R3-IR)
-- Vengeance 6-24x50 — R3, R3 Illuminated
+- Vengeance 4-20x50 — PHR 2 (VG4205P), PHR 2 Illuminated (VG4205P-IR), R3 (VG4205R3), R3 Illuminated (VG4205R3-IR)
+- Vengeance 6-24x50 — R3 (VG6245R3), R3 Illuminated (VG6245R3-IR)
+
+This list is complete for this accessory. The ZTA-SSVEN4205 is a sunshade sold separately, and it fits only the riflescope models listed above — if a model is not listed here, this sunshade does not fit that model.
 
 ## Tags
 
 zerotech, accessory, sunshade, objective-sunshade, 50mm, anti-glare, vengeance, 4-20x50, 6-24x50, riflescope
 
 ---
-*Last updated: 2026-09-04 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-08 · Source: ZeroTech ZT Product KB*

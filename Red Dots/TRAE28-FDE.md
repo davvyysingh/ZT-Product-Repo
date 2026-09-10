@@ -8,7 +8,7 @@ brand: ZeroTech
 color: FDE
 manual_ref: Trace H.A.L.O Enclosed Reflex (International)
 has_video: true
-last_updated: 2026-07-13
+last_updated: 2026-09-09
 ---
 
 # ZeroTech Trace H.A.L.O Enclosed Reflex Sight 3 MOA FDE (TRAE28-FDE)
@@ -45,7 +45,7 @@ The Flat Dark Earth version of the premium enclosed-emitter H.A.L.O reflex sight
 | Color | FDE |
 | Available Reticles | 3 MOA Red Dot |
 | Mount Type | Low |
-| Recommended Use | Hunting – Bush / Scrub, Offset / Co-Witness Setups, Pistol |
+| Recommended Use | Hunting – Scrub / Bush, Offset / Co-Witness Setups, Pistol |
 | Waterproof Rating | IPX7 |
 
 ## Key features
@@ -85,4 +85,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace H.
 zerotech, trace, halo, red-dot, reflex-sight, enclosed-reflex, aspherical-lens, 1x, 28mm, 3-moa, red-dot-reticle, fde, rmsc-footprint, picatinny-adapter, top-loading-battery, shake-awake, motion-sensor, button-lock, night-vision, cr2032, 50000-hours, 1.5-moa, 7075-aluminium, base-shim, fmc, ipx7, pistol, competition, subgun, offset
 
 ---
-*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-09 · Source: ZeroTech ZT Product KB*

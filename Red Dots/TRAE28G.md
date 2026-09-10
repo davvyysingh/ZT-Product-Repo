@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Trace H.A.L.O Enclosed Reflex (International)
 has_video: false
-last_updated: 2026-07-13
+last_updated: 2026-09-09
 ---
 
 # ZeroTech Trace H.A.L.O Enclosed Reflex Sight Green 3 MOA (TRAE28G)
@@ -45,7 +45,7 @@ The green-illumination version of the premium enclosed-emitter H.A.L.O reflex si
 | Color | Black |
 | Available Reticles | 3 MOA Green Dot |
 | Mount Type | – |
-| Recommended Use | Hunting – Bush / Scrub, Offset / Co-Witness Setups, Pistol |
+| Recommended Use | Hunting – Scrub / Bush, Offset / Co-Witness Setups, Pistol |
 | Waterproof Rating | IPX7 |
 
 ## Key features
@@ -80,4 +80,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace H.
 zerotech, trace, halo, red-dot, reflex-sight, enclosed-reflex, aspherical-lens, 1x, 28mm, 3-moa, green-dot, rmsc-footprint, picatinny-adapter, top-loading-battery, shake-awake, motion-sensor, button-lock, night-vision, cr2032, 50000-hours, 1.5-moa, 7075-aluminium, base-shim, fmc, ipx7, pistol, competition, subgun, offset
 
 ---
-*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-09 · Source: ZeroTech ZT Product KB*

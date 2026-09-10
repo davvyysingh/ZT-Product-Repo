@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Vengeance Binocular (International)
 has_video: false
-last_updated: 2026-07-07
+last_updated: 2026-09-09
 ---
 
 # ZeroTech Vengeance ED 8x42 (VG842ED)
@@ -42,7 +42,7 @@ The flagship ED-tier 8x42 Vengeance — premium ED glass, dielectrically coated 
 | Optical Length | 143.90mm |
 | Eyepiece Diameter | 24mm |
 | Light Transmission | 88% |
-| Dimensions | 125mmx52mmx152mm |
+| Dimensions (W×D×L) | 125mmx52mmx152mm |
 | Packaged Dimensions (H×W×L, in) | 7.4 x 6.6 x 3 |
 | Tripod Supported | Yes |
 | Variant | ED |
@@ -78,4 +78,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Vengeanc
 zerotech, vengeance, vengeance-ed, binocular, 8x42, roof-prism, bak-4, ed-glass, fbmc, phase-coated, dielectric-prism, waterproof, fog-proof, rubber-armour, center-focus, fast-focus, wide-field, low-light, tripod-adaptable, hunting, birding, wildlife, adventure
 
 ---
-*Last updated: 2026-07-07 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-09 · Source: ZeroTech ZT Product KB*

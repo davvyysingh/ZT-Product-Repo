@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: _Sunshade_installation_guide.pdf (in this folder); online: https://www.zerotech.com.au/wp-content/uploads/2022/03/Flip-up-cover-installation-guide.pdf
 has_video: false
-last_updated: 2026-09-04
+last_updated: 2026-09-08
 ---
 
 # ZeroTech 50mm Objective Sunshade (ZTA-SUNSHADE50)
@@ -39,16 +39,18 @@ A 3-inch (50mm) objective sunshade that threads directly into compatible 50mm Ze
 
 ## Fits
 
-- Thrive 4-16x50 — PHR 4, G4, PHR II, ZEROPLEX, Mildot
-- Thrive HD 2.5-15x50 — PHR II (TH2155P), PHR II Illuminated (TH2155P-IR)
-- Thrive HD 6-24x50 — PHR II (TH6245P), PHR II Illuminated (TH6245P-IR), FFP LR Hunter Illuminated
+- Thrive 4-16x50 — PHR 4 (TH41650P4), PHR 2 (TH41650P), G4 (TH41650G), ZEROPLEX (TH41650), Mildot (TH41650MD)
+- Thrive HD 2.5-15x50 — PHR 2 (TH2155P), PHR 2 Illuminated (TH2155P-IR)
+- Thrive HD 6-24x50 — PHR 2 (TH6245P), PHR 2 Illuminated (TH6245P-IR), FFP LR Hunter Illuminated (TH6245FL-IR)
 - Trace 3-18x50 — R3 (TR3185R3)
-- Trace 4.5-27x50 — R3 (TR4275R3), RMG
-- Trace Advanced 4-24x50 — RMG Illuminated (TR4245F-IR)
+- Trace 4.5-27x50 — R3 (TR4275R3), FFP RMG (TR4275F), FFP RMG MOA (TR4275FM)
+- Trace Advanced 4-24x50 — FFP RMG Illuminated (TR4245F-IR)
+
+This list is complete for this accessory. The ZTA-SUNSHADE50 is a sunshade sold separately, and it fits only the riflescope models listed above — if a model is not listed here, this sunshade does not fit that model.
 
 ## Tags
 
 zerotech, accessory, sunshade, objective-sunshade, 50mm, anti-glare, thrive, thrive-hd, trace, trace-advanced, riflescope
 
 ---
-*Last updated: 2026-09-04 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-08 · Source: ZeroTech ZT Product KB*
