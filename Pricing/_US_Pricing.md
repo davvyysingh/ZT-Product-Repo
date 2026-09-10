@@ -131,6 +131,7 @@ All prices in **USD**. Prices are the current regular price and are indicative o
 | ZTA-CLOTH | 3.99 |
 | ZTA-COVERLG | 19.95 |
 | ZTA-COVERSML | 19.95 |
+| ZTA-MULTI | 10.00 |
 | ZTA-SSVEN4205 | 29.99 |
 | ZTA-SSVEN5256 | 29.99 |
 | ZTA-SUNSHADE50 | 29.99 |
