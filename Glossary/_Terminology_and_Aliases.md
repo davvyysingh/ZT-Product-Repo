@@ -1,5 +1,6 @@
 ---
 category: Glossary
+pin: true
 title: ZeroTech Terminology & Alternate Names
 brand: ZeroTech
 last_updated: 2026-09-10
@@ -138,6 +139,7 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 | Series | The line within a family | variant, tier | Holds Classic/HD on riflescopes but the family name on binoculars and red dots. Use the Variant spec row for the tier. |
 | Variant | Classic, HD, ED, Advanced | tier, edition, version | The reliable field for tier. Classic is the base — an unsuffixed model name is the Classic. |
 | Triple-A warranty | "Any Owner, Any Problem, Always Covered" | AAA warranty, lifetime guarantee | ZeroTech's transferable lifetime warranty. |
+| Slimline | Customer/retail nickname for ZeroTech's smallest pistol red dot | "slimline", "slim carry dot", "slimline optic" | = **Thrive HD Micro Reflex (DM21 family)** — 19g, Shield RMSc footprint, ZeroTech's lightest/thinnest pistol dot, built for concealed carry. NOT a separate SKU or product name — when a customer says "slimline," they mean the DM21. Answer directly: "Yes, for slimline we recommend the Thrive HD Micro Reflex (DM21)," don't say it's not in the catalog. |
 
 ## Footprint families — which optics share a mounting pattern
 

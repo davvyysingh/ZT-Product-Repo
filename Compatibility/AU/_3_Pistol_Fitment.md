@@ -1,5 +1,6 @@
 ---
 category: Compatibility
+pin: true
 guide: Red Dot & Prism Firearm Compatibility
 market: Australia
 part: AU pistol fitment (use instead of the universal pistol-fitment file for the Australian market)
