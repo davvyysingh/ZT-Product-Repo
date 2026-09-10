@@ -2,7 +2,7 @@
 category: Glossary
 title: ZeroTech Terminology & Alternate Names
 brand: ZeroTech
-last_updated: 2026-09-09
+last_updated: 2026-09-10
 source: ZeroTech Terminology & Alternate Names (Glossary)
 ---
 
@@ -133,7 +133,9 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 | --- | --- | --- | --- |
 | H.A.L.O | Heavy-duty Aspherical Lens Optic (Trace) | HALO | ZeroTech's enclosed reflex. |
 | R.A.S | Rapid Aiming System (Trace) | RAS | ZeroTech's enclosed 1x25 digital dot. |
-| Thrive HD / Trace | ZeroTech product lines | — | Thrive/Thrive HD = core lines; Trace = premium line. |
+| Family | Thrive, Trace, Vengeance | series, range, line | Our top-level product grouping. The website calls these "series" — customers use all four words for the same thing. |
+| Series | The line within a family | variant, tier | Holds Classic/HD on riflescopes but the family name on binoculars and red dots. Use the Variant spec row for the tier. |
+| Variant | Classic, HD, ED, Advanced | tier, edition, version | The reliable field for tier. Classic is the base — an unsuffixed model name is the Classic. |
 | Triple-A warranty | "Any Owner, Any Problem, Always Covered" | AAA warranty, lifetime guarantee | ZeroTech's transferable lifetime warranty. |
 
 ## Footprint families — which optics share a mounting pattern
@@ -154,4 +156,4 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 Shield Sights · Trijicon · Aimpoint · Leupold · Holosun · Optics Trade & opticfootprint.com footprint guides · MIL-STD-1913. Footprint "aliases" can differ slightly in tolerance — where noted, bench-check before publishing a fit claim.
 
 ---
-*Last updated: 2026-09-09 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-10 · Source: ZeroTech ZT Product KB*

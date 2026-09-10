@@ -1,0 +1,15 @@
+# Working files — review scaffolding and team correspondence.
+# These are not knowledge-base content and must not reach the bot's corpus.
+/*.xlsx
+/*.csv
+/*.docx
+/ZeroTech_Widget_Agreed_Instructions.md
+
+# Browser-isolation temp artefacts (HP Sure Click / Bromium)
+~BROMIUM/
+**/~BROMIUM/
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
