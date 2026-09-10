@@ -116,7 +116,7 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 
 | Term (as in our specs) | Full name / meaning | Also known as | Notes / caveats |
 | --- | --- | --- | --- |
-| FDE | Flat Dark Earth | "tan" | A tan/earth finish; near (but distinct from) Coyote Brown. |
+| FDE | Flat Dark Earth | "tan" | A tan/earth finish; near (but distinct from) Coyote Brown. Anodised — anodised finishes vary slightly between production batches, so shade can differ a little between units. |
 | Black | Anodised black | matte black | Standard finish. |
 
 ## Platform
@@ -126,6 +126,7 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 | MSR | Modern Sporting Rifle | AR platform, AR-15 | Semi-auto sporting rifle. |
 | PCC | Pistol-Caliber Carbine | subgun | Carbine in a pistol calibre. |
 | CQB | Close-Quarters Battle | close quarters | Short-range use case. |
+| Slimline | Narrow single-stack pistol slide | slim slide, micro-compact, carry optic, concealed carry | Glock's term for the 43/43X/48, used generally for narrow carry slides. Not a ZeroTech tier. Takes Shield RMSc optics — but the H.A.L.O is RMSc and still overhangs, and the RS28 is too large. |
 
 ## ZeroTech
 
