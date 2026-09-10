@@ -3,7 +3,7 @@ category: Pricing
 market: United States
 currency: USD
 price_basis: Regular price (RRP/MSRP); indicative, subject to change
-last_updated: 2026-07-13
+last_updated: 2026-09-10
 source: WooCommerce export (US Price.csv)
 ---
 
@@ -128,12 +128,14 @@ All prices in **USD**. Prices are the current regular price and are indicative o
 
 | SKU | Price (USD) |
 | --- | --- |
+| ZTA-CLOTH | 3.99 |
 | ZTA-COVERLG | 19.95 |
-| ZTA-COVERSML |  |
+| ZTA-COVERSML | 19.95 |
 | ZTA-SSVEN4205 | 29.99 |
 | ZTA-SSVEN5256 | 29.99 |
 | ZTA-SUNSHADE50 | 29.99 |
+| ZTA-THROW | 18.99 |
 | ZTRMSB01 | 12.95 |
 | ZTRMSB02 | 19.95 |
 
-*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-10 · Source: ZeroTech ZT Product KB*

@@ -3,7 +3,7 @@ category: Pricing
 market: Australia
 currency: AUD
 price_basis: Regular price (RRP/MSRP); indicative, subject to change
-last_updated: 2026-08-04
+last_updated: 2026-09-10
 source: WooCommerce export (AU Price.csv)
 ---
 
@@ -132,6 +132,7 @@ All prices in **AUD**. Prices are the current regular price and are indicative o
 | ZTA-BA01 | 99.00 |
 | ZTA-BA03 | 99.00 |
 | ZTA-CBH | 89.99 |
+| ZTA-CLOTH | 3.99 |
 | ZTA-COVERLG | 24.95 |
 | ZTA-COVERSML | 24.95 |
 | ZTA-DOVETAIL38 | 29.95 |
@@ -139,7 +140,8 @@ All prices in **AUD**. Prices are the current regular price and are indicative o
 | ZTA-SSVEN4205 | 39.95 |
 | ZTA-SSVEN5256 | 39.95 |
 | ZTA-SUNSHADE50 | 39.95 |
+| ZTA-THROW | 14.95 |
 | ZTRMSB01 | 19.95 |
 | ZTRMSB02 | 29.95 |
 
-*Last updated: 2026-08-04 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-09-10 · Source: ZeroTech ZT Product KB*
