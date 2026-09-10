@@ -3,7 +3,6 @@ category: Brand
 title: ZeroTech Brand, Range and Support Reference
 brand: ZeroTech
 applies_to: All ZeroTech products
-source: The ZeroTech Standard; ZeroTech series pages (zerotechoptics.com, eu.zerotechoptics.com)
 last_updated: 2026-09-10
 ---
 
