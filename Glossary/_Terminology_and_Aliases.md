@@ -3,7 +3,7 @@ category: Glossary
 pin: true
 title: ZeroTech Terminology & Alternate Names
 brand: ZeroTech
-last_updated: 2026-09-10
+last_updated: 2026-10-22
 source: ZeroTech Terminology & Alternate Names (Glossary)
 ---
 
@@ -73,6 +73,7 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 | Parallax | Parallax-free distance | — | Distance at which reticle/target shift is nil. |
 | FMC | Fully Multi-Coated (lenses) | multi-coated, AR-coated | AR = anti-reflective coating. |
 | Optical Length | Length of the optical assembly, objective to eyepiece | optical path length | Binocular spec. Always shorter than the body — not the product's length. |
+| Resolution | Resolving power — the smallest angle at which two fine details can still be seen as separate, in arc-seconds (″) | resolving power | Binocular spec. ″ means arc-seconds, not inches. Lower is sharper; larger objectives give lower figures. |
 
 ## Adjustment
 
@@ -159,4 +160,4 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 Shield Sights · Trijicon · Aimpoint · Leupold · Holosun · Optics Trade & opticfootprint.com footprint guides · MIL-STD-1913. Footprint "aliases" can differ slightly in tolerance — where noted, bench-check before publishing a fit claim.
 
 ---
-*Last updated: 2026-09-10 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-10-22 · Source: ZeroTech ZT Product KB*

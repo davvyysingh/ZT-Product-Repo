@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Trace / Trace Advanced (International)
 has_video: true
-last_updated: 2026-07-13
+last_updated: 2026-10-22
 ---
 
 # ZeroTech Trace ED 1-10x24 LPVO FFP – RMG-L Illuminated (TRED11024F-IR)
@@ -27,7 +27,7 @@ A 34mm-tube, first-focal-plane 1–10×24 LPVO with ED glass, the illuminated RM
 | Maintube Diameter | 34mm |
 | Reticle type | RMG-L Illuminated (LPVO Specific) |
 | Zero Stop | Yes |
-| Parallax Adjustment Range | Fixed – 100m (110yd) |
+| Parallax Adjustment Range | Fixed – 125m (137yd) |
 | Turret Index Value | 0.1 MRAD |
 | Exit Pupil Diameter | Low: 8.6mm; High: 2.4mm |
 | Eye Relief | 3.70in (94mm) |
@@ -58,7 +58,7 @@ A 34mm-tube, first-focal-plane 1–10×24 LPVO with ED glass, the illuminated RM
 - **Pop-up locking elevation turret with zero stop** plus a **capped windage turret** — dial for distance and return reliably to zero, in 0.1 MRAD clicks at 10 mils per revolution.
 - **Industry-leading field of view** — about 117 ft at 100 yards on 1× for near-true-1× speed, a forgiving eyebox, and minimal tunnelling.
 - **Tool-less aluminium flip-up lens covers** — rotate and lock at any angle (clearing top-mounted red dots) and a **removable throw lever** for fast magnification changes.
-- **Locking dioptre, fixed parallax (100 m), IPX7 waterproof**; illuminated model; backed by ZeroTech's lifetime guarantee.
+- **Locking dioptre, fixed parallax (125 m), IPX7 waterproof**; illuminated model; backed by ZeroTech's lifetime guarantee.
 
 ## What's in the box
 - Trace ED 1-10x24 LPVO Scope
@@ -81,11 +81,11 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace / 
 - **Turret zero / zero stop:** Pop-up locking elevation turret with zero stop (set via 2mm hex grub screws); capped windage turret re-indexed to '0' via its three 2mm grub screws
 - **Turret index:** 0.1 MRAD — 1cm at 100 metres (0.36" at 100 yards) per click (10 mils per revolution)
 - **Illumination:** Push-button digital — five brightness settings, CR2032 battery (memory recall of last-used setting)
-- **Parallax:** Fixed at 100m — no adjustment
+- **Parallax:** Fixed at 125m — no adjustment
 - **Lens covers:** Tool-less aluminium flip-up covers (rotate/position by hand)
 
 ## Tags
 zerotech, trace, trace-ed, ed, riflescope, lpvo, 1-10x24, ffp, first-focal-plane, rmg-l, illuminated, 34mm, mrad, zero-stop, capped-windage, fixed-parallax, throw-lever, ed-glass, fmc, ipx7, ar-platform, msr, tactical, hunting, night-vision-compatible
 
 ---
-*Last updated: 2026-07-13 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-10-22 · Source: ZeroTech ZT Product KB*

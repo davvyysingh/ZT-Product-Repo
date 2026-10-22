@@ -3,7 +3,7 @@ title: ZeroTech Reticle Reference
 category: Reticles
 brand: ZeroTech
 doc_type: consolidated reticle reference
-last_updated: 2026-08-04
+last_updated: 2026-10-22
 ---
 
 # ZeroTech Reticle Reference (Consolidated)
@@ -413,7 +413,7 @@ A Horus Vision grid reticle; the field guide is descriptive rather than a simple
   | 10 | 6.5 |
 
 - **Time of Flight (ToF) Wind Dots** — seven patented wind dots (the 4th enlarged for rapid identification), 0.2 mil-radian graduations for standard hold-offs, enabling fast wind holds. The guide details determining the 2nd-wind-dot value for a specific ballistic profile (calibrate on the 4th mil line / 2nd wind dot ≈ 0.95 mil sub-tension; halve the value for ToF dots).
-- **Accuracy 1st Speed Shooting Formula** — the 0.1-mil "staircase" pattern above the primary horizontal stadia (0.5 mil at the outside up to 1 mil at the primary vertical stadia), used with the "rule of 10" to establish a quick elevation hold for a known-size target (e.g. 12″ target). Worked example drop table (7.62×51 "10 gun"): 381 m → 2 mil, 435 m → 3 mil, 508 m → 4 mil, 610 m → 5 mil.
+- **Accuracy 1st Speed Shooting Formula** — the 0.1-mil "staircase" pattern above the primary horizontal stadia (0.5 mil at the outside up to 1 mil at the primary vertical stadia), used with the "rule of 10" to establish a quick elevation hold for a known-size target (e.g. 12" target). Worked example drop table (7.62×51 "10 gun"): 381 m → 2 mil, 435 m → 3 mil, 508 m → 4 mil, 610 m → 5 mil.
 - **Dialing elevation** — hold, dial, or dial-and-hold; recommended to hold out to 10 mil of elevation and use the calibrated wind dots, dialing beyond 10 mil and holding wind on the 0.2 mil graduations.
 - **Illumination** — illuminated aiming points at the centre, on the primary vertical stadia every 2 mil below centre, and at 2 mil of windage left and right on the 10-mil horizontal stadia.
 
@@ -435,4 +435,4 @@ The following reticle names are used in the ZeroTech range but have **no standal
 Consolidated from the reticle manuals and range charts in this folder (PHR, PHR 2, PHR 3, PHR 4, R3, RAR, G4, RMG, RMG MOA, RMG 2, RMG 3, RMG-H, RMG-L, LR Hunter, THLR, Mildot, TREMOR3), including their illuminated variants and blank range-chart worksheets.
 
 ---
-*Last updated: 2026-08-04 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-10-22 · Source: ZeroTech ZT Product KB*
