@@ -3,12 +3,12 @@ title: ZeroTech Reticle Reference
 category: Reticles
 brand: ZeroTech
 doc_type: consolidated reticle reference
-last_updated: 2026-10-22
+last_updated: 2026-10-28
 ---
 
 # ZeroTech Reticle Reference (Consolidated)
 
-A single reference consolidating every reticle manual and range chart held in this folder. It covers each reticle's measurement units, focal plane / magnification notes, illumination, and the labelled dimension callouts from each manual (reproduced verbatim). Dimension letters (A, B, C… and numbered thickness callouts) correspond to the labelled diagram in each source PDF; refer to the PDF for the matching illustration. To find which product uses a given reticle, see the `Reticle type` field in the product specs.
+A single reference consolidating every reticle manual and range chart held in this folder. It covers each reticle's measurement units, focal plane / magnification notes, illumination, and the labelled dimension callouts from each manual (reproduced verbatim). Dimension letters (A, B, C… and numbered thickness callouts) correspond to the labelled diagram in each source PDF; refer to the PDF for the matching illustration. To find which product uses a given reticle, see the `Reticle type` and `Available Reticles` fields in the product specs; where one name covers more than one design (RMG-H), the `Available Reticles` name is the one to match.
 
 ## How to read these specs
 
@@ -16,6 +16,7 @@ A single reference consolidating every reticle manual and range chart held in th
 - **Focal plane.** In a **First Focal Plane (FFP)** reticle the subtensions are true at every magnification. In a **Second Focal Plane (SFP)** reticle the stated subtensions are only true at one calibrated magnification — SFP manuals/charts carry the note *"refer to correct operating magnification power."*
 - **Illumination.** Where a reticle has an illuminated version, the etched geometry is identical to the non-illuminated version; only the illuminated aiming elements differ. Illuminated and non-illuminated manuals in this folder are otherwise the same document.
 - **"thick" / "tall" / "dia".** Where a callout is annotated `thick`, `tall`, or `dia`, the value describes line thickness, element height, or dot diameter respectively (rather than a spacing).
+- **Online documents.** Each reticle section links ZeroTech's published reticle manual (full diagram and dimensions) and range chart where one exists. For the full diagram, a printable chart, or any detail beyond the dimensions listed here, refer the customer to those links.
 
 ## Range charts (shared worksheet)
 
@@ -32,6 +33,8 @@ The PHR 2 / PHR 3 charts add a holdover-distance annotation (write the range nex
 ## MOA reticles
 
 ### PHR (PHR MOA) — SFP
+
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/phr-specs.pdf · Range chart — https://resources.zerotechoptics.com/images/rangeCharts/phr-rangechart.pdf
 
 | Callout | Value |
 | --- | --- |
@@ -63,6 +66,8 @@ Variable dimensions (by magnification):
 | O | 0.24 | 0.16 |
 
 ### PHR 2 (PHR II MOA) — SFP
+
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/phrii-specs.pdf · Range chart — https://resources.zerotechoptics.com/images/rangeCharts/phrii-rangechart.pdf · Illuminated range chart — https://resources.zerotechoptics.com/images/rangeCharts/phrii-illum-rangechart.pdf
 
 | Callout | Value |
 | --- | --- |
@@ -98,6 +103,8 @@ Elevation holdover stadia (for the range worksheet): 1.1, 2.5, 5.0, 10, 15, 20, 
 ### PHR 3 (PHR-3 MOA) — SFP, illuminated
 The manual documents two dimension configurations (fixed callouts A–E identical; F/G differ).
 
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/phr3-specs.pdf · Range chart — https://resources.zerotechoptics.com/images/rangeCharts/phr3-rangechart.pdf
+
 | Callout | Config 1 | Config 2 |
 | --- | --- | --- |
 | A | 5 MOA | 5 MOA |
@@ -113,6 +120,8 @@ Includes a dedicated illumination pattern.
 
 ### PHR 4 (PHR 4 MOA) — SFP, illuminated
 
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/phr4-specs.pdf
+
 | Callout | Value |
 | --- | --- |
 | A | 5 MOA |
@@ -126,6 +135,8 @@ Includes a dedicated illumination pattern.
 
 ### R3 — SFP, illuminated + non-illuminated
 **Field of view @ 20x = 60 MOA.** Refer to the correct operating magnification power.
+
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/r3-specs.pdf · Range chart — https://resources.zerotechoptics.com/images/rangeCharts/r3-rangechart.pdf
 
 | Callout | Value |
 | --- | --- |
@@ -147,6 +158,8 @@ Includes a dedicated illumination pattern.
 
 ### RAR — MOA, illuminated
 Calibrated in MOA; refer to the correct operating magnification power.
+
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/rar-specs.pdf · Range chart — https://resources.zerotechoptics.com/images/rangeCharts/rar-rangechart.pdf
 
 | Callout | Value |
 | --- | --- |
@@ -172,6 +185,8 @@ Calibrated in MOA; refer to the correct operating magnification power.
 ### RMG MOA — MOA
 The MOA counterpart of the RMG grid (dimensional-reference sheet).
 
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/rmg-moa-specs.pdf
+
 | Callout | Value | Callout | Value |
 | --- | --- | --- | --- |
 | A | 0.86 MOA | R | 1.0 MOA |
@@ -193,8 +208,49 @@ The MOA counterpart of the RMG grid (dimensional-reference sheet).
 | Q | 0.07 MOA thick | HH | 2.0 MOA |
 | | | JJ | 120.0 MOA |
 
+### RMG-H MOA — MOA, illuminated
+The MOA version of the RMG-H (see the RMG-H section under MRAD / MIL reticles; not the RMG-H [S2H]). Illuminated first-focal-plane grid. Fine horizontal scale to 32 MOA either side of centre with the heavy posts marked at 40 and 60; upper vertical scale to 20 MOA; lower vertical scale to 40 MOA with the post marked at 60 and 80.
+
+**Fitted to:** TRX5256FM-IR (Trace X 5-25x56 FFP – RMG-H MOA Illuminated).
+
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/rmg-h-moa-trace-x-specs.pdf
+
+| Callout | Value |
+| --- | --- |
+| A | 4 |
+| B | 2 |
+| C | 2 |
+| D | 1 |
+| E | 1 |
+| F | 2 |
+| G | 2 |
+| H | 1 |
+| I | 0.5 |
+| J | 0.75 |
+| K | 0.75 |
+| L | 2 |
+| M | 4 |
+
+Numbered thickness / segment callouts (MOA):
+
+| # | Value |
+| --- | --- |
+| 1 | 0.2 dia |
+| 2 | 0.115 thick |
+| 3 | 0.16 thick |
+| 4 | 0.75 |
+| 5 | 1 |
+| 6 | 1 |
+| 7 | 2 |
+| 8 | 1.5 |
+| 9 | 2 |
+
+*All values in MOA.*
+
 ### G4 (German #4) — MOA
 A hunting-style German #4 reticle (heavy outer posts tapering to a fine centre).
+
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/g4-specs.pdf
 
 | Callout | Value |
 | --- | --- |
@@ -210,6 +266,8 @@ A hunting-style German #4 reticle (heavy outer posts tapering to a fine centre).
 ## MRAD / MIL reticles
 
 ### RMG (RMG — Trace FFP) — MIL, FFP
+
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/rmg-specs.pdf · Range chart — https://resources.zerotechoptics.com/images/rangeCharts/rmg-rangechart.pdf
 
 | Callout | Value | Callout | Value |
 | --- | --- | --- | --- |
@@ -233,6 +291,8 @@ A hunting-style German #4 reticle (heavy outer posts tapering to a fine centre).
 
 ### RMG 2 — MIL, illuminated
 Same base grid as RMG with an extended vertical scale to 20 mil and added illuminated callouts DD–GG.
+
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/rmg2-illum-specs.pdf · Range chart — https://resources.zerotechoptics.com/images/rangeCharts/rmg2-illum-rangechart.pdf
 
 | Callout | Value | Callout | Value |
 | --- | --- | --- | --- |
@@ -259,6 +319,8 @@ Same base grid as RMG with an extended vertical scale to 20 mil and added illumi
 ### RMG 3 — MIL, illuminated
 Illuminated MIL grid; the vertical scale extends to 30 mil. Marked Revision 3. Ships with a blank range-chart worksheet.
 
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/rmg3-illum-specs.pdf · Range chart — https://resources.zerotechoptics.com/images/rangeCharts/rmg3-illum-rangechart.pdf
+
 | Callout | Value | Callout | Value |
 | --- | --- | --- | --- |
 | A | 0.1 | L | 0.06 dia |
@@ -275,8 +337,47 @@ Illuminated MIL grid; the vertical scale extends to 30 mil. Marked Revision 3. S
 
 *All values in mils.*
 
-### RMG-H (RMG-H [Rokslide]) — MIL and MOA versions, illuminated
-The manual provides both an MRAD and an MOA grid (MOA grid graduated to 80). Marked Revision 2 / V2_25.09.25.
+### RMG-H — MIL, illuminated
+Illuminated first-focal-plane MIL grid. Fine horizontal scale to 8 mil either side of centre with the heavy posts marked at 10 and 15; upper vertical scale to 5 mil; lower vertical scale to 10 mil with the post marked at 15 and 20. Three reticles share the RMG-H name — **RMG-H** (this section), **RMG-H MOA** (MOA version, under MOA reticles) and **RMG-H [S2H]** (the Shoot2Hunt / Rokslide version, next section). Match the name in the product's `Available Reticles` row to the section here.
+
+**Fitted to:** TRX5256F-IR (Trace X 5-25x56 FFP – RMG-H Illuminated).
+
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/rmg-h-trace-x-specs.pdf
+
+| Callout | Value |
+| --- | --- |
+| A | 1 |
+| B | 0.5 |
+| C | 0.5 |
+| D | 0.2 |
+| E | 0.2 |
+| F | 0.6 |
+| G | 0.6 |
+| H | 0.3 |
+| I | 0.15 |
+| J | 0.2 |
+| K | 0.2 |
+| L | 0.5 |
+| M | 1 |
+
+Numbered thickness / segment callouts (mils):
+
+| # | Value |
+| --- | --- |
+| 1 | 0.06 dia |
+| 2 | 0.033 thick |
+| 3 | 0.045 thick |
+| 4 | 0.2 |
+| 5 | 0.3 |
+| 6 | 0.4 |
+| 7 | 0.6 |
+
+### RMG-H [S2H] (RMG-H [Rokslide] / Shoot2Hunt) — MIL, illuminated
+The Shoot2Hunt / Rokslide version of the RMG-H: same centre dimensions (A–L) as the RMG-H, but a different outer layout — fine horizontal scale to 6 mil either side with the heavy posts marked at 10, 15 and 20 (stepped), and upper vertical scale to 6 mil. Spec sheet marked Revision 2 / V2_25.09.25. Not the same reticle as the RMG-H above.
+
+**Fitted to:** TR3184F-IR (Trace Advanced 3-18x44 FFP – RMG-H Illuminated (Shoot2Hunt)).
+
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/rmg-h-specs.pdf
 
 Primary dimensions (mils):
 
@@ -312,6 +413,8 @@ Numbered thickness / segment callouts (mils):
 
 ### RMG-L — MIL, illuminated (LPVO-specific)
 
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/rmg-l-illum-specs.pdf
+
 | Callout | Value | Callout | Value |
 | --- | --- | --- | --- |
 | A | 1.2 | J | 1.0 |
@@ -327,6 +430,8 @@ Numbered thickness / segment callouts (mils):
 *All values in mils.*
 
 ### LR Hunter — MIL, FFP, illuminated + non-illuminated
+
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/hunter-specs.pdf · Range chart — https://resources.zerotechoptics.com/images/rangeCharts/hunter-illum-rangechart.pdf
 
 | Callout | Value | Callout | Value |
 | --- | --- | --- | --- |
@@ -346,6 +451,8 @@ Numbered thickness / segment callouts (mils):
 *All values in mils.*
 
 ### THLR — MIL
+
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/thlr-specs.pdf
 
 Dimensions (mils):
 
@@ -377,6 +484,8 @@ Thicknesses (mils):
 
 ### Mildot — MIL, SFP
 
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/mildot-specs.pdf · Range chart — https://resources.zerotechoptics.com/images/rangeCharts/mildot-rangechart.pdf
+
 | Callout | Value |
 | --- | --- |
 | A | 1.0 MIL |
@@ -399,6 +508,8 @@ Variable dimensions (by magnification):
 
 ### TREMOR3 (Horus TREMOR3) — MIL, FFP, illuminated
 A Horus Vision grid reticle; the field guide is descriptive rather than a simple dimension table. Key features:
+
+**Online documents:** Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/tremor3-specs.pdf · Range chart — https://resources.zerotechoptics.com/images/rangeCharts/tremor3-rangechart.pdf
 
 - **Horus Grid** — an expanded, uncluttered milling grid below the primary horizontal stadia for holds and corrections.
 - **Rapid Range Bars** — ranging bars above the primary horizontal stadia; **Tremor ranging chevrons** provide vertical and horizontal target ranging. Refined milling chevrons are calibrated in mil-radians (0.1 mil chevron; 0.1 spacing).
@@ -423,16 +534,16 @@ Trademarks and design are the property of Horus Vision (www.HorusVision.com).
 
 ## Reticles without a manual in this folder
 
-The following reticle names are used in the ZeroTech range but have **no standalone manual or range-chart PDF** in this folder:
+The following reticle names are used in the ZeroTech range but have **no standalone manual or range-chart PDF** in this folder (ZeroTech's online document is linked where one is published):
 
 - **ZEROPLEX** — plex-style hunting reticle.
-- **RAP-R** — prism-sight reticle.
-- **Prism Dot** — prism-sight reticle.
-- **OSR** — Optimised Spotting Reticle (FFP, MRAD); supplied with its own OSR dimensions chart.
+- **RAP-R** — prism-sight reticle. Online documents: Spec sheet — https://zerotech.com.au/wp-content/uploads/2025/11/RAPR-SPEC-SHEET.pdf
+- **Prism Dot** — prism-sight reticle. Online documents: Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/prism-dot-specs.pdf
+- **OSR** — Optimised Spotting Reticle (FFP, MRAD); supplied with its own OSR dimensions chart. Online documents: Reticle manual — https://resources.zerotechoptics.com/images/reticleManuals/osr-reticle-manual.pdf
 
 ## Source files
 
-Consolidated from the reticle manuals and range charts in this folder (PHR, PHR 2, PHR 3, PHR 4, R3, RAR, G4, RMG, RMG MOA, RMG 2, RMG 3, RMG-H, RMG-L, LR Hunter, THLR, Mildot, TREMOR3), including their illuminated variants and blank range-chart worksheets.
+Consolidated from the reticle manuals and range charts in this folder (PHR, PHR 2, PHR 3, PHR 4, R3, RAR, G4, RMG, RMG MOA, RMG 2, RMG 3, RMG-H, RMG-H MOA, RMG-H [S2H], RMG-L, LR Hunter, THLR, Mildot, TREMOR3), including their illuminated variants and blank range-chart worksheets.
 
 ---
-*Last updated: 2026-10-22 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-10-28 · Source: ZeroTech ZT Product KB*

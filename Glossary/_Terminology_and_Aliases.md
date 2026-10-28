@@ -52,6 +52,7 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 | Prism Dot | ZeroTech etched prism reticle | — | Glass-etched aiming point on the Micro Prism. |
 | RAP-R / RAR | ZeroTech prism reticle (Variable Prism) | — | Dual-colour illuminated etched reticle. |
 | Multi-Reticle | Switchable reticle: dot / dot-in-circle / circle | "circle-dot" | Toggle patterns (e.g. 3 MOA dot + 40/42 MOA circle). |
+| RMG-H | ZeroTech illuminated first-focal-plane hunting grid reticle | RMG-H MRAD, RMG-H MIL | Three reticles share the name: **RMG-H** (MIL), **RMG-H MOA** (the MOA version) and **RMG-H [S2H]** (the Shoot2Hunt / Rokslide version — also written RMG-H [Rokslide], S2H reticle, Shoot2Hunt reticle). RMG-H and RMG-H [S2H] share the same centre dimensions but have different outer layouts; they are not interchangeable. The spec table's `Reticle type` reads "RMG-H Illuminated" for both — use the name in `Available Reticles` to tell them apart, then see the matching section in `Reticles/_Reticle_Reference.md`. |
 
 ## Controls
 

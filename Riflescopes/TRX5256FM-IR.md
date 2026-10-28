@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Trace / Trace Advanced / Trace X (International)
 has_video: true
-last_updated: 2026-10-26
+last_updated: 2026-10-28
 ---
 
 # ZeroTech Trace X 5-25x56 FFP – RMG-H MOA Illuminated (TRX5256FM-IR)
@@ -51,7 +51,7 @@ A 34mm-tube, first-focal-plane 5–25×56 long-range scope with the illuminated 
 | Variant | Classic |
 
 ## Key features
-- **Illuminated RMG-H MOA first-focal-plane reticle** — the same optic in MOA for shooters who learned their trade in minutes; the grid stays true through the zoom, and illumination enhances visibility on lower power and against dark backgrounds.
+- **Illuminated RMG-H MOA first-focal-plane reticle** — the same optic in MOA for shooters who learned their trade in minutes; the grid stays true through the zoom, and illumination enhances visibility on lower power and against dark backgrounds. This is the MOA version of the RMG-H (see **RMG-H MOA** in the Reticle Reference), not the RMG-H [S2H] Shoot2Hunt version fitted to the Trace Advanced 3-18x44.
 - **0.25 MOA turrets with zero stop** — a fine correction to have at distance; an exposed elevation turret and capped windage, with the zero stop setting a hard floor at your zero so the wind back down needs no counting.
 - **34mm 6061-T6 one-piece tube with 116 MOA of elevation and 58 MOA of windage** — enough travel to hold a correction on the dial rather than in the reticle when conditions allow.
 - **5–25x magnification with a 56mm objective** — a crisp optical system that includes a premium German Schott glass element for refined clarity and image detail, with fully multi-coated lenses.
@@ -90,4 +90,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace / 
 zerotech, trace, trace-x, riflescope, 5-25x56, ffp, first-focal-plane, rmg-h-moa, rmg-h, illuminated, moa, 0.25-moa, 34mm, zero-stop, capped-windage, side-parallax, locking-dioptre, throw-lever, schott-glass, fmc, ipx7, long-range, precision, competition, prs, nrl-hunter, precision-hunting, rifle-hunting
 
 ---
-*Last updated: 2026-10-26 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-10-28 · Source: ZeroTech ZT Product KB*

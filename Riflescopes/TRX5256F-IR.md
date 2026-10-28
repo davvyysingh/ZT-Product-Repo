@@ -8,7 +8,7 @@ brand: ZeroTech
 color: Black
 manual_ref: Trace / Trace Advanced / Trace X (International)
 has_video: true
-last_updated: 2026-10-26
+last_updated: 2026-10-28
 ---
 
 # ZeroTech Trace X 5-25x56 FFP – RMG-H Illuminated (TRX5256F-IR)
@@ -51,7 +51,7 @@ A 34mm-tube, first-focal-plane 5–25×56 long-range scope with the illuminated 
 | Variant | Classic |
 
 ## Key features
-- **Illuminated RMG-H first-focal-plane reticle (MRAD)** — holds every subtension true from 5x to 25x, so wind and elevation holds stay consistent across the magnification range; illumination enhances visibility on lower power and against dark backgrounds.
+- **Illuminated RMG-H first-focal-plane reticle (MRAD)** — holds every subtension true from 5x to 25x, so wind and elevation holds stay consistent across the magnification range; illumination enhances visibility on lower power and against dark backgrounds. This is the RMG-H (see **RMG-H** in the Reticle Reference), not the RMG-H [S2H] Shoot2Hunt version fitted to the Trace Advanced 3-18x44.
 - **0.1 MRAD turrets with zero stop** — an exposed elevation turret and capped windage; the zero stop sets a hard floor at your zero so a return from any dialled elevation lands where it should.
 - **34mm 6061-T6 one-piece tube with 34 MRAD of elevation and 17 MRAD of windage** — generous internal travel for long-range work on most shooting systems.
 - **5–25x magnification with a 56mm objective** — a crisp optical system that includes a premium German Schott glass element for refined clarity and image detail, with fully multi-coated lenses.
@@ -90,4 +90,4 @@ Full setup, care, warranty, and safety instructions are in the shared **Trace / 
 zerotech, trace, trace-x, riflescope, 5-25x56, ffp, first-focal-plane, rmg-h, illuminated, mrad, 0.1-mrad, 34mm, zero-stop, capped-windage, side-parallax, locking-dioptre, throw-lever, schott-glass, fmc, ipx7, long-range, precision, competition, prs, nrl-hunter, precision-hunting, rifle-hunting
 
 ---
-*Last updated: 2026-10-26 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-10-28 · Source: ZeroTech ZT Product KB*
