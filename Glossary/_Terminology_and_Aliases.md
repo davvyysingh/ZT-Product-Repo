@@ -3,7 +3,7 @@ category: Glossary
 pin: true
 title: ZeroTech Terminology & Alternate Names
 brand: ZeroTech
-last_updated: 2026-10-22
+last_updated: 2026-10-28
 source: ZeroTech Terminology & Alternate Names (Glossary)
 ---
 
@@ -136,11 +136,18 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 | --- | --- | --- | --- |
 | H.A.L.O | Heavy-duty Aspherical Lens Optic (Trace) | HALO | ZeroTech's enclosed reflex. |
 | R.A.S | Rapid Aiming System (Trace) | RAS | ZeroTech's enclosed 1x25 digital dot. |
-| Family | Thrive, Trace, Vengeance | series, range, line | Our top-level product grouping. The website calls these "series" — customers use all four words for the same thing. |
-| Series | The line within a family | variant, tier | Holds Classic/HD on riflescopes but the family name on binoculars and red dots. Use the Variant spec row for the tier. |
+| Family | Thrive, Trace, Vengeance | series, range, line | Our top-level product grouping; each family name is also the name of its original series. The website calls families "series" — customers use all four words for the same thing. |
+| Series | The line within a family | tier, generation, line | Riflescopes: Thrive Classic, Thrive HD, Thrive X; Vengeance Classic, Vengeance HD; Trace, Trace Advanced, Trace ED, Trace X. The base series is called Classic to tell it from the family. Binoculars, red dots and spotting scopes use the family name plus HD or ED. |
+| Thrive X | Thrive riflescope series — the lighter, refined evolution of the Thrive line, offered as capped-turret models or with the Adjustable BDC Turret fitted | X, Thrive X series, new Thrive | A series, not a variant (Thrive X models carry Variant Classic). Sold alongside Thrive Classic and Thrive HD. |
+| Trace X | Trace-family first-focal-plane long-range riflescope series | X, Trace X series | A series, not a variant. Sits above Trace and below Trace Advanced. |
+| Adjustable BDC Turret | ZeroTech's user-set elevation turret with five lockable reference markers (ZTA-BDCT) | BDC turret, BDC dial, custom turret, ballistic turret, CDS-style dial, "the turret" | Fitted on BDC models (SKUs with a B: THXB…, THDB…) and sold separately as an upgrade. Compatibility lives in the ZTA-BDCT file — never guess it. |
+| SKU prefixes | TH = Thrive, THD = Thrive HD, THX = Thrive X, THXB / THDB = with the Adjustable BDC Turret, VG = Vengeance, TR = Trace, TRX = Trace X, TRED = Trace ED, ZTA = accessory | model code, part number | Suffixes: -IR = illuminated, M = Mildot, -FDE = flat dark earth. Digit counts vary across the range — never normalise a SKU. |
+| New Thrive HD | The Thrive HD Adjustable BDC Turret models (THDB…) | new generation Thrive HD, new Thrive | The earlier Thrive HD (TH…) models remain on sale beside them — describe neither as old, outdated or run-out. |
+| PHR II | PHR 2 | PHR-ii, PHR2 | The same reticle written differently on some pages and factory sheets. |
+| ZeroPlex | ZEROPLEX | Zeroplex, plex, duplex | ZeroTech's plex-style hunting reticle; written ZEROPLEX in the product files. |
 | Variant | Classic, HD, ED, Advanced | tier, edition, version | The reliable field for tier. Classic is the base — an unsuffixed model name is the Classic. |
 | Triple-A warranty | "Any Owner, Any Problem, Always Covered" | AAA warranty, lifetime guarantee | ZeroTech's transferable lifetime warranty. |
-| Slimline | Customer/retail nickname for ZeroTech's smallest pistol red dot | "slimline", "slim carry dot", "slimline optic" | = **Thrive HD Micro Reflex (DM21 family)** — 19g, Shield RMSc footprint, ZeroTech's lightest/thinnest pistol dot, built for concealed carry. NOT a separate SKU or product name — when a customer says "slimline," they mean the DM21. Answer directly: "Yes, for slimline we recommend the Thrive HD Micro Reflex (DM21)," don't say it's not in the catalog. |
+| Slimline | Customer/retail nickname for ZeroTech's smallest pistol red dot | "slimline", "slim carry dot", "slimline optic" | = **Thrive HD Micro Reflex (DM21 family)** — 16g, Shield RMSc footprint, ZeroTech's lightest/thinnest pistol dot, built for concealed carry. NOT a separate SKU or product name — when a customer says "slimline," they mean the DM21. Answer directly: "Yes, for slimline we recommend the Thrive HD Micro Reflex (DM21)," don't say it's not in the catalog. |
 
 ## Footprint families — which optics share a mounting pattern
 
@@ -160,4 +167,4 @@ Maps the terms used as values in ZeroTech spec sheets and other technical/produc
 Shield Sights · Trijicon · Aimpoint · Leupold · Holosun · Optics Trade & opticfootprint.com footprint guides · MIL-STD-1913. Footprint "aliases" can differ slightly in tolerance — where noted, bench-check before publishing a fit claim.
 
 ---
-*Last updated: 2026-10-22 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-10-28 · Source: ZeroTech ZT Product KB*

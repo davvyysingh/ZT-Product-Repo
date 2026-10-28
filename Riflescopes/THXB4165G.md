@@ -1,0 +1,91 @@
+---
+sku: THXB4165G
+model_name: Thrive X 4-16x50 – G4
+category: Riflescopes
+family: Thrive
+series: Thrive X
+brand: ZeroTech
+color: Black
+manual_ref: Thrive / Thrive HD / Thrive X (International)
+has_video: false
+last_updated: 2026-10-28
+---
+
+# ZeroTech Thrive X 4-16x50 – G4 (THXB4165G)
+
+## Summary
+A lightweight 30mm-tube, second-focal-plane 4–16×50 hunting scope with a glass-etched G4 reticle and the Adjustable BDC Turret fitted — five shooter-set, lockable distance markers over a full 0.25 MOA scale, with a standard capped turret in the box — and a 50mm objective that keeps working at dusk, for hunters who reach out.
+
+## Specifications
+
+| Specification | Value |
+| --- | --- |
+| Focal Plane | Second (SFP) |
+| Magnification | 4-16x |
+| Reticle calibrated magnification power (SFP only) | 16x |
+| Objective Lens Diameter | 50mm |
+| Maintube Diameter | 30mm |
+| Reticle type | G4 |
+| Zero Stop | No |
+| Parallax Adjustment Range | 9.2m (10yd) – Infinity |
+| Turret Index Value | 0.25 MOA |
+| Exit Pupil Diameter | Low: 12.5mm; High: 3.1mm |
+| Eye Relief | 3.2-3.35in (82-85mm) |
+| Diopter Adjustment | -2 to +2 |
+| Internal Elevation Adjustment | 60 MOA |
+| Internal Windage Adjustment | 60 MOA |
+| Field of View @ 100 Meters | Low: 9.4m; High: 2.3m |
+| Field of View @ 100 Yards | Low: 28.1ft; High: 6.9ft |
+| Maintube Material | 6061-T6 |
+| Product Weight | 22.4oz (634g) |
+| Packaged Weight | 38.1oz (1080g) |
+| Packaged Dimensions (H×W×L, in) | 3.9 x 4.6 x 16.6 |
+| Lens Coating | FMC |
+| Available Reticles | PHR 3, PHR 4, G4 |
+| Illumination | No |
+| Recommended Use | Hunting, Target Shooting |
+| Objective Outer Diameter | 57.5mm |
+| Ocular Outer Diameter | 43.5mm |
+| Waterproof Rating | IPX7 |
+| Color | Black |
+| Variant | Classic |
+
+## Key features
+- **Glass-etched G4 reticle** — something precise enough to aim with at sixteen power; etched into glass for clean, crisp lines and excellent visibility on target, with holds calibrated at maximum (16x) magnification on this second-focal-plane design.
+- **Adjustable BDC Turret included and fitted** — work out your drops on the range, set up to five distance reference markers, each individually settable and lockable, and eliminate the guesswork in the field; the full 0.25 MOA scale remains underneath for conventional dialling.
+- **Standard ¼ MOA turret dial and cap included** — for those who prefer a more traditional configuration.
+- **50mm objective** — an ideal exit pupil diameter at any magnification, improving comfort behind the scope, especially in low light.
+- **4x to 16x with parallax from 9.2 m to infinity** — ultimate versatility; 60 MOA of elevation and windage travel in 0.25 MOA clicks, turrets run capped or uncapped, tool-free coin-slot reset.
+- **Windage turret limiter pin** — fitted to Thrive X and Thrive HD models; limits the windage dial to 7 MOA either side of zero (removable if preferred — see the manual).
+- **Same bones as the rest of the Thrive X range** — 30mm 6061-T6 aluminium maintube, fully multi-coated glass, IPX7 waterproof; 22.4 oz (634 g) including the fitted BDC turret; backed by the ZeroTech Triple-A Lifetime Warranty, transferable to the next owner with no paperwork.
+
+## What's in the box
+- Thrive X BDC Turret (fitted)
+- Standard Turret Dial and Turret Cap
+- 1.5mm Hex Key
+- 3 x Spare Grub Screws for BDC Turret
+- Neoprene Stretch Fit Scope Cover
+- High Quality Microfibre Cloth
+- Reticle Chart
+- 2 x ZeroTech Vinyl Transfer Stickers
+- Welcome Card with QR Code to Instruction Manual
+
+## Video insights
+No video available.
+
+## Manual
+Full setup, care, warranty, and safety instructions are in the shared **Thrive / Thrive HD / Thrive X manual reference** (`_Thrive_manual.md`) in this folder — follow the **Thrive X** sections, including the Adjustable BDC turret procedures. Sections that apply to this model:
+- **Turret reset:** Adjustable BDC elevation turret model — unscrew the turret keeper with a small coin, lift the dial, refit at '0' and tighten the keeper with light pressure (no screwdriver); if the BDC dial's index marks sit slightly off the turret body's index, align them via the three 1.5mm hex screws under the top screw; repeat the reset for windage
+- **Setting the BDC markers:** Twist the top dial from Locked to the marker number (1–5), rotate that marker to the desired position, then twist back to Locked
+- **Switching turrets:** Supplied standard turret dial and cap fit in place of the BDC turret; the thread protector ring must be fitted when the BDC turret is in place
+- **Turret index:** 0.25 MOA — approx. 7-8mm at 100 metres (¼" at 100 yards) per click
+- **Windage limiter:** Limiter pin restricts the windage dial to 7 MOA either side of zero; if you reach it while zeroing, reset the dial to '0' for more travel, or remove the pin (cannot be refitted)
+- **Illumination:** Non-illuminated — no battery required
+- **Parallax:** Side focus — 9.2m (10yd) to infinity
+- **Lens covers:** Neoprene stretch-fit scope cover
+
+## Tags
+zerotech, thrive, thrive-x, riflescope, 4-16x50, sfp, second-focal-plane, g4, glass-etched, bdc-turret, adjustable-bdc-turret, bdc-fitted, 30mm, 0.25-moa, side-parallax, windage-limiter, 50mm-objective, low-light, 6061-t6, fmc, ipx7, hunting, target-shooting, long-range-hunting
+
+---
+*Last updated: 2026-10-28 · Source: ZeroTech ZT Product KB*

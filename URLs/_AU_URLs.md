@@ -2,7 +2,7 @@
 category: Product URLs
 market: Australia
 site: https://zerotech.com.au
-last_updated: 2026-09-10
+last_updated: 2026-10-28
 source: WordPress export (zerotechaustralia.WordPress.2026-08-03.xml)
 ---
 
@@ -50,12 +50,18 @@ Canonical product-page URLs on the Australian site (zerotech.com.au), keyed by *
 | THD206085ED | https://zerotech.com.au/p/20-60x85mm-ed-spotting-scopes/?ai_rec=THD206085ED |
 | THD825 | https://zerotech.com.au/p/8x25-thrive-hd-binoculars/?ai_rec=THD825 |
 | THD842 | https://zerotech.com.au/p/8x42-thrive-hd-binoculars/?ai_rec=THD842 |
+| THDB2155P | https://zerotech.com.au/p/2-5-15x50mm-phr-2-thrive-hd-riflescope/?ai_rec=THDB2155P |
+| THDB2155P-IR | https://zerotech.com.au/p/2-5-15x50mm-phr-2-illuminated-thrive-hd-riflescope/?ai_rec=THDB2155P-IR |
+| THDB6245P | https://zerotech.com.au/p/6-24x50mm-phr-2-thrive-hd-riflescope/?ai_rec=THDB6245P |
+| THDB6245P-IR | https://zerotech.com.au/p/6-24x50mm-phr-2-illuminated-thrive-hd-riflescope/?ai_rec=THDB6245P-IR |
 | THDM21 | https://zerotech.com.au/p/red-dot-micro-reflex-sight-3-moa/?ai_rec=THDM21 |
 | THDM21G | https://zerotech.com.au/p/green-dot-micro-reflex-sight-thrive-hd-red-dot/?ai_rec=THDM21G |
 | THDMM21 | https://zerotech.com.au/p/micro-reflex-sight-multi-reticle-thrive-hd-red-dot/?ai_rec=THDMM21 |
 | THDMP120 | https://zerotech.com.au/p/1x-micro-prism-scope-with-variable-mounting-heights-thrive-hd-red-dot/?ai_rec=THDMP120 |
 | THDMP120-FDE | https://zerotech.com.au/p/1x-micro-prism-scope-with-variable-mounting-heights-fde/?ai_rec=THDMP120-FDE |
 | THDP1424 | https://zerotech.com.au/p/1-4x24-variable-prism/?ai_rec=THDP1424 |
+| THDRS26 | https://zerotech.com.au/p/thrive-hd-reflex-sight-3-moa/?ai_rec=THDRS26 |
+| THDRS26-FDE | https://zerotech.com.au/p/thrive-hd-reflex-sight-3-moa-fde/?ai_rec=THDRS26-FDE |
 | THDRS28GH | https://zerotech.com.au/p/green-dot-reflex-sight-3-moa-with-high-mount-red-dot/?ai_rec=THDRS28GH |
 | THDRS28GL | https://zerotech.com.au/p/green-dot-reflex-sight-3-moa-with-low-mount-red-dot/?ai_rec=THDRS28GL |
 | THDRS28H | https://zerotech.com.au/p/thrive-hd-red-dot-reflex-sight-3-moa-high-mount/?ai_rec=THDRS28H |
@@ -65,6 +71,20 @@ Canonical product-page URLs on the Australian site (zerotech.com.au), keyed by *
 | THDRS28ML | https://zerotech.com.au/p/reflex-sight-multi-reticle-with-low-mount-thrive-hd-red-dot/?ai_rec=THDRS28ML |
 | THRD22 | https://zerotech.com.au/p/red-dot-1x22-digital-2-moa-high-low-mount/?ai_rec=THRD22 |
 | THRD25 | https://zerotech.com.au/p/red-dot-3-moa/?ai_rec=THRD25 |
+| THX3124 | https://zerotech.com.au/p/3-12x44-zeroplex-thrive-x-riflescope/?ai_rec=THX3124 |
+| THX3124M | https://zerotech.com.au/p/3-12x44-mildot-thrive-x-riflescope/?ai_rec=THX3124M |
+| THX3940 | https://zerotech.com.au/p/3-9x40-zeroplex-thrive-x-riflescope/?ai_rec=THX3940 |
+| THX4165 | https://zerotech.com.au/p/4-16x50-zeroplex-thrive-x-riflescope/?ai_rec=THX4165 |
+| THX4165M | https://zerotech.com.au/p/4-16x50-mildot-thrive-x-riflescope/?ai_rec=THX4165M |
+| THXB3124G | https://zerotech.com.au/p/3-12x44-g4-thrive-x-riflescope/?ai_rec=THXB3124G |
+| THXB3124P3 | https://zerotech.com.au/p/3-12x44-phr-3-thrive-x-riflescope/?ai_rec=THXB3124P3 |
+| THXB3124P4 | https://zerotech.com.au/p/3-12x44-phr-4-thrive-x-riflescope/?ai_rec=THXB3124P4 |
+| THXB3940G | https://zerotech.com.au/p/3-9x40-g4-thrive-x-riflescope/?ai_rec=THXB3940G |
+| THXB3940P3 | https://zerotech.com.au/p/3-9x40-phr-3-thrive-x-riflescope/?ai_rec=THXB3940P3 |
+| THXB3940P4 | https://zerotech.com.au/p/3-9x40-phr-4-thrive-x-riflescope/?ai_rec=THXB3940P4 |
+| THXB4165G | https://zerotech.com.au/p/4-16x50-g4-thrive-x-riflescope/?ai_rec=THXB4165G |
+| THXB4165P3 | https://zerotech.com.au/p/4-16x50-phr-3-thrive-x-riflescope/?ai_rec=THXB4165P3 |
+| THXB4165P4 | https://zerotech.com.au/p/4-16x50-phr-4-thrive-x-riflescope/?ai_rec=THXB4165P4 |
 | TR1045ED | https://zerotech.com.au/p/10x45ed/?ai_rec=TR1045ED |
 | TR1556ED | https://zerotech.com.au/p/15x56ed/?ai_rec=TR1556ED |
 | TR206080F | https://zerotech.com.au/p/20-60x80mm-optimised-spotting-reticle/?ai_rec=TR206080F |
@@ -81,11 +101,16 @@ Canonical product-page URLs on the Australian site (zerotech.com.au), keyed by *
 | TR5306FT3-IR | https://zerotech.com.au/p/5-30x56mm-tremor3-illuminated-trace-advanced-riflescope/?ai_rec=TR5306FT3-IR |
 | TR5306RMG3-IR | https://zerotech.com.au/p/5-30x56ed-rmg3-illuminated/?ai_rec=TR5306RMG3-IR |
 | TR845ED | https://zerotech.com.au/p/8x45ed/?ai_rec=TR845ED |
+| TRA1042ED | https://zerotech.com.au/p/trace-advanced-ed-10x42-peak-design-edition/?ai_rec=TRA1042ED |
+| TRA842ED | https://zerotech.com.au/p/trace-advanced-ed-8x42-peak-design-edition/?ai_rec=TRA842ED |
 | TRAE28 | https://zerotech.com.au/p/halo-enclosed-aspherical-reflex-sight-3-moa-trace-red-dot/?ai_rec=TRAE28 |
 | TRAE28-FDE | https://zerotech.com.au/p/red-dot-fde-h-a-l-o-enclosed-aspherical-reflex-sight/?ai_rec=TRAE28-FDE |
 | TRAE28G | https://zerotech.com.au/p/green-dot-h-a-l-o-enclosed-aspherical-reflex-sight/?ai_rec=TRAE28G |
 | TRED11024F-IR | https://zerotech.com.au/p/1-10x24-lpvo-rmg-l-illuminated-trace-ed-riflescope/?ai_rec=TRED11024F-IR |
 | TRRD125 | https://zerotech.com.au/p/ras-1x25-digital-red-dot-2-moa-trace-red-dot/?ai_rec=TRRD125 |
+| TRX5256F-IR | https://zerotech.com.au/p/5-25x56-ffp-rmg-h-illuminated-trace-x-riflescope/?ai_rec=TRX5256F-IR |
+| TRX5256FM-IR | https://zerotech.com.au/p/5-25x56-ffp-rmg-h-moa-illuminated-trace-x-riflescope/?ai_rec=TRX5256FM-IR |
+| TRX5256RMG3-IR | https://zerotech.com.au/p/5-25x56-ffp-rmg-3-illuminated-trace-x-riflescope/?ai_rec=TRX5256RMG3-IR |
 | VG1042 | https://zerotech.com.au/p/10x42-vengeance-binoculars/?ai_rec=VG1042 |
 | VG1042-M | https://zerotech.com.au/p/10x42-vengeance-marine-waterproof-binoculars/?ai_rec=VG1042-M |
 | VG1042ED | https://zerotech.com.au/p/10x42-ed-vengeance-binoculars/?ai_rec=VG1042ED |
@@ -141,4 +166,4 @@ Canonical product-page URLs on the Australian site (zerotech.com.au), keyed by *
 | ZTRMSB01 | https://zerotech.com.au/p/micro-reflex-rmsc-low-picatinny-mount/?ai_rec=ZTRMSB01 |
 | ZTRMSB02 | https://zerotech.com.au/p/micro-reflex-rmsc-high-picatinny-mount/?ai_rec=ZTRMSB02 |
 
-*Last updated: 2026-09-10 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-10-28 · Source: ZeroTech ZT Product KB*

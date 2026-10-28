@@ -2,7 +2,7 @@
 title: ZeroTech Product Knowledge Base — README
 brand: ZeroTech
 owner: mj@tsaoutdoors.com.au (TSA Outdoors)
-last_updated: 2026-06-26
+last_updated: 2026-10-26
 ---
 
 # ZeroTech Product Knowledge Base (ZT Product Repo)
@@ -68,7 +68,7 @@ Surfaced while building the KB; worth a check by the product team, none blocking
 - **Series naming:** Trace red dots use `series: Trace`; the Trace Advanced spotting scope uses `series: Trace Advanced` — align if a single convention is preferred.
 
 ## Pending / not yet built
-- **Red dots:** THDRS26 and THDRS26-FDE (new; source currently has transcript only) — to be added when spec/Data are available. Series: Thrive HD; will share the Thrive HD RS28 manual reference.
+- None at present.
 
 ## Maintenance notes
 - One file per SKU. Editing is done by replacing the file (there is no in-place edit step); remove superseded duplicates when replacing.
@@ -77,4 +77,4 @@ Surfaced while building the KB; worth a check by the product team, none blocking
 - New products/categories slot into the existing structure and don't require editing this README.
 
 ---
-*Last updated: 2026-06-26 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-10-26 · Source: ZeroTech ZT Product KB*

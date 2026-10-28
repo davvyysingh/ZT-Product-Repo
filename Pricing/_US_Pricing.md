@@ -3,7 +3,7 @@ category: Pricing
 market: United States
 currency: USD
 price_basis: Regular price (RRP/MSRP); indicative, subject to change
-last_updated: 2026-09-10
+last_updated: 2026-10-28
 source: WooCommerce export (US Price.csv)
 ---
 
@@ -51,12 +51,18 @@ All prices in **USD**. Prices are the current regular price and are indicative o
 | THD206085ED | 999.00 |
 | THD825 | 270.00 |
 | THD842 | 571.00 |
+| THDB2155P | 649.00 |
+| THDB2155P-IR | 699.00 |
+| THDB6245P | 549.00 |
+| THDB6245P-IR | 599.00 |
 | THDM21 | 249.99 |
 | THDM21G | 239.99 |
 | THDMM21 | 249.00 |
 | THDMP120 | 349.00 |
 | THDMP120-FDE | 349.00 |
 | THDP1424 | 599.00 |
+| THDRS26 | 199.00 |
+| THDRS26-FDE | 199.00 |
 | THDRS28GH | 399.00 |
 | THDRS28GL | 399.00 |
 | THDRS28H | 349.00 |
@@ -66,6 +72,20 @@ All prices in **USD**. Prices are the current regular price and are indicative o
 | THDRS28ML | 399.00 |
 | THRD22 | 199.00 |
 | THRD25 | 249.00 |
+| THX3124 | 279.00 |
+| THX3124M | 279.00 |
+| THX3940 | 219.00 |
+| THX4165 | 329.00 |
+| THX4165M | 329.00 |
+| THXB3124G | 379.00 |
+| THXB3124P3 | 379.00 |
+| THXB3124P4 | 379.00 |
+| THXB3940G | 299.00 |
+| THXB3940P3 | 299.00 |
+| THXB3940P4 | 299.00 |
+| THXB4165G | 419.00 |
+| THXB4165P3 | 419.00 |
+| THXB4165P4 | 419.00 |
 | TR1045ED | 899.00 |
 | TR1556ED | 857.00 |
 | TR206080F | 2499.00 |
@@ -87,6 +107,9 @@ All prices in **USD**. Prices are the current regular price and are indicative o
 | TRAE28G | 399.00 |
 | TRED11024F-IR | 1299.00 |
 | TRRD125 | 349.00 |
+| TRX5256F-IR | 749.00 |
+| TRX5256FM-IR | 749.00 |
+| TRX5256RMG3-IR | 749.00 |
 | VG1042 | 159.00 |
 | VG1042ED | 329.00 |
 | VG1042HD | 269.00 |
@@ -139,4 +162,4 @@ All prices in **USD**. Prices are the current regular price and are indicative o
 | ZTRMSB01 | 12.95 |
 | ZTRMSB02 | 19.95 |
 
-*Last updated: 2026-09-10 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-10-28 · Source: ZeroTech ZT Product KB*

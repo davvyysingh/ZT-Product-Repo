@@ -3,7 +3,7 @@ category: Pricing
 market: Australia
 currency: AUD
 price_basis: Regular price (RRP/MSRP); indicative, subject to change
-last_updated: 2026-09-10
+last_updated: 2026-10-28
 source: WooCommerce export (AU Price.csv)
 ---
 
@@ -51,12 +51,18 @@ All prices in **AUD**. Prices are the current regular price and are indicative o
 | THD206085ED | 1199.00 |
 | THD825 | 329.00 |
 | THD842 | 499.00 |
+| THDB2155P | 899.00 |
+| THDB2155P-IR | 999.00 |
+| THDB6245P | 799.00 |
+| THDB6245P-IR | 899.00 |
 | THDM21 | 249.00 |
 | THDM21G | 249.00 |
 | THDMM21 | 299.00 |
 | THDMP120 | 499.00 |
 | THDMP120-FDE | 499.00 |
 | THDP1424 | 799.00 |
+| THDRS26 | 299.00 |
+| THDRS26-FDE | 299.00 |
 | THDRS28GH | 399.00 |
 | THDRS28GL | 349.00 |
 | THDRS28H | 349.00 |
@@ -66,6 +72,20 @@ All prices in **AUD**. Prices are the current regular price and are indicative o
 | THDRS28ML | 349.00 |
 | THRD22 | 249.00 |
 | THRD25 | 149.00 |
+| THX3124 | 499.00 |
+| THX3124M | 499.00 |
+| THX3940 | 399.00 |
+| THX4165 | 549.00 |
+| THX4165M | 549.00 |
+| THXB3124G | 599.00 |
+| THXB3124P3 | 599.00 |
+| THXB3124P4 | 599.00 |
+| THXB3940G | 499.00 |
+| THXB3940P3 | 499.00 |
+| THXB3940P4 | 499.00 |
+| THXB4165G | 649.00 |
+| THXB4165P3 | 649.00 |
+| THXB4165P4 | 649.00 |
 | TR1045ED | 899.00 |
 | TR1556ED | 999.00 |
 | TR206080F | 2299.00 |
@@ -82,11 +102,16 @@ All prices in **AUD**. Prices are the current regular price and are indicative o
 | TR5306FT3-IR | 3599.00 |
 | TR5306RMG3-IR | 2999.00 |
 | TR845ED | 799.00 |
+| TRA1042ED | 1399.00 |
+| TRA842ED | 1349.00 |
 | TRAE28 | 499.00 |
 | TRAE28-FDE | 529.00 |
 | TRAE28G | 499.00 |
 | TRED11024F-IR | 1699.00 |
 | TRRD125 | 299.00 |
+| TRX5256F-IR | 1299.00 |
+| TRX5256FM-IR | 1299.00 |
+| TRX5256RMG3-IR | 1299.00 |
 | VG1042 | 169.00 |
 | VG1042-M | 179.99 |
 | VG1042ED | 399.00 |
@@ -144,4 +169,4 @@ All prices in **AUD**. Prices are the current regular price and are indicative o
 | ZTRMSB01 | 19.95 |
 | ZTRMSB02 | 29.95 |
 
-*Last updated: 2026-09-10 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-10-28 · Source: ZeroTech ZT Product KB*

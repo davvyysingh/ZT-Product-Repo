@@ -8,13 +8,13 @@ brand: ZeroTech
 color: Black
 manual_ref: —
 has_video: false
-last_updated: 2026-09-04
+last_updated: 2026-10-27
 ---
 
 # ZeroTech Adjustable BDC Turret (ZTA-BDCT)
 
 ## Summary
-A tool-free adjustable elevation turret with five lockable, user-set reference markers for fast field holds while retaining full ¼ MOA markings for precise dialing — factory-fitted on Thrive X BDC and Thrive HD BDC scopes and available separately as an upgrade for compatible ZeroTech Thrive scopes.
+A tool-free adjustable elevation turret with five lockable, user-set reference markers for fast field holds while retaining full ¼ MOA markings (15 MOA per revolution) for precise dialing — the quick-reference ease of a custom distance dial without being locked into one load or set of conditions — factory-fitted on Thrive X BDC and Thrive HD BDC scopes and available separately as an upgrade for compatible ZeroTech Thrive scopes.
 
 ## Specifications
 
@@ -23,9 +23,10 @@ A tool-free adjustable elevation turret with five lockable, user-set reference m
 | Part Number | ZTA-BDCT |
 | Type | Adjustable BDC elevation turret |
 | Adjustment Graduation | ¼ MOA |
+| Elevation per Revolution | 15 MOA |
 | Reference Markers | 5 — individually adjustable and lockable |
 | Marker Adjustment | Tool-free, via the top selector dial |
-| Selector Dial Positions | 1–5 plus a dedicated Locked position (one marker unlocked at a time) |
+| Selector Dial Positions | Locked – 1 – 2 – 3 – 4 – 5 – Locked; align the number with the white index mark to unlock that marker only (the other four stay locked) |
 | Standard Turret Function | Retained — full standard MOA elevation markings for conventional precise dialing |
 | Fitment | Thrive X BDC and Thrive HD BDC scope models; upgrade for compatible ZeroTech Thrive scopes (see Compatibility) |
 | Configuration Option | BDC scope models also ship with a standard capped turret for a traditional setup |
@@ -33,12 +34,13 @@ A tool-free adjustable elevation turret with five lockable, user-set reference m
 
 ## Key features
 - **Five adjustable reference markers** — set your own distance or ballistic reference points (e.g. 100/200/300/400/500 m or yd, field distances, calling lanes, or any MOA value).
-- **Tool-free marker adjustment** — set each marker using the top selector dial; no tools required.
-- **Dedicated lock position** — secures all five markers in place to prevent accidental movement in the field.
+- **Tool-free marker adjustment** — turn the top selector dial to a marker number (aligned with the white index mark) and that marker spins freely while the other four stay locked; no tools required.
+- **Dedicated lock position** — a Locked position at either end of the dial secures all five markers so they cannot be bumped; markers can still be changed on the fly, without a toolkit, a trip back to the truck or a bench.
 - **Standard ¼ MOA markings retained** — dial precisely to a full ballistic solution like a conventional exposed turret; the BDC markers are an added fast-reference layer.
-- **Not tied to one load or environment** — reset the markers when the rifle, ammunition, elevation, or conditions change, without replacing the turret.
-- **Ideal for hunters** using known distances, rangefinders, or ballistic calculators.
-- **Supplied with a standard capped turret** on BDC scope models, so the scope can be converted back to a traditional capped configuration.
+- **Not tied to one load or environment** — unlike a laser-engraved custom distance dial, the markers are reset when the rifle, ammunition lot, altitude or conditions change, and the standard MOA scale is always there for a custom dial from fresh data.
+- **Ideal for hunters** using known distances, rangefinders, or ballistic calculators — pre-set markers to several glassed clearings so a shot can be taken quickly when game steps out; for known-distance competition stages, set the five targets before stepping up; and for new or young shooters, "dial to the 2" is easier than a ballistic solution.
+- **Supplied with a standard capped turret** on BDC scope models, so the scope can be converted back to a traditional capped configuration; the standard turret uses a slightly shorter keeper peg than the taller BDC turret. Both slip tool-free via the keeper slot (a coin or brass case works) for re-zeroing.
+- **Low profile, light** — only about an ounce heavier than the standard turret and not tall enough to snag.
 - **Available separately** as an upgrade turret for compatible ZeroTech scopes already in the field.
 
 ## What's in the box
@@ -49,11 +51,10 @@ Which ZeroTech riflescopes accept the Adjustable BDC Turret, and any serial-numb
 
 **Quick rules**
 
-1. **Trace family (Trace, Trace ED, Trace Advanced): not compatible** — every model, no exceptions, no serial check needed.
+1. **Trace family (Trace, Trace ED, Trace Advanced, Trace X): not compatible** — every model, no exceptions, no serial check needed.
 2. **Vengeance family (Vengeance, Vengeance HD): not compatible** — every model, no exceptions, no serial check needed.
 3. **Thrive family: depends on the exact SKU** — see the tables below (44 SKUs: 30 compatible, 14 not).
 4. **Compatible Thrive Classic models additionally require the scope's serial number to be TT240001 or later.** Compatible Thrive HD and Thrive X models have no serial requirement.
-5. Trace X is not yet launched and is intentionally not covered here.
 
 **Serial number rule (compatible Thrive Classic only)**
 
@@ -121,7 +122,7 @@ Which ZeroTech riflescopes accept the Adjustable BDC Turret, and any serial-numb
 | THXB4165P4 | Yes | None — all serials |
 | THXB4165G | Yes | None — all serials |
 
-**Trace (Trace, Trace ED, Trace Advanced):** not compatible — no serial exceptions.
+**Trace (Trace, Trace ED, Trace Advanced, Trace X):** not compatible — no serial exceptions.
 **Vengeance (Vengeance, Vengeance HD):** not compatible — no serial exceptions.
 
 Customer self-check: resources.zerotechoptics.com/accessories/turrets.
@@ -130,4 +131,4 @@ Customer self-check: resources.zerotechoptics.com/accessories/turrets.
 zerotech, accessory, turret, bdc-turret, adjustable-bdc-turret, zta-bdct, elevation-turret, exposed-turret, moa, five-markers, tool-free, lockable, thrive, thrive-hd, thrive-x, hunting, ballistic-turret, upgrade-turret
 
 ---
-*Last updated: 2026-09-04 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-10-27 · Source: ZeroTech ZT Product KB*

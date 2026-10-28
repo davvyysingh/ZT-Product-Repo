@@ -2,7 +2,7 @@
 category: Product URLs
 market: United States
 site: https://zerotechoptics.com
-last_updated: 2026-08-04
+last_updated: 2026-10-28
 source: WordPress export (zerotechopticsusa.WordPress.2026-08-03.xml)
 ---
 
@@ -50,12 +50,18 @@ Canonical product-page URLs on the US site (zerotechoptics.com), keyed by **SKU*
 | THD206085ED | https://zerotechoptics.com/product/20-60x85mm-ed/?ai_rec=THD206085ED |
 | THD825 | https://zerotechoptics.com/product/8x25-thrive-hd-binoculars/?ai_rec=THD825 |
 | THD842 | https://zerotechoptics.com/product/8x42-thrive-hd-binoculars/?ai_rec=THD842 |
+| THDB2155P | https://zerotechoptics.com/product/2-5-15x50mm-phr-2-thrive-hd-riflescope/?ai_rec=THDB2155P |
+| THDB2155P-IR | https://zerotechoptics.com/product/2-5-15x50mm-phr-2-illuminated-thrive-hd-riflescope/?ai_rec=THDB2155P-IR |
+| THDB6245P | https://zerotechoptics.com/product/6-24x50mm-phr-2-thrive-hd-riflescope/?ai_rec=THDB6245P |
+| THDB6245P-IR | https://zerotechoptics.com/product/6-24x50mm-phr-2-illuminated-thrive-hd-riflescope/?ai_rec=THDB6245P-IR |
 | THDM21 | https://zerotechoptics.com/product/red-dot-micro-reflex-sight-3-moa/?ai_rec=THDM21 |
 | THDM21G | https://zerotechoptics.com/product/green-dot-micro-reflex-sight/?ai_rec=THDM21G |
 | THDMM21 | https://zerotechoptics.com/product/red-dot-micro-reflex-sight-multi-reticle/?ai_rec=THDMM21 |
 | THDMP120 | https://zerotechoptics.com/product/1x-micro-prism-scope-with-variable-mounting-heights-thrive-hd-red-dot/?ai_rec=THDMP120 |
 | THDMP120-FDE | https://zerotechoptics.com/product/thrive-hd-micro-prism-1x-prism-dot-reticle-illuminated-fde/?ai_rec=THDMP120-FDE |
 | THDP1424 | https://zerotechoptics.com/product/1-4x24-variable-prism/?ai_rec=THDP1424 |
+| THDRS26 | https://zerotechoptics.com/product/thrive-hd-red-dot-reflex-sight-3-moa/?ai_rec=THDRS26 |
+| THDRS26-FDE | https://zerotechoptics.com/product/thrive-hd-red-dot-reflex-sight-3-moa-fde/?ai_rec=THDRS26-FDE |
 | THDRS28GH | https://zerotechoptics.com/product/green-dot-reflex-sight-3-moa-with-high-mount/?ai_rec=THDRS28GH |
 | THDRS28GL | https://zerotechoptics.com/product/green-dot-reflex-sight-3-moa-with-low-mount/?ai_rec=THDRS28GL |
 | THDRS28H | https://zerotechoptics.com/product/red-dot-reflex-sight-3-moa-w-high-mount/?ai_rec=THDRS28H |
@@ -65,6 +71,20 @@ Canonical product-page URLs on the US site (zerotechoptics.com), keyed by **SKU*
 | THDRS28ML | https://zerotechoptics.com/product/red-dot-reflex-sight-multi-reticle-with-low-mount/?ai_rec=THDRS28ML |
 | THRD22 | https://zerotechoptics.com/product/thrive-hd-digital-1x22-red-dot-2-moa/?ai_rec=THRD22 |
 | THRD25 | https://zerotechoptics.com/product/red-dot-moa-3-thrive/?ai_rec=THRD25 |
+| THX3124 | https://zerotechoptics.com/product/3-12x44mm-zeroplex-thrive-x-riflescope/?ai_rec=THX3124 |
+| THX3124M | https://zerotechoptics.com/product/3-12x44mm-mildot-thrive-x-riflescope/?ai_rec=THX3124M |
+| THX3940 | https://zerotechoptics.com/product/3-9x40mm-zeroplex-thrive-x-riflescope/?ai_rec=THX3940 |
+| THX4165 | https://zerotechoptics.com/product/4-16x50mm-zeroplex-thrive-x-riflescope/?ai_rec=THX4165 |
+| THX4165M | https://zerotechoptics.com/product/4-16x50mm-mildot-thrive-x-riflescope/?ai_rec=THX4165M |
+| THXB3124G | https://zerotechoptics.com/product/3-12x44mm-g4-thrive-x-riflescope/?ai_rec=THXB3124G |
+| THXB3124P3 | https://zerotechoptics.com/product/3-12x44mm-phr-3-thrive-x-riflescope/?ai_rec=THXB3124P3 |
+| THXB3124P4 | https://zerotechoptics.com/product/3-12x44mm-phr-4-thrive-x-riflescope/?ai_rec=THXB3124P4 |
+| THXB3940G | https://zerotechoptics.com/product/3-9x40mm-g4-thrive-x-riflescope/?ai_rec=THXB3940G |
+| THXB3940P3 | https://zerotechoptics.com/product/3-9x40mm-phr-3-thrive-x-riflescope/?ai_rec=THXB3940P3 |
+| THXB3940P4 | https://zerotechoptics.com/product/3-9x40mm-phr-4-thrive-x-riflescope/?ai_rec=THXB3940P4 |
+| THXB4165G | https://zerotechoptics.com/product/4-16x50mm-g4-thrive-x-riflescope/?ai_rec=THXB4165G |
+| THXB4165P3 | https://zerotechoptics.com/product/4-16x50mm-phr-3-thrive-x-riflescope/?ai_rec=THXB4165P3 |
+| THXB4165P4 | https://zerotechoptics.com/product/4-16x50mm-phr-4-thrive-x-riflescope/?ai_rec=THXB4165P4 |
 | TR1045ED | https://zerotechoptics.com/product/10x45ed/?ai_rec=TR1045ED |
 | TR1556ED | https://zerotechoptics.com/product/15x56ed/?ai_rec=TR1556ED |
 | TR206080F | https://zerotechoptics.com/product/20-60x80mm/?ai_rec=TR206080F |
@@ -86,6 +106,9 @@ Canonical product-page URLs on the US site (zerotechoptics.com), keyed by **SKU*
 | TRAE28G | https://zerotechoptics.com/product/trace-h-a-l-o-reflex-sight-green-3-moa/?ai_rec=TRAE28G |
 | TRED11024F-IR | https://zerotechoptics.com/product/1-10x24-lpvo-rmg-l-illuminated-trace-ed-riflescope/?ai_rec=TRED11024F-IR |
 | TRRD125 | https://zerotechoptics.com/product/ras-1x25-digital-red-dot-2-moa-trace-red-dot/?ai_rec=TRRD125 |
+| TRX5256F-IR | https://zerotechoptics.com/product/5-25x56mm-rmg-h-mrad-illuminated-trace-x-riflescope/?ai_rec=TRX5256F-IR |
+| TRX5256FM-IR | https://zerotechoptics.com/product/5-25x56mm-rmg-h-moa-illuminated-trace-x-riflescope/?ai_rec=TRX5256FM-IR |
+| TRX5256RMG3-IR | https://zerotechoptics.com/product/5-25x56mm-rmg-3-illuminated-trace-x-riflescope/?ai_rec=TRX5256RMG3-IR |
 | VG1042 | https://zerotechoptics.com/product/10x42/?ai_rec=VG1042 |
 | VG1042ED | https://zerotechoptics.com/product/10x42-ed/?ai_rec=VG1042ED |
 | VG1042HD | https://zerotechoptics.com/product/10x42-hd/?ai_rec=VG1042HD |
@@ -137,4 +160,4 @@ Canonical product-page URLs on the US site (zerotechoptics.com), keyed by **SKU*
 | ZTRMSB01 | https://zerotechoptics.com/product/micro-reflex-rmsc-low-picatinny-mount/?ai_rec=ZTRMSB01 |
 | ZTRMSB02 | https://zerotechoptics.com/product/micro-reflex-rmsc-high-picatinny-mount/?ai_rec=ZTRMSB02 |
 
-*Last updated: 2026-08-04 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-10-28 · Source: ZeroTech ZT Product KB*

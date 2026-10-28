@@ -3,7 +3,7 @@ category: Brand
 title: ZeroTech Brand, Range and Support Reference
 brand: ZeroTech
 applies_to: All ZeroTech products
-last_updated: 2026-09-10
+last_updated: 2026-10-28
 ---
 
 # ZeroTech — Brand, Range and Support Reference
@@ -90,6 +90,42 @@ Things ZeroTech will always do and never compromise on.
 
 The families are not a price ladder. Trace sits above the other two, but Thrive and Vengeance are a choice of purpose rather than a step up or down, and their prices overlap.
 
+Thrive, Trace and Vengeance are family names, and each is also the name of its family's original series. To tell the base series from the family we call it Classic — Thrive Classic, Vengeance Classic; the original Trace riflescopes are simply Trace — and the later series carry their own name: HD, X, Advanced, ED.
+
+## Series within each family
+
+Each family holds several series. They are different configurations for different needs, not grades of quality, and they are sold alongside each other.
+
+**Thrive family — made for the hunt**
+
+- **Thrive (Classic) — essential performance for everyday shooters.** For hunters and shooters who want quality and reliability without breaking the bank: excellent clarity and durability, a straightforward design that suits beginners and seasoned shooters alike, from the backcountry to the range.
+- **Thrive HD — enhanced clarity and features for serious hunters.** Takes Thrive's robust performance to the next level with higher-definition glass for sharper, clearer images across the magnification range, for hunters who need the optic to perform at dawn and dusk. Superior glass and precision at an affordable price.
+- **Thrive X — dependable simplicity, built lighter.** The lighter, refined evolution of the Thrive line, with a low-glare matte finish, for the backcountry hunter who counts every gram. Offered two ways: capped-turret models with a clean traditional reticle for shooters who want nothing to adjust, and models that ship with the Adjustable BDC Turret fitted and a glass-etched reticle, with the standard capped turret in the box to convert back.
+- **Thrive HD (Adjustable BDC Turret models) — your own distances on the dial.** Thrive HD glass and illuminated-reticle options paired with the field-configurable Adjustable BDC Turret: five reference markers set from your own confirmed drops, the full standard scale still underneath, and the standard capped turret in the box to convert back. For the hunter who wants range-confirmed distances ready to dial.
+
+**Vengeance family — value without compromise**
+
+- **Vengeance (Classic) — versatile, feature-rich optics for every shooter.** Features typically found in higher-priced models, for hunting, target shooting and competitive events, at a price that keeps them accessible to shooters of all levels.
+- **Vengeance HD** — the higher-definition glass variant of selected Vengeance models, with the same value positioning.
+
+**Trace family — built for distance**
+
+- **Trace — precision and reliability for demanding conditions.** Long-range magnification ranges, high-quality optics and durable construction for backcountry hunting and precision shooting sports, with advanced reticles for pinpoint precision and fast target acquisition. For shooters who need a rugged, dependable optic in extreme environments.
+- **Trace Advanced — elite optics for the most discerning shooters.** The pinnacle of ZeroTech's optical engineering: premium Japanese glass, advanced reticles and precision turret systems for long-range shooting and competitive events, for shooters who refuse to compromise.
+- **Trace ED** — Trace models built around extra-low dispersion glass.
+- **Trace X — precision capability without the top-end price.** First-focal-plane long-range scopes with zero-stop turrets, a 34mm tube and a crisp optical system built around a German Schott glass element, with MRAD and MOA reticle options and reticle illumination — the Trace family's precision feature set within reach of more shooters. Trace X sits above Trace and below Trace Advanced.
+
+Binoculars, red dots, prisms and spotting scopes follow the same families and use the family name with HD or ED where a higher tier exists.
+
+## How we describe the range
+
+- The series within a family are different configurations, not grades. A price difference is explained by what the dearer series adds, never by what the other lacks.
+- Models that continue alongside a newer series are proven in the field. Never "old", "basic", "outdated" or "clearance".
+- Use exact names: "ZeroTech Triple-A Lifetime Warranty"; "Adjustable BDC Turret"; reticle names as written in the product files.
+- State what a product does and why it matters. No hype — not "game changer", "revolutionary", "unmatched" or "best-in-class" — and no promised outcomes: an optic gives readiness and reference, not guaranteed hits.
+- Be honest about design limits, and explain the intent behind them.
+- Specifications, compatibility, pricing and what's in the box come from the product and reference files, not from this document.
+
 ## The variants
 
 - **Classic** — the standard build of a line, and its entry point. The established configuration, with the controls and reticles most shooters are already used to. A model name without a variant suffix is the Classic.
@@ -106,4 +142,4 @@ Which products carry which variant is held in the product files, not here.
 **Contact.** Australia and international: sales@zerotech.com.au, +612 9938 3244. United States: sales@zerotechoptics.com, 615-674-4755. Warranty claims are handled through the same channels.
 
 ---
-*Last updated: 2026-09-10 · Source: ZeroTech ZT Product KB*
+*Last updated: 2026-10-28 · Source: ZeroTech ZT Product KB*
